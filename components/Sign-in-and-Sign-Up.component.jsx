@@ -1,9 +1,13 @@
 import React from "react";
 import { View, Text, Image, StyleSheet, TouchableOpacity } from "react-native";
+import { LinearGradient } from "expo-linear-gradient";
 
 const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
   return (
-    <View style={styles.maincontainer}>
+    <LinearGradient
+      colors={["#0A0E18", "#2E425D"]}
+      style={styles.maincontainer}
+    >
       <View>
         <View style={styles.imgContainter}>
           <Image
@@ -32,14 +36,14 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
             </Text>
           </TouchableOpacity>
         </View>
-        <View>
+        <View style={{ padding: 4 }}>
           <Image
             style={{ height: 35 }}
             source={require("../assets/Olango.png")}
           />
         </View>
       </View>
-    </View>
+    </LinearGradient>
   );
 };
 
@@ -47,11 +51,9 @@ export default SignInAndSignUp;
 
 const styles = StyleSheet.create({
   maincontainer: {
+    padding: 16,
     flex: 1,
-    backgroundColor: "#0A0E18",
-    alignItems: "center",
-    justifyContent: "flex-end",
-    padding: 16
+    justifyContent: "flex-end"
   },
   imgContainter: {
     height: 87,
