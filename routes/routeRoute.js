@@ -2,16 +2,21 @@ import * as React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import signInScreen from "../screens/signInScreen";
-import signOutScreen from "../screens/signOutScreen";
+import signUpScreen from "../screens/signUpScreen";
 
 const Stack = createStackNavigator();
 
 function Navigator() {
   return (
-    <NavigationContainer initialRouteName="SignOut">
-      <Stack.Navigator>
+    <NavigationContainer>
+      <Stack.Navigator
+        screenOptions={{
+          header: () => null
+        }}
+        initialRouteName="SignIn"
+      >
         <Stack.Screen name="SignIn" component={signInScreen} />
-        <Stack.Screen name="SignOut" component={signOutScreen} />
+        <Stack.Screen name="SignUp" component={signUpScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

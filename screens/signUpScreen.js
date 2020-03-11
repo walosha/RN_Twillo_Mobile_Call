@@ -5,8 +5,9 @@ const signInScreen = ({ navigation }) => {
   return (
     <SignInAndSignUp
       navigation={navigation}
-      mainText="Welcome back to Olango"
-      text="In"
+      mainText="Choose the best option that suits you"
+      text="Up"
+      hide
       route="SignUp"
     />
   );
