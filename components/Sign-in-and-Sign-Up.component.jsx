@@ -12,7 +12,7 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
         <View style={styles.imgContainter}>
           <Image
             style={{ height: "100%", width: "30%" }}
-            source={require("../assets/icon.png")}
+            source={require("../assets/images/icon.png")}
           />
         </View>
         <View style={styles.mainTextContainer}>
@@ -39,7 +39,7 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
         <View style={{ padding: 4 }}>
           <Image
             style={{ height: 35 }}
-            source={require("../assets/Olango.png")}
+            source={require("../assets/images/Olango.png")}
           />
         </View>
       </View>
@@ -64,7 +64,8 @@ const styles = StyleSheet.create({
   },
   mainText: {
     color: "#F5EDED",
-    fontSize: 27
+    fontSize: 27,
+    fontFamily: "PlayfairDisplay-Italic"
   },
   authContainter: {
     marginVertical: 18
@@ -81,10 +82,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     paddingVertical: 13,
     backgroundColor: "#F5EDED",
-    borderRadius: 22
+    borderRadius: 22,
+    fontFamily: "PlayfairDisplay-Medium"
   },
   text: {
     color: "#fff",
-    textAlign: "center"
+    textAlign: "center",
+    fontFamily: "PlayfairDisplay-BlackItalic"
   }
 });
