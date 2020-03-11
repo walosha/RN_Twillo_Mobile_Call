@@ -7,8 +7,8 @@ const signInScreen = ({ navigation }) => {
       navigation={navigation}
       mainText="Choose the best option that suits you"
       text="Up"
-      hide
-      route="SignUp"
+      route="LogUpForm"
+      hide="SignIn"
     />
   );
 };

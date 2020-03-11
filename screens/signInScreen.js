@@ -7,7 +7,8 @@ const signInScreen = ({ navigation }) => {
       navigation={navigation}
       mainText="Welcome back to Olango"
       text="In"
-      route="SignUp"
+      route="LogInForm"
+      hide="SignUp"
     />
   );
 };

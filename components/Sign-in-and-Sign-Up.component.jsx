@@ -24,10 +24,12 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
           >
             <Text style={styles.signInText}>Log {text} Using Email</Text>
           </TouchableOpacity>
-          <TouchableOpacity onPress={() => navigation.navigate(route)}>
-            {hide ? null : (
-              <Text style={styles.text}>you don't have an account ?</Text>
-            )}
+          <TouchableOpacity onPress={() => navigation.navigate(hide)}>
+            <Text style={styles.text}>
+              {hide === "SignUp"
+                ? "Register here !"
+                : "you already have an account ?"}
+            </Text>
           </TouchableOpacity>
         </View>
         <View>
