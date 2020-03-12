@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useContext } from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import FormInput from "../components/FormInputs";
 import HeaderNavigation from "../components/HeaderNavugation";
@@ -8,6 +8,8 @@ export default function LogInForm({ navigation }) {
   const [values, setValues] = useState({ email: "", password: "" });
   const [Loading, setLoading] = useState(false);
 
+  const { signIn } = useContext(AuthContext);
+
   function onChange(type, e) {
     setValues({ ...values, [type]: e });
   }
@@ -15,8 +17,9 @@ export default function LogInForm({ navigation }) {
   const onSubmit = function() {
     if (!Loading) {
       setLoading(true);
+      signIn(values);
       setTimeout(function() {
-        navigation.navigate("SignIn");
+        navigation.navigate("HomeScreen");
       }, 5000);
     }
   };
@@ -41,6 +44,7 @@ export default function LogInForm({ navigation }) {
           <Button
             onSubmit={onSubmit}
             color
+            route="HomeScreen"
             buttonText={Loading ? "Loading...." : "Log In"}
           />
           {Loading ? <View style={styles.overlay}></View> : null}

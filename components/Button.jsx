@@ -1,11 +1,11 @@
 import React from "react";
 import { Text, StyleSheet, TouchableOpacity } from "react-native";
 
-function Button({ buttonText, navigation, route }) {
+function Button({ buttonText, onSubmit }) {
   return (
     <TouchableOpacity
       onPress={() => {
-        navigation.navigate(route);
+        onSubmit();
       }}
       style={styles.buttonContainer}
     >
