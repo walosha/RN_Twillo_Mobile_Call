@@ -12,7 +12,7 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
         <View style={styles.imgContainter}>
           <Image
             style={{ height: "100%", width: "30%" }}
-            source={require("../assets/images/icon.png")}
+            source={require("../assets/icon.png")}
           />
         </View>
         <View style={styles.mainTextContainer}>

@@ -3,6 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import FormInput from "../components/FormInputs";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
+import { AuthContext } from "../context/AuhContext";
 
 export default function LogInForm({ navigation }) {
   const [values, setValues] = useState({ email: "", password: "" });

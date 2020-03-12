@@ -1,4 +1,4 @@
-import React, { useState, useReducer, Fragment } from "react";
+import React, { useReducer, Fragment } from "react";
 import { ActivityIndicator, AsyncStorage } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
@@ -8,6 +8,7 @@ import signUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
 import HomeScreen from "../screens/homeScreen";
+import MyDrawer from "./drawerNavigatorroute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
 
@@ -54,25 +55,28 @@ function Navigator() {
   return (
     <NavigationContainer>
       <AuthContext.Provider value={authContext}>
-        <Stack.Navigator
-          screenOptions={{
-            header: () => null
-          }}
-          initialRouteName="SignIn"
-        >
-          {state.userToken === null ? (
-            // No token found, user isn't signed in
-            <Fragment>
-              <Stack.Screen name="SignIn" component={signInScreen} />
-              <Stack.Screen name="SignUp" component={signUpScreen} />
-              <Stack.Screen name="LogInForm" component={LogInForm} />
-              <Stack.Screen name="LogUpForm" component={LogUpForm} />
-            </Fragment>
-          ) : (
-            //  User is signed in
-            <Stack.Screen name="HomeScreen" component={HomeScreen} />
-          )}
-        </Stack.Navigator>
+        <MyDrawer>
+          <Stack.Navigator
+            screenOptions={{
+              header: () => null
+            }}
+            initialRouteName="SignIn"
+          >
+            {state.userToken === null ? (
+              // No token found, user isn't signed in
+              <Fragment>
+                <Stack.Screen name="SignIn" component={signInScreen} />
+                <Stack.Screen name="SignUp" component={signUpScreen} />
+                <Stack.Screen name="LogInForm" component={LogInForm} />
+                <Stack.Screen name="LogUpForm" component={LogUpForm} />
+              </Fragment>
+            ) : (
+              //  User is signed in
+
+              <Stack.Screen name="HomeScreen" component={HomeScreen} />
+            )}
+          </Stack.Navigator>
+        </MyDrawer>
       </AuthContext.Provider>
     </NavigationContainer>
   );
