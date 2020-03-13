@@ -1,26 +1,18 @@
 import React from "react";
-import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
-import { Ionicons } from "@expo/vector-icons";
+import { View, Text, StyleSheet, TouchableOpacity, Image } from "react-native";
 
-const HeaderNavigation = ({ route, headerText, navigation, color }) => {
-  /* 
-if color is added as a prop the background is red 
-and text is white else navigation gets a default style
-*/
-  const styledNav = color ? { backgroundColor: "#0A0E18", color: "#fff" } : {};
-
+const HeaderNavigation = ({ route, headerText, navigation }) => {
   return (
-    <View style={{ ...styles.headerContainer, ...styledNav }}>
+    <View style={styles.headerContainer}>
       <TouchableOpacity onPress={() => navigation.navigate(route)}>
         <View style={{ paddingLeft: 20, paddingRight: "10%" }}>
-          <Ionicons
-            color={color ? "#fff" : "#000"}
-            name="ios-arrow-back"
-            size={30}
+          <Image
+            style={{ height: 25, width: 25 }}
+            source={require("../assets/images/Hamburger.png")}
           />
         </View>
       </TouchableOpacity>
-      <Text style={{ ...styles.headerText, ...styledNav }}>{headerText}</Text>
+      <Text style={styles.headerText}>{headerText}</Text>
     </View>
   );
 };
@@ -29,7 +21,7 @@ const styles = StyleSheet.create({
   headerContainer: {
     paddingTop: 35,
     flexDirection: "row",
-    backgroundColor: "#fff"
+    backgroundColor: "#f9f7f7"
   },
   headerText: {
     marginLeft: 30,
