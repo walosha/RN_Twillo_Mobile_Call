@@ -3,6 +3,8 @@ import { View, Text, StyleSheet } from "react-native";
 import FormInput from "../components/FormInputs";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
+import AuthHeader from "../components/AuthHeader";
+import LinearGradientBG from "../components/LinearGradientBG";
 
 export default function LogUpForm({ navigation }) {
   const [values, setValues] = useState({
@@ -29,12 +31,13 @@ export default function LogUpForm({ navigation }) {
     }
   }
   return (
-    <View>
-      <HeaderNavigation
+    <LinearGradientBG>
+      {/* <HeaderNavigation
         navigation={navigation}
         route="SignUp"
         headerText="Sign Up"
-      />
+      /> */}
+      <AuthHeader mainText="Okay, let's get you started as fast as possible" />
       <View style={styles.container}>
         <View style={styles.formContainer}>
           <FormInput onChange={e => onChange("email", e)} label="Email" />
@@ -59,7 +62,7 @@ export default function LogUpForm({ navigation }) {
           <Button
             onSubmit={onSubmit}
             color
-            buttonText={Loading ? "Loading...." : " Sign Up with email"}
+            buttonText={Loading ? "Loading...." : " Create account"}
           />
         </View>
         <Text style={{ color: "#aaa", fontSize: 12 }}>
@@ -67,7 +70,7 @@ export default function LogUpForm({ navigation }) {
           marks (like ! and & )
         </Text>
       </View>
-    </View>
+    </LinearGradientBG>
   );
 }
 

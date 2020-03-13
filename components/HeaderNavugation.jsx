@@ -1,9 +1,11 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity, Image } from "react-native";
 
-const HeaderNavigation = ({ route, headerText, navigation }) => {
+const HeaderNavigation = ({ route, headerText, navigation, primary }) => {
+  primary = primary ? "#0A0E18" : "#F5EDED";
+
   return (
-    <View style={styles.headerContainer}>
+    <View style={{ ...styles.headerContainer, backgroundColor: primary }}>
       <TouchableOpacity onPress={() => navigation.navigate(route)}>
         <View style={{ paddingLeft: 20, paddingRight: "10%" }}>
           <Image
@@ -21,7 +23,8 @@ const styles = StyleSheet.create({
   headerContainer: {
     paddingTop: 35,
     flexDirection: "row",
-    backgroundColor: "#F5EDED"
+    backgroundColor: "#F5EDED",
+    marginBottom: 4
   },
   headerText: {
     marginLeft: 30,

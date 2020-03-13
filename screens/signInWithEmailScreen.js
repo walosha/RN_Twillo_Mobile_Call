@@ -4,6 +4,8 @@ import FormInput from "../components/FormInputs";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
 import { AuthContext } from "../context/AuhContext";
+import LinearGradientBG from "../components/LinearGradientBG";
+import AuthHeader from "../components/AuthHeader";
 
 export default function LogInForm({ navigation }) {
   const [values, setValues] = useState({ email: "", password: "" });
@@ -26,12 +28,14 @@ export default function LogInForm({ navigation }) {
   };
 
   return (
-    <View>
+    <LinearGradientBG>
       <HeaderNavigation
         navigation={navigation}
         route="SignIn"
         headerText="Sign In"
+        primary
       />
+      <AuthHeader mainText="Please enter your email address and password" />
       <View style={styles.container}>
         <View style={styles.formContainer}>
           <FormInput onChange={e => onChange("email", e)} label="Email" />
@@ -42,6 +46,9 @@ export default function LogInForm({ navigation }) {
           />
         </View>
         <View>
+          <TouchableOpacity>
+            <Text style={styles.text}>Forgot Password ?</Text>
+          </TouchableOpacity>
           <Button
             onSubmit={onSubmit}
             color
@@ -49,25 +56,23 @@ export default function LogInForm({ navigation }) {
             buttonText={Loading ? "Loading...." : "Log In"}
           />
           {Loading ? <View style={styles.overlay}></View> : null}
-          <TouchableOpacity>
-            <Text style={styles.text}>Forgot Password ?</Text>
-          </TouchableOpacity>
         </View>
       </View>
-    </View>
+    </LinearGradientBG>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    paddingVertical: 30,
+    flex: 1,
+    paddingVertical: 20,
     paddingHorizontal: 19
   },
   formContainer: {
     marginBottom: 30
   },
   text: {
-    color: "red",
+    color: "#fff",
     textAlign: "center"
   },
   overlay: {

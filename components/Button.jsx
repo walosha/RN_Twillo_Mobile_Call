@@ -16,18 +16,18 @@ function Button({ buttonText, onSubmit }) {
 
 const styles = StyleSheet.create({
   buttonContainer: {
-    paddingVertical: 10,
-    paddingHorizontal: 10,
-    backgroundColor: "#0A0E18",
-    borderRadius: 5,
-    borderWidth: 1,
-    borderColor: "#aaa",
-    marginBottom: 25
+    marginHorizontal: 13,
+    marginVertical: 8
   },
   text: {
-    fontSize: 19,
+    color: "#E20405",
+    fontSize: 17,
     textAlign: "center",
-    color: "white"
+    paddingHorizontal: 10,
+    paddingVertical: 13,
+    backgroundColor: "#F5EDED",
+    borderRadius: 22,
+    fontFamily: "PlayfairDisplay-Medium"
   }
 });
 

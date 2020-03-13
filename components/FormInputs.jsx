@@ -16,10 +16,10 @@ export default function FormInput({ label, hideInput, onChange }) {
 
   const labelStyle = {
     position: "absolute",
-    left: 0,
-    top: !isFocused ? 18 : 0,
+    left: 20,
+    top: !isFocused ? 35 : 0,
     fontSize: !isFocused ? 16 : 14,
-    color: !isFocused ? "#aaa" : "#000"
+    color: !isFocused ? "#aaa" : "#fff"
   };
 
   return (
@@ -46,10 +46,14 @@ const styles = StyleSheet.create({
     color: "#c9bfbf"
   },
   input: {
-    borderBottomWidth: 0.6,
+    borderWidth: 0.6,
+    borderRadius: 22,
     height: 26,
     fontSize: 20,
-    color: "#000",
-    borderBottomColor: "#555"
+    color: "#fff",
+    height: 50,
+    width: "auto",
+    borderColor: "#fff",
+    textAlign: "center"
   }
 });

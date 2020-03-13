@@ -1,13 +1,10 @@
 import React from "react";
 import { View, Text, Image, StyleSheet, TouchableOpacity } from "react-native";
-import { LinearGradient } from "expo-linear-gradient";
+import LinearGradientBG from "./LinearGradientBG";
 
 const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
   return (
-    <LinearGradient
-      colors={["#0A0E18", "#2E425D"]}
-      style={styles.maincontainer}
-    >
+    <LinearGradientBG>
       <View>
         <View style={styles.imgContainter}>
           <Image
@@ -43,18 +40,13 @@ const SignInAndSignUp = ({ navigation, mainText, text, route, hide }) => {
           />
         </View>
       </View>
-    </LinearGradient>
+    </LinearGradientBG>
   );
 };
 
 export default SignInAndSignUp;
 
 const styles = StyleSheet.create({
-  maincontainer: {
-    padding: 16,
-    flex: 1,
-    justifyContent: "flex-end"
-  },
   imgContainter: {
     height: 87,
     marginBottom: 10
