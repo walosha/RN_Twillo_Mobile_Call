@@ -1,11 +1,24 @@
 import React from "react";
 import { View, Text, Image, StyleSheet, TouchableOpacity } from "react-native";
 
-const Profile = () => {
+const Profile = ({ navigation }) => {
   return (
     <View style={styles.main}>
-      <TouchableOpacity style={{ marginLeft: "auto" }}>
-        <Text style={{ fontSize: 19, color: "red" }}>X</Text>
+      <TouchableOpacity
+        onPress={navigation.closeDrawer}
+        style={{ marginLeft: "auto" }}
+      >
+        <Text
+          style={{
+            fontSize: 19,
+            color: "red",
+            fontWeight: "bold",
+            paddingHorizontal: 15,
+            paddingVertical: 8
+          }}
+        >
+          X
+        </Text>
       </TouchableOpacity>
       <View style={styles.profile}>
         <View style={styles.imgContainer}>

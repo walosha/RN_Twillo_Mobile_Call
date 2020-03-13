@@ -7,7 +7,7 @@ import signInScreen from "../screens/signInScreen";
 import signUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
-import HomeScreen from "../screens/homeScreen";
+import AuthenticatedRoute from "../routes/AuthenticatedRoute";
 import MyDrawer from "./drawerNavigatorroute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
@@ -23,11 +23,8 @@ function Navigator() {
       try {
         userToken = await AsyncStorage.getItem("userToken");
         dispatch({ type: "RESTORE_TOKEN", token: userToken });
-      } catch (e) {
-        // Restoring token failed
-        console.log("failure");
-        dispatch({ type: "RESTORE_TOKEN", token: null });
-      }
+      } catch (e) {}
+      dispatch({ type: "RESTORE_TOKEN", token: null });
     };
 
     bootstrapAsync();
@@ -55,28 +52,36 @@ function Navigator() {
   return (
     <NavigationContainer>
       <AuthContext.Provider value={authContext}>
-        <MyDrawer>
-          <Stack.Navigator
-            screenOptions={{
-              header: () => null
-            }}
-            initialRouteName="SignIn"
-          >
-            {state.userToken === null ? (
-              // No token found, user isn't signed in
-              <Fragment>
-                <Stack.Screen name="SignIn" component={signInScreen} />
-                <Stack.Screen name="SignUp" component={signUpScreen} />
-                <Stack.Screen name="LogInForm" component={LogInForm} />
-                <Stack.Screen name="LogUpForm" component={LogUpForm} />
-              </Fragment>
-            ) : (
-              //  User is signed in
-
-              <Stack.Screen name="HomeScreen" component={HomeScreen} />
-            )}
-          </Stack.Navigator>
-        </MyDrawer>
+        <Stack.Navigator
+          screenOptions={{
+            header: () => null
+          }}
+          initialRouteName="SignIn"
+        >
+          {state.userToken === null ? (
+            // No token found, user isn't signed in
+            <Fragment>
+              <Stack.Screen
+                initialRouteName={true}
+                name="SignIn"
+                component={signInScreen}
+                options={{
+                  title: "Sign in",
+                  animationTypeForReplace: state.isSignout ? "pop" : "push"
+                }}
+              />
+              <Stack.Screen name="SignUp" component={signUpScreen} />
+              <Stack.Screen name="LogInForm" component={LogInForm} />
+              <Stack.Screen name="LogUpForm" component={LogUpForm} />
+            </Fragment>
+          ) : (
+            //  User is signed in
+            <Stack.Screen
+              name="HomeScreen"
+              component={AuthenticatedRoute}
+            ></Stack.Screen>
+          )}
+        </Stack.Navigator>
       </AuthContext.Provider>
     </NavigationContainer>
   );

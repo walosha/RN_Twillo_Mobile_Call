@@ -46,12 +46,12 @@ const Settings = () => {
 
 const styles = StyleSheet.create({
   main: {
-    backgroundColor: "#f9f7f7",
+    backgroundColor: "#F5EDED",
     flex: 1,
     padding: 16
   },
   header: {
-    backgroundColor: "#f9f7f7",
+    backgroundColor: "#F5EDED",
     flex: 1,
     padding: 10
   },

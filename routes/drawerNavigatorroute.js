@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useContext } from "react";
 import { View, Text, Image } from "react-native";
 import {
   createDrawerNavigator,
@@ -11,10 +11,12 @@ import HomeScreen from "../screens/homeScreen";
 import Settings from "../screens/settings";
 import SavedConversation from "../screens/savedConversation";
 import Contact from "../screens/contact";
+import { AuthContext } from "../context/AuhContext";
 
 const Drawer = createDrawerNavigator();
 
-function CustomDrawerContent(props) {
+function CustomDrawerContent(props, signOut) {
+  const { navigation } = props;
   return (
     <DrawerContentScrollView {...props}>
       <DrawerItem
@@ -25,13 +27,16 @@ function CustomDrawerContent(props) {
           elevation: 5,
           paddingHorizontal: 12
         }}
-        label={() => <Profile />}
+        label={() => <Profile navigation={navigation} />}
       />
       <DrawerItemList {...props} />
       <DrawerItem
         label="Log Out"
         icon={() => <Image source={require("../assets/images/logout.png")} />}
-        onPress={() => props.navigation.navigate("SignIn")}
+        onPress={async () => {
+          await signOut();
+          navigation.navigate("HomeScreen", { screen: "SignIn" });
+        }}
       />
       <DrawerItem
         style={{ flex: 1, justifyContent: "center", alignItems: "center" }}
@@ -47,12 +52,13 @@ function CustomDrawerContent(props) {
 }
 
 export default function MyDrawer() {
+  const { signOut } = useContext(AuthContext);
   return (
     <Drawer.Navigator
-      drawerContent={props => CustomDrawerContent(props)}
+      drawerContent={props => CustomDrawerContent(props, signOut)}
       drawerStyle={{
-        backgroundColor: "#e5dcdc",
-        width: "100%"
+        backgroundColor: "#F5EDED",
+        width: "90%"
       }}
       drawerContentOptions={{
         activeTintColor: "#fff",
