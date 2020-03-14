@@ -40,7 +40,10 @@ export default function LogUpForm({ navigation }) {
       <AuthHeader mainText="Okay, let's get you started as fast as possible" />
       <View style={styles.container}>
         <View style={styles.formContainer}>
-          <FormInput onChange={e => onChange("email", e)} label="Email" />
+          <FormInput
+            onChange={e => onChange("email", e)}
+            label="Your email address"
+          />
           <FormInput
             onChange={e => onChange("password", e)}
             hideInput

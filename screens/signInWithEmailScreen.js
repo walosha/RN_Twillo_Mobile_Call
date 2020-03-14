@@ -38,7 +38,10 @@ export default function LogInForm({ navigation }) {
       <AuthHeader mainText="Please enter your email address and password" />
       <View style={styles.container}>
         <View style={styles.formContainer}>
-          <FormInput onChange={e => onChange("email", e)} label="Email" />
+          <FormInput
+            onChange={e => onChange("email", e)}
+            label="Your email address"
+          />
           <FormInput
             onChange={e => onChange("password", e)}
             hideInput

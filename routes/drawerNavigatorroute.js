@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { View, Text, Image } from "react-native";
+import { Ionicons, AntDesign, Feather } from "@expo/vector-icons";
 import {
   createDrawerNavigator,
   DrawerContentScrollView,
@@ -69,14 +70,15 @@ export default function MyDrawer() {
           borderBottomRightRadius: 17,
           paddingVertical: 8
         },
-        activeBackgroundColor: "#2E425D"
+        activeBackgroundColor: "#2E425D",
+        inactiveTintColor: "#000"
       }}
     >
       <Drawer.Screen
         options={{
           drawerLabel: "Home",
-          drawerIcon: () => (
-            <Image source={require("../assets/images/home.png")} />
+          drawerIcon: ({ color }) => (
+            <Ionicons color={color} name="ios-home" size={30} />
           )
         }}
         name="HomeScreen"
@@ -85,8 +87,8 @@ export default function MyDrawer() {
       <Drawer.Screen
         options={{
           drawerLabel: "Contacts",
-          drawerIcon: () => (
-            <Image source={require("../assets/images/contacts.png")} />
+          drawerIcon: ({ color }) => (
+            <AntDesign color={color} name="contacts" size={30} />
           )
         }}
         name="Contact"
@@ -95,8 +97,8 @@ export default function MyDrawer() {
       <Drawer.Screen
         options={{
           drawerLabel: "SavedConversation",
-          drawerIcon: () => (
-            <Image source={require("../assets/images/record-voice.png")} />
+          drawerIcon: ({ color }) => (
+            <Feather color={color} name="phone-call" size={30} />
           )
         }}
         name="SavedConversation"
@@ -105,8 +107,8 @@ export default function MyDrawer() {
       <Drawer.Screen
         options={{
           drawerLabel: "Settings",
-          drawerIcon: () => (
-            <Image source={require("../assets/images/settings-gear.png")} />
+          drawerIcon: ({ color }) => (
+            <AntDesign color={color} name="setting" size={30} />
           )
         }}
         name="Settings"
