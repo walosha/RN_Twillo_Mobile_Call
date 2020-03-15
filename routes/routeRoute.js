@@ -8,7 +8,6 @@ import signUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
 import AuthenticatedRoute from "../routes/AuthenticatedRoute";
-import MyDrawer from "./drawerNavigatorroute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
 

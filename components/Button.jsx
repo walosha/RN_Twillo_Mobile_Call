@@ -2,16 +2,16 @@ import React from "react";
 import { Text, StyleSheet, TouchableOpacity } from "react-native";
 
 function Button({ buttonText, onSubmit, inverted }) {
-  inverted = inverted ? { backgroundColor: "#fff" } : {};
-  const text = inverted ? { color: "red" } : {};
+  inverted = inverted ? { backgroundColor: "red", color: "#fff" } : {};
+
   return (
     <TouchableOpacity
       onPress={() => {
         onSubmit();
       }}
-      style={{ ...styles.buttonContainer, ...inverted }}
+      style={styles.buttonContainer}
     >
-      <Text style={{ ...styles.text, ...text }}>{buttonText}</Text>
+      <Text style={{ ...styles.text, ...inverted }}>{buttonText}</Text>
     </TouchableOpacity>
   );
 }

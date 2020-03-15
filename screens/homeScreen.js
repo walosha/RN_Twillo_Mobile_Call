@@ -2,7 +2,6 @@ import React from "react";
 import { View, Text, StyleSheet, Picker, TouchableOpacity } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
-import FormInput from "../components/FormInputs";
 
 const HomeScreen = () => {
   return (
@@ -44,11 +43,11 @@ const HomeScreen = () => {
         </View>
         <View>
           <TouchableOpacity style={{ padding: 6 }}>
-            <Text style={styles.inputText}>Add Language</Text>
+            <Text style={styles.addLang}>Add Language</Text>
           </TouchableOpacity>
         </View>
         <View>
-          <Button inverted buttonText="Start" onSubmit={() => {}} />
+          <Button inverted buttonText="START" onSubmit={() => {}} />
         </View>
       </View>
     </View>
@@ -82,6 +81,13 @@ const styles = StyleSheet.create({
   inputText: {
     fontSize: 16,
     color: "#2E425D",
+    fontFamily: "quicksand-Bold"
+  },
+  addLang: {
+    fontSize: 14,
+    color: "#2E423D",
+    padding: 4,
+    textDecorationLine: "underline",
     fontFamily: "quicksand-Bold"
   },
   selectedLang: {

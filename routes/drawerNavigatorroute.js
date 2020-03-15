@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
-import { View, Text, Image } from "react-native";
-import { Ionicons, AntDesign, Feather } from "@expo/vector-icons";
+import { View, Text } from "react-native";
+import { Ionicons, AntDesign, Feather, Entypo } from "@expo/vector-icons";
 import {
   createDrawerNavigator,
   DrawerContentScrollView,
@@ -33,7 +33,7 @@ function CustomDrawerContent(props, signOut) {
       <DrawerItemList {...props} />
       <DrawerItem
         label="Log Out"
-        icon={() => <Image source={require("../assets/images/logout.png")} />}
+        icon={({ color }) => <Entypo color={color} name="log-out" size={30} />}
         onPress={async () => {
           await signOut();
           navigation.navigate("HomeScreen", { screen: "SignIn" });
