@@ -7,6 +7,7 @@ import signInScreen from "../screens/signInScreen";
 import signUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
+import HelpScreen from "../screens/helpScreen";
 import AuthenticatedRoute from "../routes/AuthenticatedRoute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
@@ -75,10 +76,16 @@ function Navigator() {
             </Fragment>
           ) : (
             //  User is signed in
-            <Stack.Screen
-              name="HomeScreen"
-              component={AuthenticatedRoute}
-            ></Stack.Screen>
+            <Fragment>
+              <Stack.Screen
+                name="HomeScreen"
+                component={AuthenticatedRoute}
+              ></Stack.Screen>
+              <Stack.Screen
+                name="HelpScreen"
+                component={HelpScreen}
+              ></Stack.Screen>
+            </Fragment>
           )}
         </Stack.Navigator>
       </AuthContext.Provider>

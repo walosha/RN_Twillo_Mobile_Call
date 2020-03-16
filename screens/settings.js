@@ -33,7 +33,11 @@ const Settings = () => {
             mainText="Caller Preferred Language"
             text="Default: English"
           />
-          <SettingCard mainText="Help" text="Let us help you get started" />
+          <SettingCard
+            route="HelpScreen"
+            mainText="Helps"
+            text="Let us help you get started"
+          />
         </View>
         <View style={{ justifyContent: "center", alignItems: "center" }}>
           <Text style={{ color: "red", fontWeight: "bold" }}>Olango</Text>

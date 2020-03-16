@@ -1,9 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import { View, Text, StyleSheet, Picker, TouchableOpacity } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
+import Modal from "../components/Modal";
 
 const HomeScreen = () => {
+  const [modalVisible, setModalVisible] = useState(false);
+
+  const openModal = () => {
+    setModalVisible(prev => !prev);
+  };
+
   return (
     <View>
       <HeaderNavigation
@@ -11,6 +18,7 @@ const HomeScreen = () => {
         NotificationCount={12}
         headerText="Olango"
       />
+      <Modal openModal={openModal} modalVisible={modalVisible} />
       <View style={styles.headerBG}>
         <Text style={styles.mainText}>Welcome!</Text>
         <Text style={styles.subText}>Let's get you up in seconds</Text>
@@ -43,7 +51,9 @@ const HomeScreen = () => {
         </View>
         <View>
           <TouchableOpacity style={{ padding: 6 }}>
-            <Text style={styles.addLang}>Add Language</Text>
+            <Text onPress={openModal} style={styles.addLang}>
+              Add Language
+            </Text>
           </TouchableOpacity>
         </View>
         <View>
