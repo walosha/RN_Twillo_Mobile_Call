@@ -28,5 +28,11 @@ export default [
     title: "Help Center",
     body:
       "Also customizable, the HelpCenter app has several different layouts you can choose from, so you can find the style that matches your site’s look and feel. Create categories and implement search functionality to help users get to where they need to go.HelpCenter also requires no coding and has a simple setup. Despite being free, reviewers of the app say customer service is responsive and helpful. HelpCenter is free for all users."
+  },
+  {
+    key: "6",
+    title: "Contact Us",
+    body:
+      "27 Ozumba Mbadiwe Road, Victoria Island Lagos. Phone: 0129827272 or email: info@nzenweoforgroup.com"
   }
 ];

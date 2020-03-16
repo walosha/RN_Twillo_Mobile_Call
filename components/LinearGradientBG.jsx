@@ -15,7 +15,7 @@ const LinearGradientBG = ({ children }) => {
 
 const styles = StyleSheet.create({
   maincontainer: {
-    padding: 16,
+    padding: 26,
     flex: 1,
     justifyContent: "flex-end"
   }

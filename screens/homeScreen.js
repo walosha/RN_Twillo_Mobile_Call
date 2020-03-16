@@ -4,7 +4,7 @@ import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
 import Modal from "../components/Modal";
 
-const HomeScreen = () => {
+const HomeScreen = ({ navigation }) => {
   const [modalVisible, setModalVisible] = useState(false);
 
   const openModal = () => {
@@ -14,6 +14,7 @@ const HomeScreen = () => {
   return (
     <View>
       <HeaderNavigation
+        openDrawer={navigation}
         notification
         NotificationCount={12}
         headerText="Olango"

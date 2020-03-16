@@ -14,8 +14,7 @@ const SettingCard = ({ mainText, text, switchBtn, route }) => {
       </View>
       <TouchableOpacity
         onPress={() => {
-          console.log("pressed");
-          navigate(route);
+          route ? navigate(route) : null;
         }}
         style={styles.iconContainer}
       >

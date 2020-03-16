@@ -1,11 +1,12 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity, Image } from "react-native";
 import { Feather } from "@expo/vector-icons";
+import { Ionicons } from "@expo/vector-icons";
 
 const HeaderNavigation = ({
   route,
   headerText,
-  navigation,
+  openDrawer,
   primary,
   notification,
   NotificationCount
@@ -14,12 +15,13 @@ const HeaderNavigation = ({
 
   return (
     <View style={{ ...styles.headerContainer, backgroundColor: primary }}>
-      <TouchableOpacity onPress={() => navigation.navigate(route)}>
-        <View style={{ paddingLeft: 20, paddingRight: "10%" }}>
-          <Image
-            style={{ height: 25, width: 25 }}
-            source={require("../assets/images/Hamburger.png")}
-          />
+      <TouchableOpacity
+        onPress={() => {
+          openDrawer.openDrawer();
+        }}
+      >
+        <View style={{ paddingLeft: 10, paddingRight: "10%" }}>
+          <Ionicons color="#000" name="ios-menu" size={35} />
         </View>
       </TouchableOpacity>
       <Text style={styles.headerText}>{headerText}</Text>

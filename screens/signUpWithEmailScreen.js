@@ -37,41 +37,43 @@ export default function LogUpForm({ navigation }) {
         route="SignUp"
         headerText="Sign Up"
       /> */}
-      <AuthHeader mainText="Okay, let's get you started as fast as possible" />
-      <View style={styles.container}>
-        <View style={styles.formContainer}>
-          <FormInput
-            onChange={e => onChange("email", e)}
-            label="Your email address"
-          />
-          <FormInput
-            onChange={e => onChange("password", e)}
-            hideInput
-            label="Create a password"
-          />
-          <FormInput
-            onChange={e => onChange("confirmPassword", e)}
-            hideInput
-            label="Confirm password"
-          />
-          {error ? (
-            <Text style={{ color: "red", paddingVertical: 1 }}>
-              The passwords do not match
-            </Text>
-          ) : null}
-        </View>
+      <View style={{ paddinmgTop: 15 }}>
+        <AuthHeader mainText="Okay, let's get you started as fast as possible" />
+        <View style={styles.container}>
+          <View style={styles.formContainer}>
+            <FormInput
+              onChange={e => onChange("email", e)}
+              label="Your email address"
+            />
+            <FormInput
+              onChange={e => onChange("password", e)}
+              hideInput
+              label="Create a password"
+            />
+            <FormInput
+              onChange={e => onChange("confirmPassword", e)}
+              hideInput
+              label="Confirm password"
+            />
+            {error ? (
+              <Text style={{ color: "red", paddingVertical: 1 }}>
+                The passwords do not match
+              </Text>
+            ) : null}
+          </View>
 
-        <View>
-          <Button
-            onSubmit={onSubmit}
-            color
-            buttonText={Loading ? "Loading...." : " Create account"}
-          />
+          <View>
+            <Button
+              onSubmit={onSubmit}
+              color
+              buttonText={Loading ? "Loading...." : " Create account"}
+            />
+          </View>
+          <Text style={{ color: "#aaa", fontSize: 12 }}>
+            Enter a combination of at least six numbers, letters and punctuation
+            marks (like ! and & )
+          </Text>
         </View>
-        <Text style={{ color: "#aaa", fontSize: 12 }}>
-          Enter a combination of at least six numbers, letters and punctuation
-          marks (like ! and & )
-        </Text>
       </View>
     </LinearGradientBG>
   );

@@ -29,36 +29,32 @@ export default function LogInForm({ navigation }) {
 
   return (
     <LinearGradientBG>
-      <HeaderNavigation
-        navigation={navigation}
-        route="SignIn"
-        headerText="Sign In"
-        primary
-      />
-      <AuthHeader mainText="Please enter your email address and password" />
-      <View style={styles.container}>
-        <View style={styles.formContainer}>
-          <FormInput
-            onChange={e => onChange("email", e)}
-            label="Your email address"
-          />
-          <FormInput
-            onChange={e => onChange("password", e)}
-            hideInput
-            label="Password"
-          />
-        </View>
-        <View>
-          <TouchableOpacity>
-            <Text style={styles.text}>Forgot Password ?</Text>
-          </TouchableOpacity>
-          <Button
-            onSubmit={onSubmit}
-            color
-            route="HomeScreen"
-            buttonText={Loading ? "Loading...." : "Log In"}
-          />
-          {Loading ? <View style={styles.overlay}></View> : null}
+      <View style={{ flex: 0.85, padding: 10 }}>
+        <AuthHeader mainText="Please enter your email address and password" />
+        <View style={styles.container}>
+          <View style={styles.formContainer}>
+            <FormInput
+              onChange={e => onChange("email", e)}
+              label="Your email address"
+            />
+            <FormInput
+              onChange={e => onChange("password", e)}
+              hideInput
+              label="Password"
+            />
+          </View>
+          <View>
+            <TouchableOpacity>
+              <Text style={styles.text}>Forgot Password ?</Text>
+            </TouchableOpacity>
+            <Button
+              onSubmit={onSubmit}
+              color
+              route="HomeScreen"
+              buttonText={Loading ? "Loading...." : "Log In"}
+            />
+            {Loading ? <View style={styles.overlay}></View> : null}
+          </View>
         </View>
       </View>
     </LinearGradientBG>
