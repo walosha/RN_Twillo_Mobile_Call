@@ -10,6 +10,7 @@ const HomeScreen = ({ navigation }) => {
   const openModal = () => {
     setModalVisible(prev => !prev);
   };
+  console.log("homescreen", navigation);
 
   return (
     <View>
@@ -58,7 +59,13 @@ const HomeScreen = ({ navigation }) => {
           </TouchableOpacity>
         </View>
         <View>
-          <Button inverted buttonText="START" onSubmit={() => {}} />
+          <Button
+            route={navigation}
+            routeName="onGoingCallScreen"
+            inverted
+            buttonText="START"
+            onSubmit={() => {}}
+          />
         </View>
       </View>
     </View>

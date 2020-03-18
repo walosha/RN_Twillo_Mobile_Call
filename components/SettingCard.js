@@ -31,7 +31,7 @@ const SettingCard = ({ mainText, text, switchBtn, route }) => {
 const styles = StyleSheet.create({
   main: {
     padding: 25,
-    elevation: 4,
+    elevation: 2,
     marginBottom: 13,
     flexDirection: "row",
     borderRadius: 17

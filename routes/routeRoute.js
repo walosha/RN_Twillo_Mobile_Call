@@ -8,6 +8,7 @@ import signUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
 import HelpScreen from "../screens/helpScreen";
+import onGoingCallScreen from "../screens/onGoingCallScreen";
 import AuthenticatedRoute from "../routes/AuthenticatedRoute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
@@ -84,6 +85,10 @@ function Navigator() {
               <Stack.Screen
                 name="HelpScreen"
                 component={HelpScreen}
+              ></Stack.Screen>
+              <Stack.Screen
+                name="onGoingCallScreen"
+                component={onGoingCallScreen}
               ></Stack.Screen>
             </Fragment>
           )}

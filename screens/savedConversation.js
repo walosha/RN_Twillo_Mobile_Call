@@ -1,10 +1,19 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
+import HeaderNavigation from "../components/HeaderNavugation";
 
-const SavedConversation = () => {
+const SavedConversation = ({ navigation }) => {
   return (
-    <View style={styles.main}>
-      <Text> SavedConversation</Text>
+    <View style={{ flex: 1 }}>
+      <HeaderNavigation
+        openDrawer={navigation}
+        notification
+        NotificationCount={12}
+        headerText="Olango"
+      />
+      <View style={styles.main}>
+        <Text> SavedConversation</Text>
+      </View>
     </View>
   );
 };

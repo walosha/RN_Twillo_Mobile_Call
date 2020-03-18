@@ -11,20 +11,32 @@ const HeaderNavigation = ({
   notification,
   NotificationCount
 }) => {
-  primary = primary ? "#0A0E18" : "#F5EDED";
+  const colorprimary = primary ? "#192030" : "#F5EDED";
 
   return (
-    <View style={{ ...styles.headerContainer, backgroundColor: primary }}>
+    <View style={{ ...styles.headerContainer, backgroundColor: colorprimary }}>
       <TouchableOpacity
         onPress={() => {
-          openDrawer.openDrawer();
+          openDrawer ? openDrawer.openDrawer() : null;
+          route ? route.goBack() : null;
         }}
       >
         <View style={{ paddingLeft: 10, paddingRight: "10%" }}>
-          <Ionicons color="#000" name="ios-menu" size={35} />
+          <Ionicons
+            color={primary ? "#FFF" : "#000"}
+            name={route ? "ios-arrow-back" : "ios-menu"}
+            size={35}
+          />
         </View>
       </TouchableOpacity>
-      <Text style={styles.headerText}>{headerText}</Text>
+      <Text
+        style={{
+          ...styles.headerText,
+          ...{ color: primary ? "white" : "black" }
+        }}
+      >
+        {headerText}
+      </Text>
       {notification ? (
         <View>
           {NotificationCount < 1 || NotificationCount === undefined ? null : (
@@ -32,7 +44,7 @@ const HeaderNavigation = ({
               <Text style={styles.count}>{NotificationCount}</Text>
             </View>
           )}
-          <Feather color="#000" name="bell" size={45} />
+          <Feather color={primary ? "#FFF" : "#000"} name="bell" size={45} />
         </View>
       ) : null}
     </View>

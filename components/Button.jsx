@@ -1,13 +1,14 @@
 import React from "react";
 import { Text, StyleSheet, TouchableOpacity } from "react-native";
 
-function Button({ buttonText, onSubmit, inverted }) {
+function Button({ buttonText, onSubmit, inverted, route, routeName }) {
   inverted = inverted ? { backgroundColor: "red", color: "#fff" } : {};
-
+  console.log("route", route);
   return (
     <TouchableOpacity
       onPress={() => {
         onSubmit();
+        route === "string" ? null : route.navigate(routeName);
       }}
       style={styles.buttonContainer}
     >

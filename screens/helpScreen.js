@@ -3,10 +3,10 @@ import { View, Text, StyleSheet } from "react-native";
 import { AccordionList } from "accordion-collapse-react-native";
 import list from "../helpData";
 import LinearGradientBG from "../components/LinearGradientBG";
+import HeaderNavigation from "../components/HeaderNavugation";
 
-const HelpScreen = () => {
+const HelpScreen = ({ navigation }) => {
   const [state, setState] = useState(list);
-
   function _head(item) {
     return <Text style={styles.title}>{item.title}</Text>;
   }
@@ -20,6 +20,13 @@ const HelpScreen = () => {
   }
   return (
     <LinearGradientBG>
+      <HeaderNavigation
+        primary
+        route={navigation}
+        notification
+        NotificationCount={12}
+        headerText="Olango"
+      />
       <Text style={styles.headerText}>FAQ</Text>
       <AccordionList list={state} header={_head} body={_body} />
     </LinearGradientBG>
