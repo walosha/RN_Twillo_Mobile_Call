@@ -1,19 +1,11 @@
 import React, { useState } from "react";
-import { View, Text, StyleSheet, Picker, TouchableOpacity } from "react-native";
+import { View, Text, StyleSheet, Picker } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
 import LanguageList from "../components/languageList";
 
 const HomeScreen = ({ navigation }) => {
   const [participant, setParticipant] = useState(1);
-  const [hidden, setHidden] = useState(true);
-
-  const openLanguage = () => {
-    setHidden(false);
-  };
-  const closeLanguage = () => {
-    setHidden(true);
-  };
 
   return (
     <View>
@@ -52,20 +44,7 @@ const HomeScreen = ({ navigation }) => {
             <Picker.Item label="5" value="5" />
           </Picker>
         </View>
-        <View>
-          <View style={styles.container}>
-            <Text style={styles.inputText}>Participant Languages</Text>
-          </View>
-          <View style={styles.selectedLang}></View>
-        </View>
-        <View>
-          <TouchableOpacity style={{ padding: 6 }}>
-            <Text onPress={openLanguage} style={styles.addLang}>
-              Add Language
-            </Text>
-          </TouchableOpacity>
-          <LanguageList hidden={hidden} closeLanguage={closeLanguage} />
-        </View>
+        <LanguageList />
         <View style={{ padding: 7, marginTop: 20 }}>
           <Button
             route={navigation}
@@ -103,24 +82,6 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     padding: 6
-  },
-  inputText: {
-    fontSize: 16,
-    color: "#2E425D",
-    fontFamily: "quicksand-Bold"
-  },
-  addLang: {
-    fontSize: 14,
-    color: "#2E423D",
-    padding: 4,
-    textDecorationLine: "underline",
-    fontFamily: "quicksand-Bold"
-  },
-  selectedLang: {
-    height: 45,
-    width: "90%",
-    backgroundColor: "#fff",
-    borderRadius: 7
   }
 });
 
