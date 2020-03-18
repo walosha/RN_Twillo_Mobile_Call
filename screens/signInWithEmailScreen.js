@@ -50,7 +50,6 @@ export default function LogInForm({ navigation }) {
             <Button
               onSubmit={onSubmit}
               color
-              route="HomeScreen"
               buttonText={Loading ? "Loading...." : "Log In"}
             />
             {Loading ? <View style={styles.overlay}></View> : null}

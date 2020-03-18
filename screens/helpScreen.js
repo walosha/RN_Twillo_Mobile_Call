@@ -19,7 +19,7 @@ const HelpScreen = ({ navigation }) => {
     );
   }
   return (
-    <LinearGradientBG>
+    <>
       <HeaderNavigation
         primary
         route={navigation}
@@ -27,9 +27,11 @@ const HelpScreen = ({ navigation }) => {
         NotificationCount={12}
         headerText="Olango"
       />
-      <Text style={styles.headerText}>FAQ</Text>
-      <AccordionList list={state} header={_head} body={_body} />
-    </LinearGradientBG>
+      <LinearGradientBG>
+        <Text style={styles.headerText}>FAQ</Text>
+        <AccordionList list={state} header={_head} body={_body} />
+      </LinearGradientBG>
+    </>
   );
 };
 

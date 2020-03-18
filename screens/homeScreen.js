@@ -2,15 +2,18 @@ import React, { useState } from "react";
 import { View, Text, StyleSheet, Picker, TouchableOpacity } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
-import Modal from "../components/Modal";
+import LanguageList from "../components/languageList";
 
 const HomeScreen = ({ navigation }) => {
-  const [modalVisible, setModalVisible] = useState(false);
+  const [participant, setParticipant] = useState(1);
+  const [hidden, setHidden] = useState(true);
 
-  const openModal = () => {
-    setModalVisible(prev => !prev);
+  const openLanguage = () => {
+    setHidden(false);
   };
-  console.log("homescreen", navigation);
+  const closeLanguage = () => {
+    setHidden(true);
+  };
 
   return (
     <View>
@@ -20,7 +23,6 @@ const HomeScreen = ({ navigation }) => {
         NotificationCount={12}
         headerText="Olango"
       />
-      <Modal openModal={openModal} modalVisible={modalVisible} />
       <View style={styles.headerBG}>
         <Text style={styles.mainText}>Welcome!</Text>
         <Text style={styles.subText}>Let's get you up in seconds</Text>
@@ -31,7 +33,7 @@ const HomeScreen = ({ navigation }) => {
             <Text style={styles.inputText}>Number of Participants</Text>
           </View>
           <Picker
-            selectedValue="Java"
+            selectedValue={participant}
             style={{
               height: 50,
               width: 100,
@@ -39,10 +41,15 @@ const HomeScreen = ({ navigation }) => {
               elevation: 9,
               borderRadius: 8
             }}
-            onValueChange={(itemValue, itemIndex) => {}}
+            onValueChange={(itemValue, itemIndex) => {
+              setParticipant(itemValue);
+            }}
           >
-            <Picker.Item label="Java" value="java" />
-            <Picker.Item label="JavaScript" value="js" />
+            <Picker.Item label="1" value="1" />
+            <Picker.Item label="2" value="2" />
+            <Picker.Item label="3" value="3" />
+            <Picker.Item label="4" value="4" />
+            <Picker.Item label="5" value="5" />
           </Picker>
         </View>
         <View>
@@ -53,12 +60,13 @@ const HomeScreen = ({ navigation }) => {
         </View>
         <View>
           <TouchableOpacity style={{ padding: 6 }}>
-            <Text onPress={openModal} style={styles.addLang}>
+            <Text onPress={openLanguage} style={styles.addLang}>
               Add Language
             </Text>
           </TouchableOpacity>
+          <LanguageList hidden={hidden} closeLanguage={closeLanguage} />
         </View>
-        <View>
+        <View style={{ padding: 7, marginTop: 20 }}>
           <Button
             route={navigation}
             routeName="onGoingCallScreen"
@@ -90,7 +98,7 @@ const styles = StyleSheet.create({
   },
   container: { padding: 7 },
   content: {
-    paddingVertical: 59,
+    paddingVertical: 25,
     paddingHorizontal: 40
   },
   inputContainer: {

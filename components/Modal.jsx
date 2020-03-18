@@ -12,11 +12,20 @@ export default function App({ modalVisible, openModal }) {
         Alert.alert("Modal has been closed.");
       }}
     >
-      <View style={{ marginTop: 22 }}>
-        <View>
-          <Text>Hello World!</Text>
-          <Text>Hello World!</Text>
-          <Text>Hello World!</Text>
+      <View
+        style={{
+          flex: 1,
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        }}
+      >
+        <View
+          style={{
+            width: 300,
+            height: 300
+          }}
+        >
           <Text>Hello World!</Text>
           <Text>Hello World!</Text>
           <Text>Hello World!</Text>
