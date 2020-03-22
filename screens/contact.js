@@ -46,7 +46,8 @@ const styles = StyleSheet.create({
   main: {
     alignItems: "center",
     justifyContent: "flex-end",
-    flex: 1
+    flex: 1,
+    backgroundColor: "#f5d8e1"
   },
   forminput: {
     borderRadius: 4,

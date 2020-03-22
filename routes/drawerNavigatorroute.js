@@ -58,7 +58,7 @@ export default function MyDrawer() {
     <Drawer.Navigator
       drawerContent={props => CustomDrawerContent(props, signOut)}
       drawerStyle={{
-        backgroundColor: "#F5EDED",
+        backgroundColor: "#f5d8e1",
         width: "90%"
       }}
       drawerContentOptions={{

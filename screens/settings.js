@@ -2,22 +2,13 @@ import React from "react";
 import { View, Text, StyleSheet, Image } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import SettingCard from "../components/SettingCard";
+import ScreenHeader from "../components/ScreenHeader";
 
 const Settings = ({ navigation }) => (
   <View style={styles.main}>
     <HeaderNavigation openDrawer={navigation} />
+    <ScreenHeader headerText="Settings" />
     <View style={styles.header}>
-      <View style={styles.titleHeader}>
-        <View style={{ justifySelf: "center", alignSelf: "center" }}>
-          <Text style={styles.headerText}>Settings</Text>
-        </View>
-        <View style={{ height: 57, width: 57, marginLeft: "auto" }}>
-          <Image
-            style={{ height: "100%", width: "100%" }}
-            source={require("../assets/icon.png")}
-          />
-        </View>
-      </View>
       <View style={{ flex: 1 }}>
         <SettingCard
           mainText="Enable Human Translator"
@@ -48,23 +39,14 @@ const Settings = ({ navigation }) => (
 
 const styles = StyleSheet.create({
   main: {
-    backgroundColor: "#F5EDED",
+    backgroundColor: "#f5d8e1",
     flex: 1,
     padding: 16
   },
   header: {
-    backgroundColor: "#F5EDED",
+    backgroundColor: "#f5d8e1",
     flex: 1,
     padding: 10
-  },
-  titleHeader: {
-    flexDirection: "row",
-    padding: 6,
-    marginBottom: 5
-  },
-  headerText: {
-    color: "#000",
-    fontSize: 25
   }
 });
 

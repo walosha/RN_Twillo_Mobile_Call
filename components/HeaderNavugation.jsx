@@ -11,7 +11,7 @@ const HeaderNavigation = ({
   notification,
   NotificationCount
 }) => {
-  const colorprimary = primary ? "#192030" : "#F5EDED";
+  const colorprimary = primary ? "#192030" : "#f5d8e1";
 
   return (
     <View style={{ ...styles.headerContainer, backgroundColor: colorprimary }}>

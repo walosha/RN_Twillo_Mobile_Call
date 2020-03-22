@@ -8,7 +8,7 @@ const HomeScreen = ({ navigation }) => {
   const [participant, setParticipant] = useState(1);
 
   return (
-    <View>
+    <View style={{ flex: 1 }}>
       <HeaderNavigation
         openDrawer={navigation}
         notification
@@ -78,7 +78,9 @@ const styles = StyleSheet.create({
   container: { padding: 7 },
   content: {
     paddingVertical: 25,
-    paddingHorizontal: 40
+    paddingHorizontal: 40,
+    backgroundColor: "#f5d8e1",
+    flex: 1
   },
   inputContainer: {
     padding: 6
