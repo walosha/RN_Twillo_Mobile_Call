@@ -3,12 +3,12 @@ import { ActivityIndicator, AsyncStorage } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import CenterChild from "../components/CenterChild";
-import signInScreen from "../screens/signInScreen";
-import signUpScreen from "../screens/signUpScreen";
+import SignInScreen from "../screens/signInScreen";
+import SignUpScreen from "../screens/signUpScreen";
 import LogInForm from "../screens/signInWithEmailScreen";
 import LogUpForm from "../screens/signUpWithEmailScreen";
 import HelpScreen from "../screens/helpScreen";
-import onGoingCallScreen from "../screens/onGoingCallScreen";
+import OnGoingCallScreen from "../screens/onGoingCallScreen";
 import AuthenticatedRoute from "../routes/AuthenticatedRoute";
 import { authReducer, initialState } from "../context/Authreducer";
 import { AuthContext } from "../context/AuhContext";
@@ -65,13 +65,13 @@ function Navigator() {
               <Stack.Screen
                 initialRouteName={true}
                 name="SignIn"
-                component={signInScreen}
+                component={SignInScreen}
                 options={{
                   title: "Sign in",
                   animationTypeForReplace: state.isSignout ? "pop" : "push"
                 }}
               />
-              <Stack.Screen name="SignUp" component={signUpScreen} />
+              <Stack.Screen name="SignUp" component={SignUpScreen} />
               <Stack.Screen name="LogInForm" component={LogInForm} />
               <Stack.Screen name="LogUpForm" component={LogUpForm} />
             </Fragment>
@@ -88,7 +88,7 @@ function Navigator() {
               ></Stack.Screen>
               <Stack.Screen
                 name="onGoingCallScreen"
-                component={onGoingCallScreen}
+                component={OnGoingCallScreen}
               ></Stack.Screen>
             </Fragment>
           )}

@@ -1,7 +1,6 @@
 import React, { useState, useContext } from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import FormInput from "../components/FormInputs";
-import HeaderNavigation from "../components/HeaderNavugation";
 import Button from "../components/Button";
 import { AuthContext } from "../context/AuhContext";
 import LinearGradientBG from "../components/LinearGradientBG";

@@ -1,7 +1,7 @@
 import React from "react";
-import SignInAndSignUp from "../components/Sign-in-and-Sign-Up.component";
+import SignInAndSignUp from "../components/SignInAndSignUp";
 
-const signInScreen = ({ navigation }) => (
+const SignInScreen = ({ navigation }) => (
   <SignInAndSignUp
     navigation={navigation}
     mainText="Welcome back to Olango"
@@ -11,4 +11,4 @@ const signInScreen = ({ navigation }) => (
   />
 );
 
-export default signInScreen;
+export default SignInScreen;

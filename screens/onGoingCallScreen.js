@@ -4,7 +4,7 @@ import Button from "../components/Button";
 
 const { height, width } = Dimensions.get("window");
 
-const onGoingCallScreen = ({ navigation }) => {
+const OnGoingCallScreen = ({ navigation }) => {
   const onCallStop = function() {
     navigation.navigate("HomeScreen");
   };
@@ -45,4 +45,4 @@ const onGoingCallScreen = ({ navigation }) => {
   );
 };
 
-export default onGoingCallScreen;
+export default OnGoingCallScreen;

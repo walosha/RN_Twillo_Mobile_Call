@@ -1,7 +1,7 @@
 import React from "react";
-import SignInAndSignUp from "../components/Sign-in-and-Sign-Up.component";
+import SignInAndSignUp from "../components/SignInAndSignUp";
 
-const signInScreen = ({ navigation }) => (
+const SignUpScreen = ({ navigation }) => (
   <SignInAndSignUp
     navigation={navigation}
     mainText="Choose the best option that suits you"
@@ -11,4 +11,4 @@ const signInScreen = ({ navigation }) => (
   />
 );
 
-export default signInScreen;
+export default SignUpScreen;
