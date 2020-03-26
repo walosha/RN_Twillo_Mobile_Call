@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import * as Font from "expo-font";
-import { AppLoading } from "expo";
+//import { AppLoading } from "expo";
 import Navigator from "./routes/routeRoute";
 import { fonts } from "./fonts";
 
@@ -12,12 +12,13 @@ const App = () => {
     return <Navigator />;
   } else {
     return (
-      <AppLoading
-        startAsync={getFonts}
-        onFinish={() => {
-          setFontLoaded(true);
-        }}
-      ></AppLoading>
+      // <AppLoading
+      //   startAsync={getFonts}
+      //   onFinish={() => {
+      //     setFontLoaded(true);
+      //   }}
+      // ></AppLoading>
+      <Navigator />
     );
   }
 };
