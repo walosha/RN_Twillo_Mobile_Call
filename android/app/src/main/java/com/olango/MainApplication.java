@@ -1,4 +1,5 @@
 package com.olango;
+import com.hoxfon.react.RNTwilioVoice.TwilioVoicePackage;  // <--- Import Package 
 
 import android.app.Application;
 
@@ -40,6 +41,15 @@ public class MainApplication extends Application implements ReactApplication {
       packages.add(new ModuleRegistryAdapter(mModuleRegistryProvider));
       return packages;
     }
+
+    @Override
+        protected List<ReactPackage> getPackages() {
+            return Arrays.<ReactPackage>asList(
+                new MainReactPackage(),
+                new TwilioVoicePackage()         // <---- Add the Package : by default it will ask microphone permissions 
+                // new TwilioVoicePackage(false) // <---- pass false to handle microphone permissions in your application 
+            );
+        }
 
     @Override
     protected String getJSMainModuleName() {
