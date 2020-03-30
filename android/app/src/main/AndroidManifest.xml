@@ -33,7 +33,9 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme">
-       <service
+       <!-- Twilio Voice -->
+    <!-- [START fcm_listener] -->
+    <service
         android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService">
         <intent-filter>
             <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -48,21 +50,8 @@
             <action android:name="com.google.android.gms.iid.InstanceID" />
         </intent-filter>
     </service>
-      <service
-            android:name="com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-        <!-- [END fcm_listener] -->
-        <!-- [START instanceId_listener] -->
-        <service
-            android:name="com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseInstanceIDService"
-            android:exported="false">
-            <intent-filter>
-                <action android:name="com.google.android.gms.iid.InstanceID" />
-            </intent-filter>
-        </service>
+    <!-- [END instanceId_listener] -->
+    <!-- Twilio Voice -->
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"
