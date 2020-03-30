@@ -1,4 +1,4 @@
-package com.olango;
+package com.nzenweoforgroup.olango;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
