@@ -1,4 +1,4 @@
-package com.olango.generated;
+package com.nzenweoforgroup.olango.generated;
 
 import java.util.Arrays;
 import java.util.List;

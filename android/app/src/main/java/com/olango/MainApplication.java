@@ -1,4 +1,4 @@
-package com.olango;
+package com.nzenweoforgroup.olango;
 import com.hoxfon.react.RNTwilioVoice.TwilioVoicePackage;  // <--- Import Package 
 
 import android.app.Application;
@@ -9,7 +9,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.olango.generated.BasePackageList;
+import com.nzenweoforgroup.olango.generated.BasePackageList;
 
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;
@@ -29,11 +29,12 @@ public class MainApplication extends Application implements ReactApplication {
     Arrays.<SingletonModule>asList()
   );
 
-  private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
-    @Override
-    public boolean getUseDeveloperSupport() {
+  private final ReactNativeHost reactNativeHost = new ReactNativeHost(this) {
+
+    @Override public boolean getUseDeveloperSupport() {
       return BuildConfig.DEBUG;
     }
+
 
     @Override
     protected List<ReactPackage> getPackages() {
