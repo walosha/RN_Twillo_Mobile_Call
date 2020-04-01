@@ -2,7 +2,7 @@ package com.nzenweoforgroup.olango;
 import com.hoxfon.react.RNTwilioVoice.TwilioVoicePackage;  // <--- Import Package 
 
 import android.app.Application;
-
+import com.facebook.react.BuildConfig;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
@@ -34,7 +34,16 @@ public class MainApplication extends Application implements ReactApplication {
     @Override public boolean getUseDeveloperSupport() {
       return BuildConfig.DEBUG;
     }
+    
 
+    //  @Override
+    //     protected List<ReactPackage> getPackages() {
+    //         return Arrays.<ReactPackage>asList(
+    //             new MainReactPackage(),
+    //             new TwilioVoicePackage()         // <---- Add the Package : by default it will ask microphone permissions 
+    //             // new TwilioVoicePackage(false) // <---- pass false to handle microphone permissions in your application 
+    //         );
+    //     }
 
     @Override
     protected List<ReactPackage> getPackages() {
@@ -44,23 +53,15 @@ public class MainApplication extends Application implements ReactApplication {
     }
 
     @Override
-        protected List<ReactPackage> getPackages() {
-            return Arrays.<ReactPackage>asList(
-                new MainReactPackage(),
-                new TwilioVoicePackage()         // <---- Add the Package : by default it will ask microphone permissions 
-                // new TwilioVoicePackage(false) // <---- pass false to handle microphone permissions in your application 
-            );
-        }
-
-    @Override
     protected String getJSMainModuleName() {
       return "index";
     }
+
   };
 
   @Override
   public ReactNativeHost getReactNativeHost() {
-    return mReactNativeHost;
+    return reactNativeHost;
   }
 
   @Override

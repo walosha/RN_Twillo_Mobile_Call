@@ -9,13 +9,13 @@
 
 
     <!-- OPTIONAL PERMISSIONS, REMOVE WHATEVER YOU DO NOT NEED -->
-    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <!-- <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
     <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" /> -->
 
     <!-- These require runtime permissions on M -->
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
@@ -23,7 +23,7 @@
     <uses-permission android:name="android.permission.WRITE_CALENDAR" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" /> -->
     <!-- END OPTIONAL PERMISSIONS -->
    
     <application
@@ -33,25 +33,27 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme">
+      
        <!-- Twilio Voice -->
     <!-- [START fcm_listener] -->
-    <service
+    <!-- <service
         android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService">
         <intent-filter>
             <action android:name="com.google.firebase.MESSAGING_EVENT" />
         </intent-filter>
-    </service>
+    </service> -->
     <!-- [END fcm_listener] -->
     <!-- [START instanceId_listener] -->
-    <service
+    <!-- <service
         android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseInstanceIDService"
         android:exported="false">
         <intent-filter>
             <action android:name="com.google.android.gms.iid.InstanceID" />
         </intent-filter>
-    </service>
+    </service> -->
     <!-- [END instanceId_listener] -->
     <!-- Twilio Voice -->
+    
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"

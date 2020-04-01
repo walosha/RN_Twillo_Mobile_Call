@@ -1,10 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:16:1-35:12
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
 MERGED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:expo-permissions] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
@@ -41,7 +40,8 @@ MERGED from [:unimodules-image-loader-interface] C:\Users\USER\Desktop\Nzenweofo
 MERGED from [:unimodules-sensors-interface] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\ef0f7afc65601e822f2fa820f1bf5720\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-sound] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-sound\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:16:1-29:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\eb53a8c8e24a1cc9bd6f2a6737e468d0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:17:1-59:12
@@ -53,9 +53,6 @@ MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\febb8986208e958cc2fbd8bb50587ab3\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\ed5f061a924c77c6c8a560c127b9949d\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\a59cf1baa64d6c1f23e33aa1b5619c4a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\3ceee471191c46cb4ae3b68c335e51ed\AndroidManifest.xml:2:1-6:12
-MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2938494c2162d862cb4b1fc4cc740048\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\7bcd2cd90df77c7814384ef78ede3fce\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7e4cbf8a183d59fc0dbf0781d1ea7936\AndroidManifest.xml:17:1-22:12
@@ -108,34 +105,29 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\
 MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:2:1-19:12
 MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-android-scalablevideoview-1.0.1.aar\6d058028f36ae32e7564dd2631470051\AndroidManifest.xml:2:1-12:12
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:2:1-30:12
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\086a8a56037fa0f9359c015232986eb0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\456eaf59d6bda384b2e0a06e03237cf2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\cba2093a0f5a2960856cef630d9f9c2c\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
 	package
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:2:5-36
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-68:12
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:1-70:12
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:20:5-66
 MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
 MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:23:5-67
 MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:11:5-67
@@ -164,76 +156,8 @@ MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transf
 MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:12:5-71
 	android:name
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:8:22-68
-uses-permission#android.permission.MANAGE_DOCUMENTS
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:12:5-75
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:12:22-72
-uses-permission#android.permission.READ_INTERNAL_STORAGE
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:13:5-80
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:13:22-77
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:14:5-75
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:14:22-72
-uses-permission#android.permission.USE_FINGERPRINT
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:15:5-74
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:15:22-71
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:18:5-81
-MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
-MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:12:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:12:5-81
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:18:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:19:5-79
-MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
-MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:14:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:14:5-79
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:19:22-76
-uses-permission#android.permission.CAMERA
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:20:5-65
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:20:22-62
-uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:21:5-72
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:21:22-69
-uses-permission#android.permission.READ_CALENDAR
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:22:5-72
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:22:22-69
-uses-permission#android.permission.WRITE_CALENDAR
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:23:5-73
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:23:22-70
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:24:5-80
-MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
-MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:24:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:25:5-81
-MERGED from [:react-native-audio-recorder-player] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
-MERGED from [:react-native-audio-recorder-player] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
-MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
-MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:25:22-78
-uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:26:5-73
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:26:22-70
 application
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:29:5-66:19
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:24:5-34:19
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:29:5-68:19
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\3359cdd243d099b43e93e4b5cb4eb7b6\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.61.5.aar\3359cdd243d099b43e93e4b5cb4eb7b6\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d7c2e9252784ed2d85ce75d06c19a515\AndroidManifest.xml:22:5-20
@@ -242,8 +166,6 @@ MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontE
 MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
 MERGED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\eb53a8c8e24a1cc9bd6f2a6737e468d0\AndroidManifest.xml:7:5-20
@@ -266,8 +188,6 @@ MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\USER\.g
 MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\ed5f061a924c77c6c8a560c127b9949d\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\a59cf1baa64d6c1f23e33aa1b5619c4a\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\a59cf1baa64d6c1f23e33aa1b5619c4a\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\3ceee471191c46cb4ae3b68c335e51ed\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\3ceee471191c46cb4ae3b68c335e51ed\AndroidManifest.xml:5:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\dec1a30f8f670d44af770964bf76f865\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\dec1a30f8f670d44af770964bf76f865\AndroidManifest.xml:10:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\dbd296ad5ea37d07a175266db909e2ec\AndroidManifest.xml:24:5-89
@@ -282,8 +202,6 @@ MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transf
 MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:17:5-20
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:18:5-28:19
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:18:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\086a8a56037fa0f9359c015232986eb0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\086a8a56037fa0f9359c015232986eb0\AndroidManifest.xml:5:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\dbd296ad5ea37d07a175266db909e2ec\AndroidManifest.xml:24:18-86
 	android:label
@@ -298,58 +216,34 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\User
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:35:7-38
 	android:name
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:30:7-38
-service#com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:38:5-43:15
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:39:9-86
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:40:9-42:25
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:41:13-74
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:41:21-71
-service#com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseInstanceIDService
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:46:5-52:15
-	android:exported
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:48:9-33
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:47:9-87
-intent-filter#action:name:com.google.android.gms.iid.InstanceID
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:49:9-51:25
-action#com.google.android.gms.iid.InstanceID
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:50:13-76
-	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:50:21-73
 activity#com.nzenweofor.olango.MainActivity
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:55:7-64:18
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:57:7-66:18
 	android:label
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:57:9-41
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:59:9-41
 	android:windowSoftInputMode
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:59:9-51
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:61:9-51
 	android:configChanges
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:58:9-79
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:60:9-79
 	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:56:9-37
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:58:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:60:9-63:25
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:62:9-65:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:61:13-65
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:63:13-65
 	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:61:21-62
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:63:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:62:13-73
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:64:13-73
 	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:62:23-70
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:64:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:65:7-84
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:67:7-84
 	android:name
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:65:17-81
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml:67:17-81
 uses-sdk
 INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:17:5-43
 MERGED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -422,8 +316,10 @@ MERGED from [org.webkit:android-jsc:r245459] C:\Users\USER\.gradle\caches\transf
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\android-jsc-r245459.aar\ef0f7afc65601e822f2fa820f1bf5720\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-sound] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-sound\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
 MERGED from [:react-native-sound] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-sound\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:17:5-43
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\eb53a8c8e24a1cc9bd6f2a6737e468d0\AndroidManifest.xml:5:5-44
@@ -446,12 +342,6 @@ MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\USER\.g
 MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\ed5f061a924c77c6c8a560c127b9949d\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\a59cf1baa64d6c1f23e33aa1b5619c4a\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\a59cf1baa64d6c1f23e33aa1b5619c4a\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\3ceee471191c46cb4ae3b68c335e51ed\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\3ceee471191c46cb4ae3b68c335e51ed\AndroidManifest.xml:4:5-43
-MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\8b0210dc65a674fc8068541fba90b97c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\03dd207ec7f985cf12260d6b1142d547\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2938494c2162d862cb4b1fc4cc740048\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2938494c2162d862cb4b1fc4cc740048\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\7bcd2cd90df77c7814384ef78ede3fce\AndroidManifest.xml:20:5-44
@@ -556,8 +446,6 @@ MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\USER\.gradle\c
 MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-android-scalablevideoview-1.0.1.aar\6d058028f36ae32e7564dd2631470051\AndroidManifest.xml:8:5-10:41
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:8:5-10:41
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:8:5-10:41
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\086a8a56037fa0f9359c015232986eb0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\086a8a56037fa0f9359c015232986eb0\AndroidManifest.xml:4:5-43
 MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\456eaf59d6bda384b2e0a06e03237cf2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\456eaf59d6bda384b2e0a06e03237cf2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\cba2093a0f5a2960856cef630d9f9c2c\AndroidManifest.xml:7:5-43
@@ -572,78 +460,20 @@ INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\android\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.2.aar\02660f02f92704d2e9c35587533acda4\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.2.aar\02660f02f92704d2e9c35587533acda4\AndroidManifest.xml:24:5-79
-MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:14:5-79
-MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:14:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:13:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:13:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:21:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:24:5-68
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:22:22-65
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:25:90-112
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:27:162-184
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:27:185-208
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:27:17-104
-intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:27:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-11.4.2.aar\2f2bb0a0cee8ba2624623afc464b20cb\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:32:16-87
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:33:7-197
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:33:148-170
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:33:171-195
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:33:91-147
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-11.4.2.aar\1d643e0115e2979ff80e39ac23716fce\AndroidManifest.xml:33:16-90
 uses-permission#android.permission.DISABLE_KEYGUARD
 ADDED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-75
 	android:name
 		ADDED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-audio-recorder-player] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:react-native-audio-recorder-player] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\react-native-audio-recorder-player\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.STORAGE
 ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
 	android:name
@@ -666,6 +496,18 @@ ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEn
 		ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-67
 	android:name
 		ADDED from [:expo-file-system] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.FOREGROUND_SERVICE
 ADDED from [:expo-location] C:\Users\USER\Desktop\Nzenweofor\Olango - FrontEnd\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
 	android:name
@@ -682,6 +524,28 @@ ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle
 		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.2.aar\02660f02f92704d2e9c35587533acda4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.2.aar\02660f02f92704d2e9c35587533acda4\AndroidManifest.xml:24:5-79
+MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:14:5-79
+MERGED from [com.twilio:voice-android:2.0.7] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\voice-android-2.0.7.aar\c39963a31a101126f1e12c8790db0705\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:24:22-65
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:26:5-82
 	android:name
