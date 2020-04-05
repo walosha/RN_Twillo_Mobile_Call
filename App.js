@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { View, Text } from "react-native";
 import * as Font from "expo-font";
 //import { AppLoading } from "expo";
 import Navigator from "./routes/routeRoute";
@@ -9,7 +10,11 @@ const getFonts = () => Font.loadAsync(fonts);
 const App = () => {
   const [fontsLoaded, setFontLoaded] = useState(false);
   if (fontsLoaded) {
-    return <Navigator />;
+    return (
+      <View>
+        <Text>Hello world</Text>
+      </View>
+    );
   } else {
     return (
       // <AppLoading
@@ -18,7 +23,9 @@ const App = () => {
       //     setFontLoaded(true);
       //   }}
       // ></AppLoading>
-      <Navigator />
+      <View>
+        <Text>Hello world</Text>
+      </View>
     );
   }
 };

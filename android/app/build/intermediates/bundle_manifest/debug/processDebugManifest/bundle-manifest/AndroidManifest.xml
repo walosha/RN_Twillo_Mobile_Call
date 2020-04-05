@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nzenweoforgroup.olango"
+    package="com.nzenweofor.olango"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -57,25 +57,20 @@
 
         <!-- Twilio Voice -->
         <!-- [START fcm_listener] -->
-        <!--
-    <service
-        android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService">
-        <intent-filter>
-            <action android:name="com.google.firebase.MESSAGING_EVENT" />
-        </intent-filter>
-    </service>
-        -->
+        <service android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
         <!-- [END fcm_listener] -->
         <!-- [START instanceId_listener] -->
-        <!--
-    <service
-        android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseInstanceIDService"
-        android:exported="false">
-        <intent-filter>
-            <action android:name="com.google.android.gms.iid.InstanceID" />
-        </intent-filter>
-    </service>
-        -->
+        <service
+            android:name="com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseInstanceIDService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
         <!-- [END instanceId_listener] -->
         <!-- Twilio Voice -->
 
@@ -94,7 +89,7 @@
 
         <provider
             android:name="expo.modules.filesystem.FileSystemFileProvider"
-            android:authorities="com.nzenweoforgroup.olango.FileSystemFileProvider"
+            android:authorities="com.nzenweofor.olango.FileSystemFileProvider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -146,7 +141,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.nzenweoforgroup.olango.firebaseinitprovider"
+            android:authorities="com.nzenweofor.olango.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

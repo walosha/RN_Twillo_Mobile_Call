@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
 MERGED from [:react-native-twilio-programmable-voice] C:\Users\USER\Desktop\Nzenweofor\Olango\node_modules\react-native-twilio-programmable-voice\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:expo-permissions] C:\Users\USER\Desktop\Nzenweofor\Olango\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] C:\Users\USER\Desktop\Nzenweofor\Olango\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
@@ -106,20 +106,20 @@ MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\USER\.gradle\c
 MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\7344ef21aa8c331a60b2a9a710fab31e\AndroidManifest.xml:2:1-30:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-2.0.0.aar\456eaf59d6bda384b2e0a06e03237cf2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\cba2093a0f5a2960856cef630d9f9c2c\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
-INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
+INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
 	package
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:2:5-36
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-70:12
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:1-69:12
 		INJECTED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:1:11-69
@@ -213,6 +213,28 @@ MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\cache
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:35:7-38
 	android:name
 		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:30:7-38
+service#com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseMessagingService
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:39:5-44:15
+	android:name
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:40:9-86
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:41:9-43:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:42:21-71
+service#com.hoxfon.react.TwilioVoice.fcm.VoiceFirebaseInstanceIDService
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:47:5-53:15
+	android:exported
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:49:9-33
+	android:name
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:48:9-87
+intent-filter#action:name:com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:50:9-52:25
+action#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:51:13-76
+	android:name
+		ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:51:21-73
 activity#com.nzenweofor.olango.MainActivity
 ADDED from C:\Users\USER\Desktop\Nzenweofor\Olango\android\app\src\main\AndroidManifest.xml:57:7-66:18
 	android:label
@@ -517,14 +539,6 @@ ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle
 		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:29:13-82
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:31:13-33:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:31:28-51
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:32:17-78
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:17.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.6.0.aar\080018141f641d1e5deda3663bb9371f\AndroidManifest.xml:32:25-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\49a64f0d974e8087e202321a4ca92f5b\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.2.aar\02660f02f92704d2e9c35587533acda4\AndroidManifest.xml:24:5-79

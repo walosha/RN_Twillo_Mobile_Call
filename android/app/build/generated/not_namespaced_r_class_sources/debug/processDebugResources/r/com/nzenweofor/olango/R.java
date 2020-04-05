@@ -6551,39 +6551,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.nzenweoforgroup.olango:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.nzenweoforgroup.olango:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.nzenweoforgroup.olango:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.nzenweoforgroup.olango:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.nzenweoforgroup.olango:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.nzenweofor.olango:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.nzenweofor.olango:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.nzenweofor.olango:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.nzenweofor.olango:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.nzenweofor.olango:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.nzenweoforgroup.olango:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.nzenweoforgroup.olango:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.nzenweoforgroup.olango:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.nzenweoforgroup.olango:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.nzenweofor.olango:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.nzenweofor.olango:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.nzenweofor.olango:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.nzenweofor.olango:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.nzenweoforgroup.olango:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.nzenweoforgroup.olango:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.nzenweoforgroup.olango:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.nzenweoforgroup.olango:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.nzenweoforgroup.olango:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.nzenweoforgroup.olango:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.nzenweoforgroup.olango:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.nzenweoforgroup.olango:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.nzenweoforgroup.olango:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.nzenweoforgroup.olango:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.nzenweofor.olango:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.nzenweofor.olango:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.nzenweofor.olango:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.nzenweofor.olango:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.nzenweofor.olango:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.nzenweofor.olango:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.nzenweofor.olango:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.nzenweofor.olango:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.nzenweofor.olango:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.nzenweofor.olango:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.nzenweoforgroup.olango:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.nzenweoforgroup.olango:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.nzenweoforgroup.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.nzenweofor.olango:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.nzenweofor.olango:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.nzenweofor.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.nzenweoforgroup.olango:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.nzenweoforgroup.olango:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.nzenweoforgroup.olango:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.nzenweoforgroup.olango:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.nzenweoforgroup.olango:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.nzenweoforgroup.olango:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.nzenweofor.olango:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.nzenweofor.olango:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.nzenweofor.olango:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.nzenweofor.olango:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.nzenweofor.olango:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.nzenweofor.olango:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -6635,7 +6635,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:background
+     * @attr name com.nzenweofor.olango:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -6651,7 +6651,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundSplit
+     * @attr name com.nzenweofor.olango:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -6667,7 +6667,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundStacked
+     * @attr name com.nzenweofor.olango:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -6682,7 +6682,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetEnd
+     * @attr name com.nzenweofor.olango:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -6697,7 +6697,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetEndWithActions
+     * @attr name com.nzenweofor.olango:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -6712,7 +6712,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetLeft
+     * @attr name com.nzenweofor.olango:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -6727,7 +6727,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetRight
+     * @attr name com.nzenweofor.olango:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -6742,7 +6742,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetStart
+     * @attr name com.nzenweofor.olango:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -6757,7 +6757,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetStartWithNavigation
+     * @attr name com.nzenweofor.olango:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -6770,7 +6770,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:customNavigationLayout
+     * @attr name com.nzenweofor.olango:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -6793,7 +6793,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:displayOptions
+     * @attr name com.nzenweofor.olango:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -6806,7 +6806,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:divider
+     * @attr name com.nzenweofor.olango:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -6820,7 +6820,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -6834,7 +6834,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:height
+     * @attr name com.nzenweofor.olango:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -6845,7 +6845,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hideOnContentScroll
+     * @attr name com.nzenweofor.olango:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -6858,7 +6858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:homeAsUpIndicator
+     * @attr name com.nzenweofor.olango:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -6871,7 +6871,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:homeLayout
+     * @attr name com.nzenweofor.olango:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -6884,7 +6884,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:icon
+     * @attr name com.nzenweofor.olango:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -6897,7 +6897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:indeterminateProgressStyle
+     * @attr name com.nzenweofor.olango:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -6912,7 +6912,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:itemPadding
+     * @attr name com.nzenweofor.olango:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -6925,7 +6925,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:logo
+     * @attr name com.nzenweofor.olango:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -6944,7 +6944,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:navigationMode
+     * @attr name com.nzenweofor.olango:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -6958,7 +6958,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:popupTheme
+     * @attr name com.nzenweofor.olango:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -6972,7 +6972,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarPadding
+     * @attr name com.nzenweofor.olango:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -6985,7 +6985,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarStyle
+     * @attr name com.nzenweofor.olango:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -6996,7 +6996,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:subtitle
+     * @attr name com.nzenweofor.olango:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -7009,7 +7009,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:subtitleTextStyle
+     * @attr name com.nzenweofor.olango:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -7020,7 +7020,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:title
+     * @attr name com.nzenweofor.olango:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -7033,7 +7033,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:titleTextStyle
+     * @attr name com.nzenweofor.olango:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -7115,12 +7115,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.nzenweoforgroup.olango:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.nzenweoforgroup.olango:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.nzenweoforgroup.olango:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.nzenweoforgroup.olango:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.nzenweoforgroup.olango:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.nzenweoforgroup.olango:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.nzenweofor.olango:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.nzenweofor.olango:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.nzenweofor.olango:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.nzenweofor.olango:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.nzenweofor.olango:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.nzenweofor.olango:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -7143,7 +7143,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:background
+     * @attr name com.nzenweofor.olango:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -7159,7 +7159,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundSplit
+     * @attr name com.nzenweofor.olango:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -7172,7 +7172,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeItemLayout
+     * @attr name com.nzenweofor.olango:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -7186,7 +7186,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:height
+     * @attr name com.nzenweofor.olango:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -7199,7 +7199,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:subtitleTextStyle
+     * @attr name com.nzenweofor.olango:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -7212,7 +7212,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:titleTextStyle
+     * @attr name com.nzenweofor.olango:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -7222,8 +7222,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.nzenweoforgroup.olango:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.nzenweoforgroup.olango:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.nzenweofor.olango:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.nzenweofor.olango:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -7245,7 +7245,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:expandActivityOverflowButtonDrawable
+     * @attr name com.nzenweofor.olango:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -7256,7 +7256,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:initialActivityCount
+     * @attr name com.nzenweofor.olango:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -7267,13 +7267,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.nzenweoforgroup.olango:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.nzenweoforgroup.olango:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.nzenweoforgroup.olango:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.nzenweoforgroup.olango:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.nzenweoforgroup.olango:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.nzenweoforgroup.olango:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.nzenweoforgroup.olango:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.nzenweofor.olango:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.nzenweofor.olango:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.nzenweofor.olango:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.nzenweofor.olango:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.nzenweofor.olango:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.nzenweofor.olango:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.nzenweofor.olango:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -7301,7 +7301,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7310,11 +7310,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:buttonIconDimen
+     * @attr name com.nzenweofor.olango:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7322,11 +7322,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonPanelSideLayout
+     * @attr name com.nzenweofor.olango:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7334,11 +7334,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listItemLayout
+     * @attr name com.nzenweofor.olango:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7346,11 +7346,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listLayout
+     * @attr name com.nzenweofor.olango:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7358,21 +7358,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:multiChoiceItemLayout
+     * @attr name com.nzenweofor.olango:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:showTitle
+     * @attr name com.nzenweofor.olango:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7380,7 +7380,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:singleChoiceItemLayout
+     * @attr name com.nzenweofor.olango:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -7606,9 +7606,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.nzenweoforgroup.olango:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.nzenweoforgroup.olango:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.nzenweofor.olango:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.nzenweofor.olango:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -7667,27 +7667,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:expanded
+     * @attr name com.nzenweofor.olango:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:liftOnScroll
+     * @attr name com.nzenweofor.olango:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -7697,10 +7697,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.nzenweoforgroup.olango:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.nzenweoforgroup.olango:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.nzenweoforgroup.olango:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.nzenweoforgroup.olango:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.nzenweofor.olango:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.nzenweofor.olango:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.nzenweofor.olango:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.nzenweofor.olango:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -7711,43 +7711,43 @@ public final class R {
       0x7f0301b5, 0x7f0301b6, 0x7f0301b7, 0x7f0301b8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:state_collapsed
+     * @attr name com.nzenweofor.olango:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:state_collapsible
+     * @attr name com.nzenweofor.olango:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:state_liftable
+     * @attr name com.nzenweofor.olango:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:state_lifted
+     * @attr name com.nzenweofor.olango:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -7757,8 +7757,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.nzenweoforgroup.olango:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.nzenweoforgroup.olango:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.nzenweofor.olango:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.nzenweofor.olango:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -7767,7 +7767,7 @@ public final class R {
       0x7f030133, 0x7f030134
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7784,11 +7784,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:layout_scrollFlags
+     * @attr name com.nzenweofor.olango:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7796,7 +7796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:layout_scrollInterpolator
+     * @attr name com.nzenweofor.olango:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -7807,9 +7807,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.nzenweoforgroup.olango:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.nzenweoforgroup.olango:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.nzenweoforgroup.olango:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.nzenweofor.olango:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.nzenweofor.olango:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.nzenweofor.olango:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -7845,7 +7845,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:srcCompat
+     * @attr name com.nzenweofor.olango:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -7857,7 +7857,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tint
+     * @attr name com.nzenweofor.olango:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -7884,7 +7884,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tintMode
+     * @attr name com.nzenweofor.olango:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -7895,9 +7895,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.nzenweoforgroup.olango:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.nzenweoforgroup.olango:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.nzenweoforgroup.olango:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.nzenweofor.olango:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.nzenweofor.olango:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.nzenweofor.olango:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -7929,7 +7929,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tickMark
+     * @attr name com.nzenweofor.olango:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -7941,7 +7941,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tickMarkTint
+     * @attr name com.nzenweofor.olango:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -7968,7 +7968,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tickMarkTintMode
+     * @attr name com.nzenweofor.olango:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -8108,29 +8108,29 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.nzenweoforgroup.olango:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.nzenweoforgroup.olango:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.nzenweoforgroup.olango:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.nzenweofor.olango:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.nzenweofor.olango:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.nzenweofor.olango:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.nzenweoforgroup.olango:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.nzenweofor.olango:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.nzenweoforgroup.olango:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.nzenweoforgroup.olango:drawableBottomCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.nzenweoforgroup.olango:drawableEndCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.nzenweoforgroup.olango:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.nzenweofor.olango:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.nzenweofor.olango:drawableBottomCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.nzenweofor.olango:drawableEndCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.nzenweofor.olango:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.nzenweoforgroup.olango:drawableRightCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.nzenweoforgroup.olango:drawableStartCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.nzenweoforgroup.olango:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.nzenweoforgroup.olango:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.nzenweoforgroup.olango:drawableTopCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.nzenweoforgroup.olango:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.nzenweoforgroup.olango:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.nzenweoforgroup.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.nzenweoforgroup.olango:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.nzenweoforgroup.olango:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.nzenweoforgroup.olango:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textLocale com.nzenweoforgroup.olango:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.nzenweofor.olango:drawableRightCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.nzenweofor.olango:drawableStartCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.nzenweofor.olango:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.nzenweofor.olango:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.nzenweofor.olango:drawableTopCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.nzenweofor.olango:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.nzenweofor.olango:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.nzenweofor.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.nzenweofor.olango:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.nzenweofor.olango:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.nzenweofor.olango:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textLocale com.nzenweofor.olango:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -8186,7 +8186,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:autoSizeMaxTextSize
+     * @attr name com.nzenweofor.olango:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -8200,7 +8200,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:autoSizeMinTextSize
+     * @attr name com.nzenweofor.olango:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -8215,7 +8215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:autoSizePresetSizes
+     * @attr name com.nzenweofor.olango:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -8231,7 +8231,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:autoSizeStepGranularity
+     * @attr name com.nzenweofor.olango:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -8251,11 +8251,11 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:autoSizeTextType
+     * @attr name com.nzenweofor.olango:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#drawableBottomCompat}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#drawableBottomCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8263,11 +8263,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableBottomCompat
+     * @attr name com.nzenweofor.olango:drawableBottomCompat
      */
     public static final int AppCompatTextView_drawableBottomCompat=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#drawableEndCompat}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#drawableEndCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8275,7 +8275,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableEndCompat
+     * @attr name com.nzenweofor.olango:drawableEndCompat
      */
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
@@ -8289,11 +8289,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableLeftCompat
+     * @attr name com.nzenweofor.olango:drawableLeftCompat
      */
     public static final int AppCompatTextView_drawableLeftCompat=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#drawableRightCompat}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#drawableRightCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8301,11 +8301,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableRightCompat
+     * @attr name com.nzenweofor.olango:drawableRightCompat
      */
     public static final int AppCompatTextView_drawableRightCompat=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#drawableStartCompat}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#drawableStartCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8313,7 +8313,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableStartCompat
+     * @attr name com.nzenweofor.olango:drawableStartCompat
      */
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
@@ -8325,7 +8325,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableTint
+     * @attr name com.nzenweofor.olango:drawableTint
      */
     public static final int AppCompatTextView_drawableTint=11;
     /**
@@ -8352,11 +8352,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:drawableTintMode
+     * @attr name com.nzenweofor.olango:drawableTintMode
      */
     public static final int AppCompatTextView_drawableTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#drawableTopCompat}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#drawableTopCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8364,7 +8364,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:drawableTopCompat
+     * @attr name com.nzenweofor.olango:drawableTopCompat
      */
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
@@ -8379,7 +8379,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:firstBaselineToTopHeight
+     * @attr name com.nzenweofor.olango:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
@@ -8390,7 +8390,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontFamily
+     * @attr name com.nzenweofor.olango:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=15;
     /**
@@ -8401,7 +8401,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontVariationSettings
+     * @attr name com.nzenweofor.olango:fontVariationSettings
      */
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
@@ -8416,7 +8416,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:lastBaselineToBottomHeight
+     * @attr name com.nzenweofor.olango:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
@@ -8431,7 +8431,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:lineHeight
+     * @attr name com.nzenweofor.olango:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=18;
     /**
@@ -8446,7 +8446,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAllCaps
+     * @attr name com.nzenweofor.olango:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=19;
     /**
@@ -8461,7 +8461,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:textLocale
+     * @attr name com.nzenweofor.olango:textLocale
      */
     public static final int AppCompatTextView_textLocale=20;
     /**
@@ -8473,146 +8473,146 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.nzenweoforgroup.olango:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.nzenweoforgroup.olango:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.nzenweoforgroup.olango:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.nzenweofor.olango:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.nzenweofor.olango:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.nzenweofor.olango:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.nzenweoforgroup.olango:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.nzenweofor.olango:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.nzenweoforgroup.olango:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.nzenweoforgroup.olango:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.nzenweoforgroup.olango:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.nzenweoforgroup.olango:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.nzenweoforgroup.olango:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.nzenweoforgroup.olango:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.nzenweofor.olango:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.nzenweofor.olango:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.nzenweofor.olango:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.nzenweofor.olango:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.nzenweofor.olango:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.nzenweofor.olango:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.nzenweoforgroup.olango:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.nzenweofor.olango:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.nzenweoforgroup.olango:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.nzenweoforgroup.olango:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.nzenweoforgroup.olango:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.nzenweofor.olango:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.nzenweofor.olango:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.nzenweofor.olango:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.nzenweoforgroup.olango:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.nzenweoforgroup.olango:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.nzenweoforgroup.olango:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.nzenweoforgroup.olango:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.nzenweoforgroup.olango:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.nzenweoforgroup.olango:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.nzenweoforgroup.olango:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.nzenweoforgroup.olango:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.nzenweoforgroup.olango:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.nzenweoforgroup.olango:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.nzenweoforgroup.olango:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.nzenweoforgroup.olango:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.nzenweoforgroup.olango:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.nzenweoforgroup.olango:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.nzenweoforgroup.olango:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.nzenweoforgroup.olango:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.nzenweoforgroup.olango:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.nzenweoforgroup.olango:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.nzenweoforgroup.olango:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.nzenweoforgroup.olango:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.nzenweoforgroup.olango:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.nzenweoforgroup.olango:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.nzenweoforgroup.olango:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.nzenweoforgroup.olango:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.nzenweoforgroup.olango:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.nzenweoforgroup.olango:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.nzenweoforgroup.olango:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.nzenweoforgroup.olango:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.nzenweoforgroup.olango:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.nzenweoforgroup.olango:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.nzenweoforgroup.olango:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.nzenweoforgroup.olango:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.nzenweoforgroup.olango:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.nzenweoforgroup.olango:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.nzenweoforgroup.olango:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.nzenweoforgroup.olango:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.nzenweoforgroup.olango:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.nzenweoforgroup.olango:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.nzenweoforgroup.olango:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.nzenweofor.olango:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.nzenweofor.olango:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.nzenweofor.olango:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.nzenweofor.olango:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.nzenweofor.olango:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.nzenweofor.olango:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.nzenweofor.olango:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.nzenweofor.olango:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.nzenweofor.olango:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.nzenweofor.olango:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.nzenweofor.olango:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.nzenweofor.olango:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.nzenweofor.olango:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.nzenweofor.olango:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.nzenweofor.olango:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.nzenweofor.olango:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.nzenweofor.olango:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.nzenweofor.olango:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.nzenweofor.olango:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.nzenweofor.olango:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.nzenweofor.olango:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.nzenweofor.olango:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.nzenweofor.olango:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.nzenweofor.olango:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.nzenweofor.olango:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.nzenweofor.olango:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.nzenweofor.olango:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.nzenweofor.olango:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.nzenweofor.olango:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.nzenweofor.olango:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.nzenweofor.olango:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.nzenweofor.olango:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.nzenweofor.olango:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.nzenweofor.olango:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.nzenweofor.olango:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.nzenweofor.olango:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.nzenweofor.olango:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.nzenweofor.olango:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.nzenweofor.olango:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.nzenweoforgroup.olango:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.nzenweoforgroup.olango:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.nzenweoforgroup.olango:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.nzenweoforgroup.olango:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.nzenweoforgroup.olango:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.nzenweoforgroup.olango:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.nzenweoforgroup.olango:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.nzenweoforgroup.olango:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.nzenweoforgroup.olango:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.nzenweoforgroup.olango:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.nzenweoforgroup.olango:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.nzenweoforgroup.olango:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.nzenweoforgroup.olango:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.nzenweoforgroup.olango:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.nzenweoforgroup.olango:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.nzenweoforgroup.olango:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.nzenweoforgroup.olango:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.nzenweoforgroup.olango:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.nzenweoforgroup.olango:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.nzenweoforgroup.olango:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.nzenweoforgroup.olango:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.nzenweoforgroup.olango:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.nzenweoforgroup.olango:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.nzenweoforgroup.olango:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.nzenweoforgroup.olango:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.nzenweoforgroup.olango:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.nzenweoforgroup.olango:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.nzenweoforgroup.olango:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.nzenweoforgroup.olango:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.nzenweoforgroup.olango:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.nzenweoforgroup.olango:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.nzenweoforgroup.olango:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.nzenweoforgroup.olango:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.nzenweoforgroup.olango:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.nzenweoforgroup.olango:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.nzenweoforgroup.olango:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.nzenweoforgroup.olango:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.nzenweoforgroup.olango:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.nzenweoforgroup.olango:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.nzenweoforgroup.olango:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.nzenweoforgroup.olango:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.nzenweofor.olango:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.nzenweofor.olango:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.nzenweofor.olango:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.nzenweofor.olango:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.nzenweofor.olango:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.nzenweofor.olango:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.nzenweofor.olango:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.nzenweofor.olango:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.nzenweofor.olango:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.nzenweofor.olango:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.nzenweofor.olango:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.nzenweofor.olango:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.nzenweofor.olango:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.nzenweofor.olango:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.nzenweofor.olango:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.nzenweofor.olango:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.nzenweofor.olango:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.nzenweofor.olango:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.nzenweofor.olango:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.nzenweofor.olango:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.nzenweofor.olango:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.nzenweofor.olango:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.nzenweofor.olango:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.nzenweofor.olango:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.nzenweofor.olango:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.nzenweofor.olango:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.nzenweofor.olango:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.nzenweofor.olango:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.nzenweofor.olango:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.nzenweofor.olango:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.nzenweofor.olango:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.nzenweofor.olango:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.nzenweofor.olango:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.nzenweofor.olango:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.nzenweofor.olango:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.nzenweofor.olango:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.nzenweofor.olango:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.nzenweofor.olango:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.nzenweofor.olango:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.nzenweofor.olango:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.nzenweofor.olango:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.nzenweoforgroup.olango:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.nzenweoforgroup.olango:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.nzenweoforgroup.olango:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.nzenweoforgroup.olango:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.nzenweoforgroup.olango:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.nzenweoforgroup.olango:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.nzenweoforgroup.olango:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.nzenweoforgroup.olango:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.nzenweoforgroup.olango:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.nzenweoforgroup.olango:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.nzenweoforgroup.olango:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.nzenweoforgroup.olango:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.nzenweoforgroup.olango:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.nzenweoforgroup.olango:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.nzenweoforgroup.olango:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.nzenweoforgroup.olango:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.nzenweoforgroup.olango:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.nzenweoforgroup.olango:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.nzenweoforgroup.olango:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.nzenweoforgroup.olango:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.nzenweofor.olango:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.nzenweofor.olango:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.nzenweofor.olango:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.nzenweofor.olango:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.nzenweofor.olango:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.nzenweofor.olango:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.nzenweofor.olango:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.nzenweofor.olango:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.nzenweofor.olango:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.nzenweofor.olango:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.nzenweofor.olango:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.nzenweofor.olango:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.nzenweofor.olango:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.nzenweofor.olango:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.nzenweofor.olango:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.nzenweofor.olango:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.nzenweofor.olango:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.nzenweofor.olango:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.nzenweofor.olango:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.nzenweofor.olango:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.nzenweoforgroup.olango:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.nzenweofor.olango:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.nzenweoforgroup.olango:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.nzenweofor.olango:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.nzenweoforgroup.olango:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.nzenweofor.olango:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.nzenweoforgroup.olango:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.nzenweofor.olango:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.nzenweoforgroup.olango:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.nzenweofor.olango:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.nzenweoforgroup.olango:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.nzenweofor.olango:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.nzenweoforgroup.olango:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.nzenweofor.olango:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.nzenweoforgroup.olango:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.nzenweofor.olango:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.nzenweoforgroup.olango:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.nzenweofor.olango:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -8806,7 +8806,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarDivider
+     * @attr name com.nzenweofor.olango:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -8819,7 +8819,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarItemBackground
+     * @attr name com.nzenweofor.olango:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -8833,7 +8833,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarPopupTheme
+     * @attr name com.nzenweofor.olango:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -8856,7 +8856,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarSize
+     * @attr name com.nzenweofor.olango:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -8872,7 +8872,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarSplitStyle
+     * @attr name com.nzenweofor.olango:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -8885,11 +8885,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarStyle
+     * @attr name com.nzenweofor.olango:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8897,7 +8897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarTabBarStyle
+     * @attr name com.nzenweofor.olango:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -8910,11 +8910,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarTabStyle
+     * @attr name com.nzenweofor.olango:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8922,7 +8922,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarTabTextStyle
+     * @attr name com.nzenweofor.olango:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -8937,7 +8937,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarTheme
+     * @attr name com.nzenweofor.olango:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -8956,7 +8956,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionBarWidgetTheme
+     * @attr name com.nzenweofor.olango:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -8969,7 +8969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionButtonStyle
+     * @attr name com.nzenweofor.olango:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -8982,7 +8982,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionDropDownStyle
+     * @attr name com.nzenweofor.olango:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -8996,7 +8996,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionMenuTextAppearance
+     * @attr name com.nzenweofor.olango:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -9012,7 +9012,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionMenuTextColor
+     * @attr name com.nzenweofor.olango:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -9025,11 +9025,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeBackground
+     * @attr name com.nzenweofor.olango:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9037,7 +9037,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeCloseButtonStyle
+     * @attr name com.nzenweofor.olango:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -9050,7 +9050,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeCloseDrawable
+     * @attr name com.nzenweofor.olango:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -9063,7 +9063,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeCopyDrawable
+     * @attr name com.nzenweofor.olango:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -9076,7 +9076,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeCutDrawable
+     * @attr name com.nzenweofor.olango:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -9089,7 +9089,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeFindDrawable
+     * @attr name com.nzenweofor.olango:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -9102,7 +9102,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModePasteDrawable
+     * @attr name com.nzenweofor.olango:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -9115,7 +9115,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModePopupWindowStyle
+     * @attr name com.nzenweofor.olango:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -9128,7 +9128,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeSelectAllDrawable
+     * @attr name com.nzenweofor.olango:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -9141,7 +9141,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeShareDrawable
+     * @attr name com.nzenweofor.olango:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -9154,11 +9154,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeSplitBackground
+     * @attr name com.nzenweofor.olango:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9166,7 +9166,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeStyle
+     * @attr name com.nzenweofor.olango:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -9179,11 +9179,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionModeWebSearchDrawable
+     * @attr name com.nzenweofor.olango:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9191,11 +9191,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionOverflowButtonStyle
+     * @attr name com.nzenweofor.olango:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9203,7 +9203,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionOverflowMenuStyle
+     * @attr name com.nzenweofor.olango:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -9216,11 +9216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:activityChooserViewStyle
+     * @attr name com.nzenweofor.olango:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9228,21 +9228,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:alertDialogButtonGroupStyle
+     * @attr name com.nzenweofor.olango:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:alertDialogCenterButtons
+     * @attr name com.nzenweofor.olango:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9250,7 +9250,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:alertDialogStyle
+     * @attr name com.nzenweofor.olango:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -9263,7 +9263,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:alertDialogTheme
+     * @attr name com.nzenweofor.olango:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -9276,7 +9276,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:autoCompleteTextViewStyle
+     * @attr name com.nzenweofor.olango:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -9289,7 +9289,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:borderlessButtonStyle
+     * @attr name com.nzenweofor.olango:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -9302,7 +9302,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonBarButtonStyle
+     * @attr name com.nzenweofor.olango:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -9315,7 +9315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonBarNegativeButtonStyle
+     * @attr name com.nzenweofor.olango:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -9328,7 +9328,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonBarNeutralButtonStyle
+     * @attr name com.nzenweofor.olango:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -9341,7 +9341,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonBarPositiveButtonStyle
+     * @attr name com.nzenweofor.olango:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -9354,7 +9354,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonBarStyle
+     * @attr name com.nzenweofor.olango:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -9367,7 +9367,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonStyle
+     * @attr name com.nzenweofor.olango:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -9380,7 +9380,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonStyleSmall
+     * @attr name com.nzenweofor.olango:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -9393,7 +9393,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkboxStyle
+     * @attr name com.nzenweofor.olango:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -9406,7 +9406,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkedTextViewStyle
+     * @attr name com.nzenweofor.olango:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -9419,7 +9419,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorAccent
+     * @attr name com.nzenweofor.olango:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -9431,7 +9431,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorBackgroundFloating
+     * @attr name com.nzenweofor.olango:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -9443,7 +9443,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorButtonNormal
+     * @attr name com.nzenweofor.olango:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -9455,7 +9455,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorControlActivated
+     * @attr name com.nzenweofor.olango:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -9467,7 +9467,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorControlHighlight
+     * @attr name com.nzenweofor.olango:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -9479,7 +9479,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorControlNormal
+     * @attr name com.nzenweofor.olango:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -9496,7 +9496,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorError
+     * @attr name com.nzenweofor.olango:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -9509,7 +9509,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorPrimary
+     * @attr name com.nzenweofor.olango:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -9522,7 +9522,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorPrimaryDark
+     * @attr name com.nzenweofor.olango:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -9534,7 +9534,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorSwitchThumbNormal
+     * @attr name com.nzenweofor.olango:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -9547,7 +9547,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:controlBackground
+     * @attr name com.nzenweofor.olango:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -9561,7 +9561,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:dialogCornerRadius
+     * @attr name com.nzenweofor.olango:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -9575,7 +9575,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:dialogPreferredPadding
+     * @attr name com.nzenweofor.olango:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -9588,7 +9588,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:dialogTheme
+     * @attr name com.nzenweofor.olango:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -9601,7 +9601,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:dividerHorizontal
+     * @attr name com.nzenweofor.olango:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -9614,7 +9614,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:dividerVertical
+     * @attr name com.nzenweofor.olango:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -9627,7 +9627,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:dropDownListViewStyle
+     * @attr name com.nzenweofor.olango:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -9641,7 +9641,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:dropdownListPreferredItemHeight
+     * @attr name com.nzenweofor.olango:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -9654,7 +9654,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:editTextBackground
+     * @attr name com.nzenweofor.olango:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -9670,7 +9670,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:editTextColor
+     * @attr name com.nzenweofor.olango:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -9683,7 +9683,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:editTextStyle
+     * @attr name com.nzenweofor.olango:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -9696,7 +9696,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:homeAsUpIndicator
+     * @attr name com.nzenweofor.olango:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -9709,7 +9709,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:imageButtonStyle
+     * @attr name com.nzenweofor.olango:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -9722,7 +9722,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listChoiceBackgroundIndicator
+     * @attr name com.nzenweofor.olango:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -9735,7 +9735,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listChoiceIndicatorMultipleAnimated
+     * @attr name com.nzenweofor.olango:listChoiceIndicatorMultipleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
@@ -9748,7 +9748,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listChoiceIndicatorSingleAnimated
+     * @attr name com.nzenweofor.olango:listChoiceIndicatorSingleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
@@ -9761,7 +9761,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listDividerAlertDialog
+     * @attr name com.nzenweofor.olango:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
@@ -9774,11 +9774,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listMenuViewStyle
+     * @attr name com.nzenweofor.olango:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9786,7 +9786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:listPopupWindowStyle
+     * @attr name com.nzenweofor.olango:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
@@ -9800,7 +9800,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemHeight
+     * @attr name com.nzenweofor.olango:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
@@ -9814,7 +9814,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemHeightLarge
+     * @attr name com.nzenweofor.olango:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
@@ -9828,7 +9828,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemHeightSmall
+     * @attr name com.nzenweofor.olango:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
@@ -9842,7 +9842,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemPaddingEnd
+     * @attr name com.nzenweofor.olango:listPreferredItemPaddingEnd
      */
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
@@ -9856,7 +9856,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemPaddingLeft
+     * @attr name com.nzenweofor.olango:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
@@ -9870,7 +9870,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemPaddingRight
+     * @attr name com.nzenweofor.olango:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
@@ -9884,7 +9884,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:listPreferredItemPaddingStart
+     * @attr name com.nzenweofor.olango:listPreferredItemPaddingStart
      */
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
@@ -9897,7 +9897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:panelBackground
+     * @attr name com.nzenweofor.olango:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=84;
     /**
@@ -9910,7 +9910,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:panelMenuListTheme
+     * @attr name com.nzenweofor.olango:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
@@ -9924,7 +9924,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:panelMenuListWidth
+     * @attr name com.nzenweofor.olango:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
@@ -9937,7 +9937,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:popupMenuStyle
+     * @attr name com.nzenweofor.olango:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
@@ -9950,7 +9950,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:popupWindowStyle
+     * @attr name com.nzenweofor.olango:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
@@ -9963,7 +9963,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:radioButtonStyle
+     * @attr name com.nzenweofor.olango:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
@@ -9976,7 +9976,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:ratingBarStyle
+     * @attr name com.nzenweofor.olango:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
@@ -9989,7 +9989,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:ratingBarStyleIndicator
+     * @attr name com.nzenweofor.olango:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
@@ -10002,7 +10002,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:ratingBarStyleSmall
+     * @attr name com.nzenweofor.olango:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
@@ -10015,7 +10015,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:searchViewStyle
+     * @attr name com.nzenweofor.olango:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
@@ -10028,7 +10028,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:seekBarStyle
+     * @attr name com.nzenweofor.olango:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
@@ -10043,7 +10043,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:selectableItemBackground
+     * @attr name com.nzenweofor.olango:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
@@ -10056,7 +10056,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:selectableItemBackgroundBorderless
+     * @attr name com.nzenweofor.olango:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
@@ -10069,7 +10069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:spinnerDropDownItemStyle
+     * @attr name com.nzenweofor.olango:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
@@ -10082,7 +10082,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:spinnerStyle
+     * @attr name com.nzenweofor.olango:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
@@ -10095,7 +10095,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:switchStyle
+     * @attr name com.nzenweofor.olango:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=99;
     /**
@@ -10108,7 +10108,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceLargePopupMenu
+     * @attr name com.nzenweofor.olango:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
@@ -10121,7 +10121,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceListItem
+     * @attr name com.nzenweofor.olango:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
@@ -10134,7 +10134,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceListItemSecondary
+     * @attr name com.nzenweofor.olango:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
@@ -10147,7 +10147,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceListItemSmall
+     * @attr name com.nzenweofor.olango:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
@@ -10160,7 +10160,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearancePopupMenuHeader
+     * @attr name com.nzenweofor.olango:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
@@ -10173,7 +10173,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceSearchResultSubtitle
+     * @attr name com.nzenweofor.olango:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
@@ -10186,7 +10186,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceSearchResultTitle
+     * @attr name com.nzenweofor.olango:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
@@ -10199,7 +10199,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceSmallPopupMenu
+     * @attr name com.nzenweofor.olango:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
@@ -10215,7 +10215,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textColorAlertDialogListItem
+     * @attr name com.nzenweofor.olango:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
@@ -10231,7 +10231,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textColorSearchUrl
+     * @attr name com.nzenweofor.olango:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
@@ -10244,7 +10244,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:toolbarNavigationButtonStyle
+     * @attr name com.nzenweofor.olango:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
@@ -10257,7 +10257,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:toolbarStyle
+     * @attr name com.nzenweofor.olango:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
@@ -10273,7 +10273,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tooltipForegroundColor
+     * @attr name com.nzenweofor.olango:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
@@ -10286,17 +10286,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tooltipFrameBackground
+     * @attr name com.nzenweofor.olango:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=113;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:viewInflaterClass
+     * @attr name com.nzenweofor.olango:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
@@ -10308,7 +10308,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:windowActionBar
+     * @attr name com.nzenweofor.olango:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=115;
     /**
@@ -10321,7 +10321,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:windowActionBarOverlay
+     * @attr name com.nzenweofor.olango:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
@@ -10333,7 +10333,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:windowActionModeOverlay
+     * @attr name com.nzenweofor.olango:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
@@ -10353,7 +10353,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowFixedHeightMajor
+     * @attr name com.nzenweofor.olango:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
@@ -10373,7 +10373,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowFixedHeightMinor
+     * @attr name com.nzenweofor.olango:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
@@ -10393,7 +10393,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowFixedWidthMajor
+     * @attr name com.nzenweofor.olango:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
@@ -10413,7 +10413,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowFixedWidthMinor
+     * @attr name com.nzenweofor.olango:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
@@ -10434,7 +10434,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowMinWidthMajor
+     * @attr name com.nzenweofor.olango:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
@@ -10455,7 +10455,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:windowMinWidthMinor
+     * @attr name com.nzenweofor.olango:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
@@ -10466,7 +10466,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:windowNoTitle
+     * @attr name com.nzenweofor.olango:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=124;
     /**
@@ -10476,7 +10476,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AspectRatioFrameLayout_resize_mode com.nzenweoforgroup.olango:resize_mode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AspectRatioFrameLayout_resize_mode com.nzenweofor.olango:resize_mode}</code></td><td></td></tr>
      * </table>
      * @see #AspectRatioFrameLayout_resize_mode
      */
@@ -10484,7 +10484,7 @@ public final class R {
       0x7f03017b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#resize_mode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#resize_mode}
      * attribute's value can be found in the {@link #AspectRatioFrameLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10500,7 +10500,7 @@ public final class R {
      * <tr><td>zoom</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:resize_mode
+     * @attr name com.nzenweofor.olango:resize_mode
      */
     public static final int AspectRatioFrameLayout_resize_mode=0;
     /**
@@ -10510,12 +10510,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.nzenweoforgroup.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.nzenweoforgroup.olango:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.nzenweoforgroup.olango:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.nzenweoforgroup.olango:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.nzenweoforgroup.olango:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.nzenweoforgroup.olango:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.nzenweofor.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.nzenweofor.olango:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.nzenweofor.olango:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.nzenweofor.olango:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.nzenweofor.olango:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.nzenweofor.olango:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -10537,11 +10537,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTint
+     * @attr name com.nzenweofor.olango:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10554,11 +10554,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:fabAlignmentMode
+     * @attr name com.nzenweofor.olango:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10567,11 +10567,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:fabCradleMargin
+     * @attr name com.nzenweofor.olango:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10580,11 +10580,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:fabCradleRoundedCornerRadius
+     * @attr name com.nzenweofor.olango:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10593,17 +10593,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:fabCradleVerticalOffset
+     * @attr name com.nzenweofor.olango:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hideOnScroll
+     * @attr name com.nzenweofor.olango:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -10613,16 +10613,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.nzenweoforgroup.olango:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.nzenweoforgroup.olango:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.nzenweoforgroup.olango:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.nzenweoforgroup.olango:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.nzenweoforgroup.olango:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.nzenweoforgroup.olango:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.nzenweoforgroup.olango:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.nzenweoforgroup.olango:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.nzenweoforgroup.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.nzenweofor.olango:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.nzenweofor.olango:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.nzenweofor.olango:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.nzenweofor.olango:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.nzenweofor.olango:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.nzenweofor.olango:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.nzenweofor.olango:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.nzenweofor.olango:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.nzenweofor.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -10651,11 +10651,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10663,21 +10663,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemBackground
+     * @attr name com.nzenweofor.olango:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemHorizontalTranslationEnabled
+     * @attr name com.nzenweofor.olango:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10686,22 +10686,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:itemIconSize
+     * @attr name com.nzenweofor.olango:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemIconTint
+     * @attr name com.nzenweofor.olango:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10709,11 +10709,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemTextAppearanceActive
+     * @attr name com.nzenweofor.olango:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10721,22 +10721,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemTextAppearanceInactive
+     * @attr name com.nzenweofor.olango:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemTextColor
+     * @attr name com.nzenweofor.olango:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10751,7 +10751,7 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:labelVisibilityMode
+     * @attr name com.nzenweofor.olango:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
@@ -10764,7 +10764,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:menu
+     * @attr name com.nzenweofor.olango:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -10774,10 +10774,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.nzenweoforgroup.olango:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.nzenweoforgroup.olango:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.nzenweoforgroup.olango:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.nzenweoforgroup.olango:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.nzenweofor.olango:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.nzenweofor.olango:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.nzenweofor.olango:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.nzenweofor.olango:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -10788,27 +10788,27 @@ public final class R {
       0x7f030040, 0x7f030041, 0x7f030043, 0x7f030044
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_fitToContents
+     * @attr name com.nzenweofor.olango:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_hideable
+     * @attr name com.nzenweofor.olango:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10825,17 +10825,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_peekHeight
+     * @attr name com.nzenweofor.olango:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_skipCollapsed
+     * @attr name com.nzenweofor.olango:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -10845,7 +10845,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.nzenweoforgroup.olango:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.nzenweofor.olango:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -10862,7 +10862,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:allowStacking
+     * @attr name com.nzenweofor.olango:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -10874,17 +10874,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.nzenweoforgroup.olango:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.nzenweoforgroup.olango:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.nzenweoforgroup.olango:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.nzenweoforgroup.olango:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.nzenweoforgroup.olango:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.nzenweoforgroup.olango:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.nzenweoforgroup.olango:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.nzenweoforgroup.olango:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.nzenweoforgroup.olango:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.nzenweoforgroup.olango:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.nzenweoforgroup.olango:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.nzenweofor.olango:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.nzenweofor.olango:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.nzenweofor.olango:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.nzenweofor.olango:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.nzenweofor.olango:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.nzenweofor.olango:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.nzenweofor.olango:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.nzenweofor.olango:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.nzenweofor.olango:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.nzenweofor.olango:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.nzenweofor.olango:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -10943,7 +10943,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:cardBackgroundColor
+     * @attr name com.nzenweofor.olango:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -10957,7 +10957,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:cardCornerRadius
+     * @attr name com.nzenweofor.olango:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -10971,7 +10971,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:cardElevation
+     * @attr name com.nzenweofor.olango:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -10985,7 +10985,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:cardMaxElevation
+     * @attr name com.nzenweofor.olango:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -10996,7 +10996,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:cardPreventCornerOverlap
+     * @attr name com.nzenweofor.olango:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -11007,7 +11007,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:cardUseCompatPadding
+     * @attr name com.nzenweofor.olango:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -11021,7 +11021,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentPadding
+     * @attr name com.nzenweofor.olango:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -11035,7 +11035,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentPaddingBottom
+     * @attr name com.nzenweofor.olango:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -11049,7 +11049,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentPaddingLeft
+     * @attr name com.nzenweofor.olango:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -11063,7 +11063,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentPaddingRight
+     * @attr name com.nzenweofor.olango:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -11077,7 +11077,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentPaddingTop
+     * @attr name com.nzenweofor.olango:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -11092,35 +11092,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.nzenweoforgroup.olango:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.nzenweoforgroup.olango:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.nzenweoforgroup.olango:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.nzenweoforgroup.olango:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.nzenweoforgroup.olango:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.nzenweoforgroup.olango:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.nzenweoforgroup.olango:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.nzenweoforgroup.olango:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.nzenweoforgroup.olango:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.nzenweoforgroup.olango:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.nzenweoforgroup.olango:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.nzenweoforgroup.olango:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.nzenweoforgroup.olango:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.nzenweoforgroup.olango:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.nzenweoforgroup.olango:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.nzenweoforgroup.olango:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.nzenweoforgroup.olango:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.nzenweoforgroup.olango:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.nzenweoforgroup.olango:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.nzenweoforgroup.olango:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.nzenweoforgroup.olango:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.nzenweoforgroup.olango:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.nzenweoforgroup.olango:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.nzenweoforgroup.olango:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.nzenweoforgroup.olango:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.nzenweoforgroup.olango:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.nzenweoforgroup.olango:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.nzenweoforgroup.olango:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.nzenweoforgroup.olango:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.nzenweofor.olango:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.nzenweofor.olango:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.nzenweofor.olango:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.nzenweofor.olango:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.nzenweofor.olango:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.nzenweofor.olango:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.nzenweofor.olango:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.nzenweofor.olango:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.nzenweofor.olango:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.nzenweofor.olango:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.nzenweofor.olango:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.nzenweofor.olango:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.nzenweofor.olango:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.nzenweofor.olango:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.nzenweofor.olango:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.nzenweofor.olango:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.nzenweofor.olango:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.nzenweofor.olango:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.nzenweofor.olango:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.nzenweofor.olango:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.nzenweofor.olango:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.nzenweofor.olango:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.nzenweofor.olango:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.nzenweofor.olango:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.nzenweofor.olango:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.nzenweofor.olango:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.nzenweofor.olango:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.nzenweofor.olango:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.nzenweofor.olango:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -11234,7 +11234,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11242,42 +11242,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkedIcon
+     * @attr name com.nzenweofor.olango:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkedIconEnabled
+     * @attr name com.nzenweofor.olango:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkedIconVisible
+     * @attr name com.nzenweofor.olango:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipBackgroundColor
+     * @attr name com.nzenweofor.olango:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11286,11 +11286,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipCornerRadius
+     * @attr name com.nzenweofor.olango:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11299,11 +11299,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipEndPadding
+     * @attr name com.nzenweofor.olango:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11311,21 +11311,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipIcon
+     * @attr name com.nzenweofor.olango:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipIconEnabled
+     * @attr name com.nzenweofor.olango:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11334,32 +11334,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipIconSize
+     * @attr name com.nzenweofor.olango:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipIconTint
+     * @attr name com.nzenweofor.olango:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipIconVisible
+     * @attr name com.nzenweofor.olango:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11368,11 +11368,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipMinHeight
+     * @attr name com.nzenweofor.olango:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11381,22 +11381,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipStartPadding
+     * @attr name com.nzenweofor.olango:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipStrokeColor
+     * @attr name com.nzenweofor.olango:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11405,7 +11405,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipStrokeWidth
+     * @attr name com.nzenweofor.olango:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -11418,21 +11418,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeIcon
+     * @attr name com.nzenweofor.olango:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconEnabled
+     * @attr name com.nzenweofor.olango:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11441,11 +11441,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconEndPadding
+     * @attr name com.nzenweofor.olango:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11454,11 +11454,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconSize
+     * @attr name com.nzenweofor.olango:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11467,32 +11467,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconStartPadding
+     * @attr name com.nzenweofor.olango:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconTint
+     * @attr name com.nzenweofor.olango:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeIconVisible
+     * @attr name com.nzenweofor.olango:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11500,11 +11500,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hideMotionSpec
+     * @attr name com.nzenweofor.olango:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11513,11 +11513,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:iconEndPadding
+     * @attr name com.nzenweofor.olango:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11526,22 +11526,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:iconStartPadding
+     * @attr name com.nzenweofor.olango:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:rippleColor
+     * @attr name com.nzenweofor.olango:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11549,11 +11549,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:showMotionSpec
+     * @attr name com.nzenweofor.olango:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11562,11 +11562,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:textEndPadding
+     * @attr name com.nzenweofor.olango:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11575,7 +11575,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:textStartPadding
+     * @attr name com.nzenweofor.olango:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -11585,12 +11585,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.nzenweoforgroup.olango:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.nzenweoforgroup.olango:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.nzenweoforgroup.olango:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.nzenweoforgroup.olango:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.nzenweoforgroup.olango:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.nzenweoforgroup.olango:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.nzenweofor.olango:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.nzenweofor.olango:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.nzenweofor.olango:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.nzenweofor.olango:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.nzenweofor.olango:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.nzenweofor.olango:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -11604,7 +11604,7 @@ public final class R {
       0x7f0301a9, 0x7f0301aa
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11612,11 +11612,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:checkedChip
+     * @attr name com.nzenweofor.olango:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11625,11 +11625,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipSpacing
+     * @attr name com.nzenweofor.olango:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11638,11 +11638,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipSpacingHorizontal
+     * @attr name com.nzenweofor.olango:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11651,27 +11651,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:chipSpacingVertical
+     * @attr name com.nzenweofor.olango:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:singleLine
+     * @attr name com.nzenweofor.olango:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:singleSelection
+     * @attr name com.nzenweofor.olango:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -11681,22 +11681,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.nzenweoforgroup.olango:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.nzenweoforgroup.olango:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.nzenweoforgroup.olango:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.nzenweoforgroup.olango:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.nzenweoforgroup.olango:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.nzenweoforgroup.olango:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.nzenweoforgroup.olango:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.nzenweoforgroup.olango:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.nzenweoforgroup.olango:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.nzenweoforgroup.olango:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.nzenweoforgroup.olango:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.nzenweoforgroup.olango:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.nzenweoforgroup.olango:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.nzenweoforgroup.olango:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.nzenweoforgroup.olango:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.nzenweoforgroup.olango:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.nzenweofor.olango:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.nzenweofor.olango:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.nzenweofor.olango:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.nzenweofor.olango:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.nzenweofor.olango:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.nzenweofor.olango:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.nzenweofor.olango:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.nzenweofor.olango:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.nzenweofor.olango:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.nzenweofor.olango:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.nzenweofor.olango:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.nzenweofor.olango:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.nzenweofor.olango:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.nzenweofor.olango:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.nzenweofor.olango:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.nzenweofor.olango:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -11722,7 +11722,7 @@ public final class R {
       0x7f0301ba, 0x7f030209, 0x7f03020a, 0x7f030214
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11743,11 +11743,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:collapsedTitleGravity
+     * @attr name com.nzenweofor.olango:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11755,22 +11755,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:collapsedTitleTextAppearance
+     * @attr name com.nzenweofor.olango:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:contentScrim
+     * @attr name com.nzenweofor.olango:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11791,11 +11791,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleGravity
+     * @attr name com.nzenweofor.olango:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11804,11 +11804,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleMargin
+     * @attr name com.nzenweofor.olango:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11817,11 +11817,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleMarginBottom
+     * @attr name com.nzenweofor.olango:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11830,11 +11830,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleMarginEnd
+     * @attr name com.nzenweofor.olango:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11843,11 +11843,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleMarginStart
+     * @attr name com.nzenweofor.olango:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11856,11 +11856,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleMarginTop
+     * @attr name com.nzenweofor.olango:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11868,20 +11868,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:expandedTitleTextAppearance
+     * @attr name com.nzenweofor.olango:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:scrimAnimationDuration
+     * @attr name com.nzenweofor.olango:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11890,42 +11890,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:scrimVisibleHeightTrigger
+     * @attr name com.nzenweofor.olango:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:statusBarScrim
+     * @attr name com.nzenweofor.olango:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:title
+     * @attr name com.nzenweofor.olango:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:titleEnabled
+     * @attr name com.nzenweofor.olango:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11933,7 +11933,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:toolbarId
+     * @attr name com.nzenweofor.olango:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -11943,8 +11943,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.nzenweoforgroup.olango:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.nzenweoforgroup.olango:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.nzenweofor.olango:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.nzenweofor.olango:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -11953,7 +11953,7 @@ public final class R {
       0x7f03012e, 0x7f03012f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11967,16 +11967,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:layout_collapseMode
+     * @attr name com.nzenweofor.olango:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:layout_collapseParallaxMultiplier
+     * @attr name com.nzenweofor.olango:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -11988,7 +11988,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.nzenweoforgroup.olango:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.nzenweofor.olango:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -12025,7 +12025,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:alpha
+     * @attr name com.nzenweofor.olango:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -12036,9 +12036,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonCompat com.nzenweoforgroup.olango:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.nzenweoforgroup.olango:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.nzenweoforgroup.olango:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.nzenweofor.olango:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.nzenweofor.olango:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.nzenweofor.olango:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonCompat
@@ -12070,7 +12070,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonCompat
+     * @attr name com.nzenweofor.olango:buttonCompat
      */
     public static final int CompoundButton_buttonCompat=1;
     /**
@@ -12082,7 +12082,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buttonTint
+     * @attr name com.nzenweofor.olango:buttonTint
      */
     public static final int CompoundButton_buttonTint=2;
     /**
@@ -12109,7 +12109,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:buttonTintMode
+     * @attr name com.nzenweofor.olango:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=3;
     /**
@@ -12119,9 +12119,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.nzenweoforgroup.olango:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.nzenweofor.olango:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.nzenweoforgroup.olango:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.nzenweofor.olango:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -12143,7 +12143,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:keylines
+     * @attr name com.nzenweofor.olango:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -12159,7 +12159,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:statusBarBackground
+     * @attr name com.nzenweofor.olango:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -12170,15 +12170,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.nzenweoforgroup.olango:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.nzenweoforgroup.olango:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.nzenweofor.olango:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.nzenweofor.olango:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.nzenweoforgroup.olango:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.nzenweofor.olango:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.nzenweoforgroup.olango:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.nzenweoforgroup.olango:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.nzenweofor.olango:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.nzenweofor.olango:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.nzenweoforgroup.olango:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.nzenweofor.olango:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -12231,7 +12231,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:layout_anchor
+     * @attr name com.nzenweofor.olango:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -12268,7 +12268,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:layout_anchorGravity
+     * @attr name com.nzenweofor.olango:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -12280,7 +12280,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:layout_behavior
+     * @attr name com.nzenweofor.olango:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -12304,7 +12304,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:layout_dodgeInsetEdges
+     * @attr name com.nzenweofor.olango:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -12328,7 +12328,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:layout_insetEdge
+     * @attr name com.nzenweofor.olango:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -12340,7 +12340,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:layout_keyline
+     * @attr name com.nzenweofor.olango:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -12350,19 +12350,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_ad_marker_color com.nzenweoforgroup.olango:ad_marker_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_ad_marker_width com.nzenweoforgroup.olango:ad_marker_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_bar_height com.nzenweoforgroup.olango:bar_height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_buffered_color com.nzenweoforgroup.olango:buffered_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_played_ad_marker_color com.nzenweoforgroup.olango:played_ad_marker_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_played_color com.nzenweoforgroup.olango:played_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_scrubber_color com.nzenweoforgroup.olango:scrubber_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_scrubber_disabled_size com.nzenweoforgroup.olango:scrubber_disabled_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_scrubber_dragged_size com.nzenweoforgroup.olango:scrubber_dragged_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_scrubber_drawable com.nzenweoforgroup.olango:scrubber_drawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_scrubber_enabled_size com.nzenweoforgroup.olango:scrubber_enabled_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_touch_target_height com.nzenweoforgroup.olango:touch_target_height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DefaultTimeBar_unplayed_color com.nzenweoforgroup.olango:unplayed_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_ad_marker_color com.nzenweofor.olango:ad_marker_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_ad_marker_width com.nzenweofor.olango:ad_marker_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_bar_height com.nzenweofor.olango:bar_height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_buffered_color com.nzenweofor.olango:buffered_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_played_ad_marker_color com.nzenweofor.olango:played_ad_marker_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_played_color com.nzenweofor.olango:played_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_scrubber_color com.nzenweofor.olango:scrubber_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_scrubber_disabled_size com.nzenweofor.olango:scrubber_disabled_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_scrubber_dragged_size com.nzenweofor.olango:scrubber_dragged_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_scrubber_drawable com.nzenweofor.olango:scrubber_drawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_scrubber_enabled_size com.nzenweofor.olango:scrubber_enabled_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_touch_target_height com.nzenweofor.olango:touch_target_height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DefaultTimeBar_unplayed_color com.nzenweofor.olango:unplayed_color}</code></td><td></td></tr>
      * </table>
      * @see #DefaultTimeBar_ad_marker_color
      * @see #DefaultTimeBar_ad_marker_width
@@ -12385,18 +12385,18 @@ public final class R {
       0x7f03021f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#ad_marker_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#ad_marker_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:ad_marker_color
+     * @attr name com.nzenweofor.olango:ad_marker_color
      */
     public static final int DefaultTimeBar_ad_marker_color=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#ad_marker_width}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#ad_marker_width}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12405,11 +12405,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:ad_marker_width
+     * @attr name com.nzenweofor.olango:ad_marker_width
      */
     public static final int DefaultTimeBar_ad_marker_width=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#bar_height}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#bar_height}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12418,55 +12418,55 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:bar_height
+     * @attr name com.nzenweofor.olango:bar_height
      */
     public static final int DefaultTimeBar_bar_height=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#buffered_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#buffered_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:buffered_color
+     * @attr name com.nzenweofor.olango:buffered_color
      */
     public static final int DefaultTimeBar_buffered_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#played_ad_marker_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#played_ad_marker_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:played_ad_marker_color
+     * @attr name com.nzenweofor.olango:played_ad_marker_color
      */
     public static final int DefaultTimeBar_played_ad_marker_color=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#played_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#played_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:played_color
+     * @attr name com.nzenweofor.olango:played_color
      */
     public static final int DefaultTimeBar_played_color=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrubber_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrubber_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:scrubber_color
+     * @attr name com.nzenweofor.olango:scrubber_color
      */
     public static final int DefaultTimeBar_scrubber_color=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrubber_disabled_size}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrubber_disabled_size}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12475,11 +12475,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:scrubber_disabled_size
+     * @attr name com.nzenweofor.olango:scrubber_disabled_size
      */
     public static final int DefaultTimeBar_scrubber_disabled_size=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrubber_dragged_size}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrubber_dragged_size}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12488,11 +12488,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:scrubber_dragged_size
+     * @attr name com.nzenweofor.olango:scrubber_dragged_size
      */
     public static final int DefaultTimeBar_scrubber_dragged_size=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrubber_drawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrubber_drawable}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12500,11 +12500,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:scrubber_drawable
+     * @attr name com.nzenweofor.olango:scrubber_drawable
      */
     public static final int DefaultTimeBar_scrubber_drawable=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrubber_enabled_size}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrubber_enabled_size}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12513,11 +12513,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:scrubber_enabled_size
+     * @attr name com.nzenweofor.olango:scrubber_enabled_size
      */
     public static final int DefaultTimeBar_scrubber_enabled_size=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#touch_target_height}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#touch_target_height}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12526,18 +12526,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:touch_target_height
+     * @attr name com.nzenweofor.olango:touch_target_height
      */
     public static final int DefaultTimeBar_touch_target_height=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#unplayed_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#unplayed_color}
      * attribute's value can be found in the {@link #DefaultTimeBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:unplayed_color
+     * @attr name com.nzenweofor.olango:unplayed_color
      */
     public static final int DefaultTimeBar_unplayed_color=12;
     /**
@@ -12547,8 +12547,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.nzenweoforgroup.olango:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.nzenweoforgroup.olango:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.nzenweofor.olango:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.nzenweofor.olango:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -12557,7 +12557,7 @@ public final class R {
       0x7f030049, 0x7f03004a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12565,11 +12565,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:bottomSheetDialogTheme
+     * @attr name com.nzenweofor.olango:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12577,7 +12577,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:bottomSheetStyle
+     * @attr name com.nzenweofor.olango:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -12587,14 +12587,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.nzenweoforgroup.olango:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.nzenweoforgroup.olango:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.nzenweoforgroup.olango:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.nzenweoforgroup.olango:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.nzenweoforgroup.olango:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.nzenweoforgroup.olango:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.nzenweoforgroup.olango:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.nzenweoforgroup.olango:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.nzenweofor.olango:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.nzenweofor.olango:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.nzenweofor.olango:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.nzenweofor.olango:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.nzenweofor.olango:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.nzenweofor.olango:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.nzenweofor.olango:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.nzenweofor.olango:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -12620,7 +12620,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:arrowHeadLength
+     * @attr name com.nzenweofor.olango:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -12634,7 +12634,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:arrowShaftLength
+     * @attr name com.nzenweofor.olango:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -12648,7 +12648,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:barLength
+     * @attr name com.nzenweofor.olango:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -12660,7 +12660,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:color
+     * @attr name com.nzenweofor.olango:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -12674,7 +12674,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:drawableSize
+     * @attr name com.nzenweofor.olango:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -12688,7 +12688,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:gapBetweenBars
+     * @attr name com.nzenweofor.olango:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -12699,7 +12699,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:spinBars
+     * @attr name com.nzenweofor.olango:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -12713,7 +12713,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:thickness
+     * @attr name com.nzenweofor.olango:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -12723,19 +12723,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.nzenweoforgroup.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.nzenweoforgroup.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.nzenweoforgroup.olango:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.nzenweoforgroup.olango:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.nzenweoforgroup.olango:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.nzenweoforgroup.olango:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.nzenweoforgroup.olango:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.nzenweoforgroup.olango:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.nzenweoforgroup.olango:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.nzenweoforgroup.olango:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.nzenweoforgroup.olango:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.nzenweoforgroup.olango:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.nzenweofor.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.nzenweofor.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.nzenweofor.olango:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.nzenweofor.olango:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.nzenweofor.olango:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.nzenweofor.olango:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.nzenweofor.olango:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.nzenweofor.olango:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.nzenweofor.olango:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.nzenweofor.olango:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.nzenweofor.olango:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.nzenweofor.olango:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -12766,7 +12766,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTint
+     * @attr name com.nzenweofor.olango:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -12793,11 +12793,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTintMode
+     * @attr name com.nzenweofor.olango:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12806,7 +12806,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:borderWidth
+     * @attr name com.nzenweofor.olango:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -12820,11 +12820,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12833,11 +12833,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:fabCustomSize
+     * @attr name com.nzenweofor.olango:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12851,11 +12851,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:fabSize
+     * @attr name com.nzenweofor.olango:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12863,11 +12863,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hideMotionSpec
+     * @attr name com.nzenweofor.olango:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12876,11 +12876,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:hoveredFocusedTranslationZ
+     * @attr name com.nzenweofor.olango:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12889,11 +12889,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:maxImageSize
+     * @attr name com.nzenweofor.olango:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12902,22 +12902,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:pressedTranslationZ
+     * @attr name com.nzenweofor.olango:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:rippleColor
+     * @attr name com.nzenweofor.olango:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12925,17 +12925,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:showMotionSpec
+     * @attr name com.nzenweofor.olango:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:useCompatPadding
+     * @attr name com.nzenweofor.olango:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -12945,7 +12945,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.nzenweoforgroup.olango:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.nzenweofor.olango:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -12953,13 +12953,13 @@ public final class R {
       0x7f03003f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_autoHide
+     * @attr name com.nzenweofor.olango:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -12969,8 +12969,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.nzenweoforgroup.olango:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.nzenweoforgroup.olango:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.nzenweofor.olango:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.nzenweofor.olango:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -12979,7 +12979,7 @@ public final class R {
       0x7f030120, 0x7f030137
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12988,11 +12988,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:itemSpacing
+     * @attr name com.nzenweofor.olango:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13001,7 +13001,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:lineSpacing
+     * @attr name com.nzenweofor.olango:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -13011,12 +13011,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.nzenweoforgroup.olango:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.nzenweoforgroup.olango:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.nzenweoforgroup.olango:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.nzenweoforgroup.olango:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.nzenweoforgroup.olango:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.nzenweoforgroup.olango:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.nzenweofor.olango:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.nzenweofor.olango:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.nzenweofor.olango:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.nzenweofor.olango:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.nzenweofor.olango:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.nzenweofor.olango:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -13037,7 +13037,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderAuthority
+     * @attr name com.nzenweofor.olango:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -13054,7 +13054,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderCerts
+     * @attr name com.nzenweofor.olango:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -13086,7 +13086,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderFetchStrategy
+     * @attr name com.nzenweofor.olango:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -13105,7 +13105,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderFetchTimeout
+     * @attr name com.nzenweofor.olango:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -13117,7 +13117,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderPackage
+     * @attr name com.nzenweofor.olango:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -13129,7 +13129,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontProviderQuery
+     * @attr name com.nzenweofor.olango:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -13144,11 +13144,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.nzenweoforgroup.olango:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.nzenweoforgroup.olango:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.nzenweoforgroup.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.nzenweoforgroup.olango:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.nzenweoforgroup.olango:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.nzenweofor.olango:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.nzenweofor.olango:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.nzenweofor.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.nzenweofor.olango:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.nzenweofor.olango:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -13235,7 +13235,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:font
+     * @attr name com.nzenweofor.olango:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -13255,7 +13255,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:fontStyle
+     * @attr name com.nzenweofor.olango:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -13269,7 +13269,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontVariationSettings
+     * @attr name com.nzenweofor.olango:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -13283,7 +13283,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fontWeight
+     * @attr name com.nzenweofor.olango:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -13294,7 +13294,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:ttcIndex
+     * @attr name com.nzenweofor.olango:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -13306,7 +13306,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.nzenweoforgroup.olango:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.nzenweofor.olango:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -13358,13 +13358,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:foregroundInsidePadding
+     * @attr name com.nzenweofor.olango:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -13374,35 +13374,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.nzenweoforgroup.olango:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.nzenweoforgroup.olango:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.nzenweoforgroup.olango:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.nzenweoforgroup.olango:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.nzenweoforgroup.olango:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.nzenweoforgroup.olango:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.nzenweoforgroup.olango:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.nzenweoforgroup.olango:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.nzenweoforgroup.olango:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.nzenweoforgroup.olango:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.nzenweoforgroup.olango:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.nzenweoforgroup.olango:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.nzenweoforgroup.olango:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.nzenweoforgroup.olango:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.nzenweoforgroup.olango:roundAsCircle}</code></td><td>Round as circle.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.nzenweoforgroup.olango:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.nzenweoforgroup.olango:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.nzenweoforgroup.olango:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.nzenweoforgroup.olango:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.nzenweoforgroup.olango:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.nzenweoforgroup.olango:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.nzenweoforgroup.olango:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.nzenweoforgroup.olango:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.nzenweoforgroup.olango:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.nzenweoforgroup.olango:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.nzenweoforgroup.olango:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.nzenweoforgroup.olango:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.nzenweoforgroup.olango:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.nzenweoforgroup.olango:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.nzenweofor.olango:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.nzenweofor.olango:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.nzenweofor.olango:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.nzenweofor.olango:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.nzenweofor.olango:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.nzenweofor.olango:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.nzenweofor.olango:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.nzenweofor.olango:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.nzenweofor.olango:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.nzenweofor.olango:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.nzenweofor.olango:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.nzenweofor.olango:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.nzenweofor.olango:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.nzenweofor.olango:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.nzenweofor.olango:roundAsCircle}</code></td><td>Round as circle.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.nzenweofor.olango:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.nzenweofor.olango:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.nzenweofor.olango:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.nzenweofor.olango:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.nzenweofor.olango:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.nzenweofor.olango:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.nzenweofor.olango:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.nzenweofor.olango:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.nzenweofor.olango:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.nzenweofor.olango:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.nzenweofor.olango:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.nzenweofor.olango:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.nzenweofor.olango:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.nzenweofor.olango:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
      * </table>
      * @see #GenericDraweeHierarchy_actualImageScaleType
      * @see #GenericDraweeHierarchy_backgroundImage
@@ -13467,7 +13467,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:actualImageScaleType
+     * @attr name com.nzenweofor.olango:actualImageScaleType
      */
     public static final int GenericDraweeHierarchy_actualImageScaleType=0;
     /**
@@ -13480,7 +13480,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundImage
+     * @attr name com.nzenweofor.olango:backgroundImage
      */
     public static final int GenericDraweeHierarchy_backgroundImage=1;
     /**
@@ -13490,7 +13490,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fadeDuration
+     * @attr name com.nzenweofor.olango:fadeDuration
      */
     public static final int GenericDraweeHierarchy_fadeDuration=2;
     /**
@@ -13503,7 +13503,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:failureImage
+     * @attr name com.nzenweofor.olango:failureImage
      */
     public static final int GenericDraweeHierarchy_failureImage=3;
     /**
@@ -13529,7 +13529,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:failureImageScaleType
+     * @attr name com.nzenweofor.olango:failureImageScaleType
      */
     public static final int GenericDraweeHierarchy_failureImageScaleType=4;
     /**
@@ -13542,7 +13542,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:overlayImage
+     * @attr name com.nzenweofor.olango:overlayImage
      */
     public static final int GenericDraweeHierarchy_overlayImage=5;
     /**
@@ -13555,7 +13555,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:placeholderImage
+     * @attr name com.nzenweofor.olango:placeholderImage
      */
     public static final int GenericDraweeHierarchy_placeholderImage=6;
     /**
@@ -13581,7 +13581,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:placeholderImageScaleType
+     * @attr name com.nzenweofor.olango:placeholderImageScaleType
      */
     public static final int GenericDraweeHierarchy_placeholderImageScaleType=7;
     /**
@@ -13594,7 +13594,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:pressedStateOverlayImage
+     * @attr name com.nzenweofor.olango:pressedStateOverlayImage
      */
     public static final int GenericDraweeHierarchy_pressedStateOverlayImage=8;
     /**
@@ -13604,7 +13604,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarAutoRotateInterval
+     * @attr name com.nzenweofor.olango:progressBarAutoRotateInterval
      */
     public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval=9;
     /**
@@ -13617,7 +13617,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarImage
+     * @attr name com.nzenweofor.olango:progressBarImage
      */
     public static final int GenericDraweeHierarchy_progressBarImage=10;
     /**
@@ -13643,7 +13643,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarImageScaleType
+     * @attr name com.nzenweofor.olango:progressBarImageScaleType
      */
     public static final int GenericDraweeHierarchy_progressBarImageScaleType=11;
     /**
@@ -13656,7 +13656,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:retryImage
+     * @attr name com.nzenweofor.olango:retryImage
      */
     public static final int GenericDraweeHierarchy_retryImage=12;
     /**
@@ -13682,7 +13682,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:retryImageScaleType
+     * @attr name com.nzenweofor.olango:retryImageScaleType
      */
     public static final int GenericDraweeHierarchy_retryImageScaleType=13;
     /**
@@ -13693,7 +13693,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundAsCircle
+     * @attr name com.nzenweofor.olango:roundAsCircle
      */
     public static final int GenericDraweeHierarchy_roundAsCircle=14;
     /**
@@ -13704,7 +13704,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomEnd
+     * @attr name com.nzenweofor.olango:roundBottomEnd
      */
     public static final int GenericDraweeHierarchy_roundBottomEnd=15;
     /**
@@ -13715,7 +13715,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomLeft
+     * @attr name com.nzenweofor.olango:roundBottomLeft
      */
     public static final int GenericDraweeHierarchy_roundBottomLeft=16;
     /**
@@ -13726,7 +13726,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomRight
+     * @attr name com.nzenweofor.olango:roundBottomRight
      */
     public static final int GenericDraweeHierarchy_roundBottomRight=17;
     /**
@@ -13737,7 +13737,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomStart
+     * @attr name com.nzenweofor.olango:roundBottomStart
      */
     public static final int GenericDraweeHierarchy_roundBottomStart=18;
     /**
@@ -13748,7 +13748,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopEnd
+     * @attr name com.nzenweofor.olango:roundTopEnd
      */
     public static final int GenericDraweeHierarchy_roundTopEnd=19;
     /**
@@ -13759,7 +13759,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopLeft
+     * @attr name com.nzenweofor.olango:roundTopLeft
      */
     public static final int GenericDraweeHierarchy_roundTopLeft=20;
     /**
@@ -13770,7 +13770,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopRight
+     * @attr name com.nzenweofor.olango:roundTopRight
      */
     public static final int GenericDraweeHierarchy_roundTopRight=21;
     /**
@@ -13781,7 +13781,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopStart
+     * @attr name com.nzenweofor.olango:roundTopStart
      */
     public static final int GenericDraweeHierarchy_roundTopStart=22;
     /**
@@ -13793,7 +13793,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundWithOverlayColor
+     * @attr name com.nzenweofor.olango:roundWithOverlayColor
      */
     public static final int GenericDraweeHierarchy_roundWithOverlayColor=23;
     /**
@@ -13807,7 +13807,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundedCornerRadius
+     * @attr name com.nzenweofor.olango:roundedCornerRadius
      */
     public static final int GenericDraweeHierarchy_roundedCornerRadius=24;
     /**
@@ -13819,7 +13819,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderColor
+     * @attr name com.nzenweofor.olango:roundingBorderColor
      */
     public static final int GenericDraweeHierarchy_roundingBorderColor=25;
     /**
@@ -13833,7 +13833,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderPadding
+     * @attr name com.nzenweofor.olango:roundingBorderPadding
      */
     public static final int GenericDraweeHierarchy_roundingBorderPadding=26;
     /**
@@ -13847,7 +13847,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderWidth
+     * @attr name com.nzenweofor.olango:roundingBorderWidth
      */
     public static final int GenericDraweeHierarchy_roundingBorderWidth=27;
     /**
@@ -13857,7 +13857,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:viewAspectRatio
+     * @attr name com.nzenweofor.olango:viewAspectRatio
      */
     public static final int GenericDraweeHierarchy_viewAspectRatio=28;
     /**
@@ -14115,11 +14115,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.nzenweoforgroup.olango:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.nzenweoforgroup.olango:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.nzenweoforgroup.olango:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.nzenweofor.olango:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.nzenweofor.olango:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.nzenweofor.olango:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.nzenweoforgroup.olango:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.nzenweofor.olango:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -14234,7 +14234,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:divider
+     * @attr name com.nzenweofor.olango:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -14248,7 +14248,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:dividerPadding
+     * @attr name com.nzenweofor.olango:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -14261,7 +14261,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:measureWithLargestChild
+     * @attr name com.nzenweofor.olango:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -14281,7 +14281,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:showDividers
+     * @attr name com.nzenweofor.olango:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -14439,9 +14439,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.nzenweoforgroup.olango:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.nzenweoforgroup.olango:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.nzenweoforgroup.olango:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.nzenweofor.olango:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.nzenweofor.olango:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.nzenweofor.olango:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -14451,26 +14451,26 @@ public final class R {
       0x7f030082, 0x7f030112, 0x7f030113
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:circleCrop
+     * @attr name com.nzenweofor.olango:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:imageAspectRatio
+     * @attr name com.nzenweofor.olango:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14484,7 +14484,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:imageAspectRatioAdjust
+     * @attr name com.nzenweofor.olango:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -14498,18 +14498,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.nzenweoforgroup.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.nzenweoforgroup.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.nzenweoforgroup.olango:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.nzenweoforgroup.olango:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.nzenweoforgroup.olango:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.nzenweoforgroup.olango:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.nzenweoforgroup.olango:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.nzenweoforgroup.olango:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.nzenweoforgroup.olango:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.nzenweoforgroup.olango:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.nzenweoforgroup.olango:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.nzenweoforgroup.olango:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.nzenweofor.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.nzenweofor.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.nzenweofor.olango:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.nzenweofor.olango:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.nzenweofor.olango:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.nzenweofor.olango:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.nzenweofor.olango:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.nzenweofor.olango:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.nzenweofor.olango:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.nzenweofor.olango:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.nzenweofor.olango:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.nzenweofor.olango:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -14611,7 +14611,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTint
+     * @attr name com.nzenweofor.olango:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -14638,11 +14638,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTintMode
+     * @attr name com.nzenweofor.olango:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14651,11 +14651,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:cornerRadius
+     * @attr name com.nzenweofor.olango:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14663,11 +14663,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:icon
+     * @attr name com.nzenweofor.olango:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -14680,11 +14680,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:iconGravity
+     * @attr name com.nzenweofor.olango:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14693,11 +14693,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:iconPadding
+     * @attr name com.nzenweofor.olango:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14706,7 +14706,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:iconSize
+     * @attr name com.nzenweofor.olango:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -14718,7 +14718,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:iconTint
+     * @attr name com.nzenweofor.olango:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -14745,33 +14745,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:iconTintMode
+     * @attr name com.nzenweofor.olango:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:rippleColor
+     * @attr name com.nzenweofor.olango:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:strokeColor
+     * @attr name com.nzenweofor.olango:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14780,7 +14780,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:strokeWidth
+     * @attr name com.nzenweofor.olango:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -14790,8 +14790,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.nzenweoforgroup.olango:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.nzenweoforgroup.olango:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.nzenweofor.olango:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.nzenweofor.olango:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -14800,18 +14800,18 @@ public final class R {
       0x7f0301bb, 0x7f0301bc
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:strokeColor
+     * @attr name com.nzenweofor.olango:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14820,7 +14820,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:strokeWidth
+     * @attr name com.nzenweofor.olango:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -14830,38 +14830,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.nzenweoforgroup.olango:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.nzenweoforgroup.olango:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.nzenweoforgroup.olango:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.nzenweoforgroup.olango:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.nzenweoforgroup.olango:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.nzenweoforgroup.olango:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.nzenweoforgroup.olango:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.nzenweoforgroup.olango:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.nzenweoforgroup.olango:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.nzenweoforgroup.olango:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.nzenweoforgroup.olango:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.nzenweoforgroup.olango:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.nzenweoforgroup.olango:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.nzenweoforgroup.olango:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.nzenweoforgroup.olango:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.nzenweoforgroup.olango:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.nzenweoforgroup.olango:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.nzenweoforgroup.olango:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.nzenweoforgroup.olango:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.nzenweoforgroup.olango:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.nzenweoforgroup.olango:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.nzenweoforgroup.olango:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.nzenweoforgroup.olango:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.nzenweoforgroup.olango:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.nzenweoforgroup.olango:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.nzenweoforgroup.olango:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.nzenweoforgroup.olango:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.nzenweoforgroup.olango:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.nzenweoforgroup.olango:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.nzenweoforgroup.olango:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.nzenweoforgroup.olango:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.nzenweoforgroup.olango:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.nzenweofor.olango:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.nzenweofor.olango:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.nzenweofor.olango:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.nzenweofor.olango:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.nzenweofor.olango:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.nzenweofor.olango:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.nzenweofor.olango:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.nzenweofor.olango:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.nzenweofor.olango:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.nzenweofor.olango:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.nzenweofor.olango:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.nzenweofor.olango:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.nzenweofor.olango:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.nzenweofor.olango:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.nzenweofor.olango:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.nzenweofor.olango:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.nzenweofor.olango:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.nzenweofor.olango:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.nzenweofor.olango:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.nzenweofor.olango:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.nzenweofor.olango:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.nzenweofor.olango:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.nzenweofor.olango:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.nzenweofor.olango:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.nzenweofor.olango:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.nzenweofor.olango:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.nzenweofor.olango:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.nzenweofor.olango:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.nzenweofor.olango:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.nzenweofor.olango:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.nzenweofor.olango:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.nzenweofor.olango:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -14907,7 +14907,7 @@ public final class R {
       0x7f0301f2, 0x7f0301f7, 0x7f0301f8, 0x7f0301fc
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14915,11 +14915,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:bottomSheetDialogTheme
+     * @attr name com.nzenweofor.olango:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14927,11 +14927,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:bottomSheetStyle
+     * @attr name com.nzenweofor.olango:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14939,11 +14939,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipGroupStyle
+     * @attr name com.nzenweofor.olango:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14951,11 +14951,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipStandaloneStyle
+     * @attr name com.nzenweofor.olango:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14963,7 +14963,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:chipStyle
+     * @attr name com.nzenweofor.olango:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -14976,7 +14976,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorAccent
+     * @attr name com.nzenweofor.olango:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -14988,7 +14988,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorBackgroundFloating
+     * @attr name com.nzenweofor.olango:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -15001,7 +15001,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorPrimary
+     * @attr name com.nzenweofor.olango:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -15014,18 +15014,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorPrimaryDark
+     * @attr name com.nzenweofor.olango:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:colorSecondary
+     * @attr name com.nzenweofor.olango:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -15038,11 +15038,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:editTextStyle
+     * @attr name com.nzenweofor.olango:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15068,11 +15068,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.nzenweoforgroup.olango:floatingActionButtonStyle
+     * @attr name com.nzenweofor.olango:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15080,11 +15080,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:materialButtonStyle
+     * @attr name com.nzenweofor.olango:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15092,11 +15092,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:materialCardViewStyle
+     * @attr name com.nzenweofor.olango:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15104,11 +15104,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:navigationViewStyle
+     * @attr name com.nzenweofor.olango:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15119,11 +15119,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:scrimBackground
+     * @attr name com.nzenweofor.olango:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15131,11 +15131,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:snackbarButtonStyle
+     * @attr name com.nzenweofor.olango:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15143,11 +15143,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabStyle
+     * @attr name com.nzenweofor.olango:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15155,11 +15155,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceBody1
+     * @attr name com.nzenweofor.olango:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15167,11 +15167,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceBody2
+     * @attr name com.nzenweofor.olango:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15179,11 +15179,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceButton
+     * @attr name com.nzenweofor.olango:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15191,11 +15191,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceCaption
+     * @attr name com.nzenweofor.olango:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15203,11 +15203,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline1
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15215,11 +15215,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline2
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15227,11 +15227,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline3
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15239,11 +15239,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline4
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15251,11 +15251,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline5
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15263,11 +15263,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceHeadline6
+     * @attr name com.nzenweofor.olango:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15275,11 +15275,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceOverline
+     * @attr name com.nzenweofor.olango:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15287,11 +15287,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceSubtitle1
+     * @attr name com.nzenweofor.olango:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15299,11 +15299,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAppearanceSubtitle2
+     * @attr name com.nzenweofor.olango:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15311,7 +15311,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textInputStyle
+     * @attr name com.nzenweofor.olango:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -15445,18 +15445,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.nzenweoforgroup.olango:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.nzenweoforgroup.olango:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.nzenweofor.olango:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.nzenweofor.olango:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.nzenweoforgroup.olango:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.nzenweofor.olango:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.nzenweoforgroup.olango:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.nzenweoforgroup.olango:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.nzenweoforgroup.olango:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.nzenweoforgroup.olango:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.nzenweoforgroup.olango:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.nzenweoforgroup.olango:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.nzenweoforgroup.olango:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.nzenweofor.olango:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.nzenweofor.olango:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.nzenweofor.olango:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.nzenweofor.olango:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.nzenweofor.olango:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.nzenweofor.olango:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.nzenweofor.olango:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -15665,7 +15665,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actionLayout
+     * @attr name com.nzenweofor.olango:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -15679,7 +15679,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:actionProviderClass
+     * @attr name com.nzenweofor.olango:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -15692,7 +15692,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:actionViewClass
+     * @attr name com.nzenweofor.olango:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -15715,7 +15715,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:alphabeticModifiers
+     * @attr name com.nzenweofor.olango:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -15726,7 +15726,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:contentDescription
+     * @attr name com.nzenweofor.olango:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -15738,7 +15738,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:iconTint
+     * @attr name com.nzenweofor.olango:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -15765,7 +15765,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:iconTintMode
+     * @attr name com.nzenweofor.olango:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -15788,7 +15788,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:numericModifiers
+     * @attr name com.nzenweofor.olango:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -15818,7 +15818,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:showAsAction
+     * @attr name com.nzenweofor.olango:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -15829,7 +15829,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:tooltipText
+     * @attr name com.nzenweofor.olango:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -15846,8 +15846,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.nzenweoforgroup.olango:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.nzenweoforgroup.olango:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.nzenweofor.olango:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.nzenweofor.olango:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -15966,7 +15966,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:preserveIconSpacing
+     * @attr name com.nzenweofor.olango:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -15979,7 +15979,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:subMenuArrow
+     * @attr name com.nzenweofor.olango:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -15992,15 +15992,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.nzenweoforgroup.olango:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.nzenweoforgroup.olango:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.nzenweoforgroup.olango:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.nzenweoforgroup.olango:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.nzenweoforgroup.olango:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.nzenweoforgroup.olango:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.nzenweoforgroup.olango:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.nzenweoforgroup.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.nzenweofor.olango:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.nzenweofor.olango:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.nzenweofor.olango:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.nzenweofor.olango:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.nzenweofor.olango:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.nzenweofor.olango:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.nzenweofor.olango:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.nzenweofor.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -16069,11 +16069,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16081,11 +16081,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:headerLayout
+     * @attr name com.nzenweofor.olango:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16093,11 +16093,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemBackground
+     * @attr name com.nzenweofor.olango:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16106,11 +16106,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:itemHorizontalPadding
+     * @attr name com.nzenweofor.olango:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16119,22 +16119,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:itemIconPadding
+     * @attr name com.nzenweofor.olango:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemIconTint
+     * @attr name com.nzenweofor.olango:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16142,18 +16142,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemTextAppearance
+     * @attr name com.nzenweofor.olango:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:itemTextColor
+     * @attr name com.nzenweofor.olango:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
@@ -16166,7 +16166,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:menu
+     * @attr name com.nzenweofor.olango:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -16176,12 +16176,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PlayerControlView_controller_layout_id com.nzenweoforgroup.olango:controller_layout_id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerControlView_fastforward_increment com.nzenweoforgroup.olango:fastforward_increment}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerControlView_repeat_toggle_modes com.nzenweoforgroup.olango:repeat_toggle_modes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerControlView_rewind_increment com.nzenweoforgroup.olango:rewind_increment}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerControlView_show_shuffle_button com.nzenweoforgroup.olango:show_shuffle_button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerControlView_show_timeout com.nzenweoforgroup.olango:show_timeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_controller_layout_id com.nzenweofor.olango:controller_layout_id}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_fastforward_increment com.nzenweofor.olango:fastforward_increment}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_repeat_toggle_modes com.nzenweofor.olango:repeat_toggle_modes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_rewind_increment com.nzenweofor.olango:rewind_increment}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_show_shuffle_button com.nzenweofor.olango:show_shuffle_button}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerControlView_show_timeout com.nzenweofor.olango:show_timeout}</code></td><td></td></tr>
      * </table>
      * @see #PlayerControlView_controller_layout_id
      * @see #PlayerControlView_fastforward_increment
@@ -16195,7 +16195,7 @@ public final class R {
       0x7f0301a5, 0x7f0301a6
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#controller_layout_id}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#controller_layout_id}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16203,20 +16203,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:controller_layout_id
+     * @attr name com.nzenweofor.olango:controller_layout_id
      */
     public static final int PlayerControlView_controller_layout_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastforward_increment}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastforward_increment}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastforward_increment
+     * @attr name com.nzenweofor.olango:fastforward_increment
      */
     public static final int PlayerControlView_fastforward_increment=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#repeat_toggle_modes}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#repeat_toggle_modes}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16230,35 +16230,35 @@ public final class R {
      * <tr><td>one</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:repeat_toggle_modes
+     * @attr name com.nzenweofor.olango:repeat_toggle_modes
      */
     public static final int PlayerControlView_repeat_toggle_modes=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#rewind_increment}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#rewind_increment}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:rewind_increment
+     * @attr name com.nzenweofor.olango:rewind_increment
      */
     public static final int PlayerControlView_rewind_increment=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#show_shuffle_button}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#show_shuffle_button}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:show_shuffle_button
+     * @attr name com.nzenweofor.olango:show_shuffle_button
      */
     public static final int PlayerControlView_show_shuffle_button=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#show_timeout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#show_timeout}
      * attribute's value can be found in the {@link #PlayerControlView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:show_timeout
+     * @attr name com.nzenweofor.olango:show_timeout
      */
     public static final int PlayerControlView_show_timeout=5;
     /**
@@ -16268,24 +16268,24 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PlayerView_auto_show com.nzenweoforgroup.olango:auto_show}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_controller_layout_id com.nzenweoforgroup.olango:controller_layout_id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_default_artwork com.nzenweoforgroup.olango:default_artwork}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_fastforward_increment com.nzenweoforgroup.olango:fastforward_increment}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_hide_during_ads com.nzenweoforgroup.olango:hide_during_ads}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_hide_on_touch com.nzenweoforgroup.olango:hide_on_touch}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_keep_content_on_player_reset com.nzenweoforgroup.olango:keep_content_on_player_reset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_player_layout_id com.nzenweoforgroup.olango:player_layout_id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_repeat_toggle_modes com.nzenweoforgroup.olango:repeat_toggle_modes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_resize_mode com.nzenweoforgroup.olango:resize_mode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_rewind_increment com.nzenweoforgroup.olango:rewind_increment}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_show_buffering com.nzenweoforgroup.olango:show_buffering}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_show_shuffle_button com.nzenweoforgroup.olango:show_shuffle_button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_show_timeout com.nzenweoforgroup.olango:show_timeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_shutter_background_color com.nzenweoforgroup.olango:shutter_background_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_surface_type com.nzenweoforgroup.olango:surface_type}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_use_artwork com.nzenweoforgroup.olango:use_artwork}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PlayerView_use_controller com.nzenweoforgroup.olango:use_controller}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_auto_show com.nzenweofor.olango:auto_show}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_controller_layout_id com.nzenweofor.olango:controller_layout_id}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_default_artwork com.nzenweofor.olango:default_artwork}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_fastforward_increment com.nzenweofor.olango:fastforward_increment}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_hide_during_ads com.nzenweofor.olango:hide_during_ads}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_hide_on_touch com.nzenweofor.olango:hide_on_touch}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_keep_content_on_player_reset com.nzenweofor.olango:keep_content_on_player_reset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_player_layout_id com.nzenweofor.olango:player_layout_id}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_repeat_toggle_modes com.nzenweofor.olango:repeat_toggle_modes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_resize_mode com.nzenweofor.olango:resize_mode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_rewind_increment com.nzenweofor.olango:rewind_increment}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_show_buffering com.nzenweofor.olango:show_buffering}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_show_shuffle_button com.nzenweofor.olango:show_shuffle_button}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_show_timeout com.nzenweofor.olango:show_timeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_shutter_background_color com.nzenweofor.olango:shutter_background_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_surface_type com.nzenweofor.olango:surface_type}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_use_artwork com.nzenweofor.olango:use_artwork}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PlayerView_use_controller com.nzenweofor.olango:use_controller}</code></td><td></td></tr>
      * </table>
      * @see #PlayerView_auto_show
      * @see #PlayerView_controller_layout_id
@@ -16314,17 +16314,17 @@ public final class R {
       0x7f030221, 0x7f030222
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#auto_show}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#auto_show}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:auto_show
+     * @attr name com.nzenweofor.olango:auto_show
      */
     public static final int PlayerView_auto_show=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#controller_layout_id}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#controller_layout_id}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16332,11 +16332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:controller_layout_id
+     * @attr name com.nzenweofor.olango:controller_layout_id
      */
     public static final int PlayerView_controller_layout_id=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#default_artwork}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#default_artwork}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16344,50 +16344,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:default_artwork
+     * @attr name com.nzenweofor.olango:default_artwork
      */
     public static final int PlayerView_default_artwork=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastforward_increment}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastforward_increment}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastforward_increment
+     * @attr name com.nzenweofor.olango:fastforward_increment
      */
     public static final int PlayerView_fastforward_increment=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hide_during_ads}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hide_during_ads}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hide_during_ads
+     * @attr name com.nzenweofor.olango:hide_during_ads
      */
     public static final int PlayerView_hide_during_ads=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hide_on_touch}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hide_on_touch}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hide_on_touch
+     * @attr name com.nzenweofor.olango:hide_on_touch
      */
     public static final int PlayerView_hide_on_touch=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#keep_content_on_player_reset}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#keep_content_on_player_reset}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:keep_content_on_player_reset
+     * @attr name com.nzenweofor.olango:keep_content_on_player_reset
      */
     public static final int PlayerView_keep_content_on_player_reset=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#player_layout_id}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#player_layout_id}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16395,11 +16395,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:player_layout_id
+     * @attr name com.nzenweofor.olango:player_layout_id
      */
     public static final int PlayerView_player_layout_id=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#repeat_toggle_modes}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#repeat_toggle_modes}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16413,11 +16413,11 @@ public final class R {
      * <tr><td>one</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:repeat_toggle_modes
+     * @attr name com.nzenweofor.olango:repeat_toggle_modes
      */
     public static final int PlayerView_repeat_toggle_modes=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#resize_mode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#resize_mode}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16433,20 +16433,20 @@ public final class R {
      * <tr><td>zoom</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:resize_mode
+     * @attr name com.nzenweofor.olango:resize_mode
      */
     public static final int PlayerView_resize_mode=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#rewind_increment}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#rewind_increment}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:rewind_increment
+     * @attr name com.nzenweofor.olango:rewind_increment
      */
     public static final int PlayerView_rewind_increment=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#show_buffering}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#show_buffering}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16460,41 +16460,41 @@ public final class R {
      * <tr><td>when_playing</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:show_buffering
+     * @attr name com.nzenweofor.olango:show_buffering
      */
     public static final int PlayerView_show_buffering=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#show_shuffle_button}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#show_shuffle_button}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:show_shuffle_button
+     * @attr name com.nzenweofor.olango:show_shuffle_button
      */
     public static final int PlayerView_show_shuffle_button=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#show_timeout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#show_timeout}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:show_timeout
+     * @attr name com.nzenweofor.olango:show_timeout
      */
     public static final int PlayerView_show_timeout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#shutter_background_color}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#shutter_background_color}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:shutter_background_color
+     * @attr name com.nzenweofor.olango:shutter_background_color
      */
     public static final int PlayerView_shutter_background_color=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#surface_type}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#surface_type}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16509,27 +16509,27 @@ public final class R {
      * <tr><td>texture_view</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:surface_type
+     * @attr name com.nzenweofor.olango:surface_type
      */
     public static final int PlayerView_surface_type=15;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#use_artwork}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#use_artwork}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:use_artwork
+     * @attr name com.nzenweofor.olango:use_artwork
      */
     public static final int PlayerView_use_artwork=16;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#use_controller}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#use_controller}
      * attribute's value can be found in the {@link #PlayerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:use_controller
+     * @attr name com.nzenweofor.olango:use_controller
      */
     public static final int PlayerView_use_controller=17;
     /**
@@ -16541,7 +16541,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.nzenweoforgroup.olango:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.nzenweofor.olango:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -16585,7 +16585,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:overlapAnchor
+     * @attr name com.nzenweofor.olango:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -16595,7 +16595,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.nzenweoforgroup.olango:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.nzenweofor.olango:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -16610,7 +16610,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:state_above_anchor
+     * @attr name com.nzenweofor.olango:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -16620,8 +16620,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.nzenweoforgroup.olango:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.nzenweoforgroup.olango:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.nzenweofor.olango:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.nzenweofor.olango:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -16640,7 +16640,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:paddingBottomNoButtons
+     * @attr name com.nzenweofor.olango:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -16654,7 +16654,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:paddingTopNoTitle
+     * @attr name com.nzenweofor.olango:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -16666,15 +16666,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.nzenweoforgroup.olango:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.nzenweoforgroup.olango:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.nzenweoforgroup.olango:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.nzenweoforgroup.olango:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.nzenweoforgroup.olango:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.nzenweoforgroup.olango:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.nzenweoforgroup.olango:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.nzenweoforgroup.olango:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.nzenweoforgroup.olango:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.nzenweofor.olango:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.nzenweofor.olango:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.nzenweofor.olango:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.nzenweofor.olango:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.nzenweofor.olango:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.nzenweofor.olango:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.nzenweofor.olango:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.nzenweofor.olango:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.nzenweofor.olango:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -16729,17 +16729,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastScrollEnabled
+     * @attr name com.nzenweofor.olango:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16747,11 +16747,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastScrollHorizontalThumbDrawable
+     * @attr name com.nzenweofor.olango:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16759,11 +16759,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastScrollHorizontalTrackDrawable
+     * @attr name com.nzenweofor.olango:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16771,11 +16771,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastScrollVerticalThumbDrawable
+     * @attr name com.nzenweofor.olango:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16783,7 +16783,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fastScrollVerticalTrackDrawable
+     * @attr name com.nzenweofor.olango:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -16802,36 +16802,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:layoutManager
+     * @attr name com.nzenweofor.olango:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:reverseLayout
+     * @attr name com.nzenweofor.olango:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:spanCount
+     * @attr name com.nzenweofor.olango:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:stackFromEnd
+     * @attr name com.nzenweofor.olango:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -16841,7 +16841,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.nzenweoforgroup.olango:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.nzenweofor.olango:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -16849,7 +16849,7 @@ public final class R {
       0x7f030117
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16860,7 +16860,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:insetForeground
+     * @attr name com.nzenweofor.olango:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -16870,7 +16870,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.nzenweoforgroup.olango:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.nzenweofor.olango:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -16878,7 +16878,7 @@ public final class R {
       0x7f030042
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16887,7 +16887,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:behavior_overlapTop
+     * @attr name com.nzenweofor.olango:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -16901,20 +16901,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.nzenweoforgroup.olango:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.nzenweoforgroup.olango:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.nzenweoforgroup.olango:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.nzenweofor.olango:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.nzenweofor.olango:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.nzenweofor.olango:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.nzenweoforgroup.olango:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.nzenweoforgroup.olango:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.nzenweoforgroup.olango:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.nzenweoforgroup.olango:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.nzenweoforgroup.olango:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.nzenweoforgroup.olango:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.nzenweoforgroup.olango:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.nzenweoforgroup.olango:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.nzenweoforgroup.olango:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.nzenweoforgroup.olango:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.nzenweofor.olango:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.nzenweofor.olango:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.nzenweofor.olango:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.nzenweofor.olango:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.nzenweofor.olango:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.nzenweofor.olango:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.nzenweofor.olango:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.nzenweofor.olango:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.nzenweofor.olango:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.nzenweofor.olango:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -17064,7 +17064,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:closeIcon
+     * @attr name com.nzenweofor.olango:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -17077,7 +17077,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:commitIcon
+     * @attr name com.nzenweofor.olango:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -17089,7 +17089,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:defaultQueryHint
+     * @attr name com.nzenweofor.olango:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -17102,7 +17102,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:goIcon
+     * @attr name com.nzenweofor.olango:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -17114,7 +17114,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:iconifiedByDefault
+     * @attr name com.nzenweofor.olango:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -17127,7 +17127,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:layout
+     * @attr name com.nzenweofor.olango:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -17140,7 +17140,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:queryBackground
+     * @attr name com.nzenweofor.olango:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -17151,7 +17151,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:queryHint
+     * @attr name com.nzenweofor.olango:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -17164,7 +17164,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:searchHintIcon
+     * @attr name com.nzenweofor.olango:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -17177,7 +17177,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:searchIcon
+     * @attr name com.nzenweofor.olango:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -17190,7 +17190,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:submitBackground
+     * @attr name com.nzenweofor.olango:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -17203,7 +17203,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:suggestionRowLayout
+     * @attr name com.nzenweofor.olango:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -17216,7 +17216,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:voiceIcon
+     * @attr name com.nzenweofor.olango:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -17226,9 +17226,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.nzenweoforgroup.olango:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.nzenweoforgroup.olango:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.nzenweoforgroup.olango:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.nzenweofor.olango:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.nzenweofor.olango:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.nzenweofor.olango:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -17238,7 +17238,7 @@ public final class R {
       0x7f03005e, 0x7f030099, 0x7f030190
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17256,11 +17256,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:buttonSize
+     * @attr name com.nzenweofor.olango:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17278,11 +17278,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:colorScheme
+     * @attr name com.nzenweofor.olango:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17292,7 +17292,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:scopeUris
+     * @attr name com.nzenweofor.olango:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -17302,37 +17302,37 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.nzenweoforgroup.olango:actualImageResource}</code></td><td>An image reference</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.nzenweoforgroup.olango:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.nzenweoforgroup.olango:actualImageUri}</code></td><td>An image uri .</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.nzenweoforgroup.olango:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.nzenweoforgroup.olango:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.nzenweoforgroup.olango:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.nzenweoforgroup.olango:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.nzenweoforgroup.olango:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.nzenweoforgroup.olango:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.nzenweoforgroup.olango:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.nzenweoforgroup.olango:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.nzenweoforgroup.olango:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.nzenweoforgroup.olango:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.nzenweoforgroup.olango:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.nzenweoforgroup.olango:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.nzenweoforgroup.olango:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.nzenweoforgroup.olango:roundAsCircle}</code></td><td>Round as circle.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.nzenweoforgroup.olango:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.nzenweoforgroup.olango:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.nzenweoforgroup.olango:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.nzenweoforgroup.olango:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.nzenweoforgroup.olango:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.nzenweoforgroup.olango:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.nzenweoforgroup.olango:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.nzenweoforgroup.olango:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.nzenweoforgroup.olango:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.nzenweoforgroup.olango:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.nzenweoforgroup.olango:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.nzenweoforgroup.olango:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.nzenweoforgroup.olango:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.nzenweoforgroup.olango:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.nzenweofor.olango:actualImageResource}</code></td><td>An image reference</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.nzenweofor.olango:actualImageScaleType}</code></td><td>Scale type of the actual image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.nzenweofor.olango:actualImageUri}</code></td><td>An image uri .</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.nzenweofor.olango:backgroundImage}</code></td><td>A drawable or color to be used as a background.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.nzenweofor.olango:fadeDuration}</code></td><td>Fade duration in milliseconds.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.nzenweofor.olango:failureImage}</code></td><td>A drawable to be be used as a failure image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.nzenweofor.olango:failureImageScaleType}</code></td><td>Scale type of the failure image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.nzenweofor.olango:overlayImage}</code></td><td>A drawable or color to be used as an overlay.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.nzenweofor.olango:placeholderImage}</code></td><td>A drawable or color to be be used as a placeholder.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.nzenweofor.olango:placeholderImageScaleType}</code></td><td>Scale type of the placeholder image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.nzenweofor.olango:pressedStateOverlayImage}</code></td><td>A drawable or color to be used as a pressed-state-overlay</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.nzenweofor.olango:progressBarAutoRotateInterval}</code></td><td>Progress bar Auto Rotate interval in milliseconds</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.nzenweofor.olango:progressBarImage}</code></td><td>A drawable to be be used as a progress bar.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.nzenweofor.olango:progressBarImageScaleType}</code></td><td>Scale type of the progress bar.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.nzenweofor.olango:retryImage}</code></td><td>A drawable to be be used as a retry image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.nzenweofor.olango:retryImageScaleType}</code></td><td>Scale type of the retry image.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.nzenweofor.olango:roundAsCircle}</code></td><td>Round as circle.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.nzenweofor.olango:roundBottomEnd}</code></td><td>Round the bottom-end edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.nzenweofor.olango:roundBottomLeft}</code></td><td>Round the bottom-left corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.nzenweofor.olango:roundBottomRight}</code></td><td>Round the bottom-right corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.nzenweofor.olango:roundBottomStart}</code></td><td>Round the bottom-start edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.nzenweofor.olango:roundTopEnd}</code></td><td>Round the top-end edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.nzenweofor.olango:roundTopLeft}</code></td><td>Round the top-left corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.nzenweofor.olango:roundTopRight}</code></td><td>Round the top-right corner.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.nzenweofor.olango:roundTopStart}</code></td><td>Round the top-start edge.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.nzenweofor.olango:roundWithOverlayColor}</code></td><td>Round by overlying color.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.nzenweofor.olango:roundedCornerRadius}</code></td><td>Rounded corner radius.</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.nzenweofor.olango:roundingBorderColor}</code></td><td>Rounding border color</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.nzenweofor.olango:roundingBorderPadding}</code></td><td>Rounding border padding</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.nzenweofor.olango:roundingBorderWidth}</code></td><td>Rounding border width</td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.nzenweofor.olango:viewAspectRatio}</code></td><td>Aspect ratio (width / height) of the view, not necessarily of the images.</td></tr>
      * </table>
      * @see #SimpleDraweeView_actualImageResource
      * @see #SimpleDraweeView_actualImageScaleType
@@ -17386,7 +17386,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:actualImageResource
+     * @attr name com.nzenweofor.olango:actualImageResource
      */
     public static final int SimpleDraweeView_actualImageResource=0;
     /**
@@ -17412,7 +17412,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:actualImageScaleType
+     * @attr name com.nzenweofor.olango:actualImageScaleType
      */
     public static final int SimpleDraweeView_actualImageScaleType=1;
     /**
@@ -17423,7 +17423,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:actualImageUri
+     * @attr name com.nzenweofor.olango:actualImageUri
      */
     public static final int SimpleDraweeView_actualImageUri=2;
     /**
@@ -17436,7 +17436,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundImage
+     * @attr name com.nzenweofor.olango:backgroundImage
      */
     public static final int SimpleDraweeView_backgroundImage=3;
     /**
@@ -17446,7 +17446,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:fadeDuration
+     * @attr name com.nzenweofor.olango:fadeDuration
      */
     public static final int SimpleDraweeView_fadeDuration=4;
     /**
@@ -17459,7 +17459,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:failureImage
+     * @attr name com.nzenweofor.olango:failureImage
      */
     public static final int SimpleDraweeView_failureImage=5;
     /**
@@ -17485,7 +17485,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:failureImageScaleType
+     * @attr name com.nzenweofor.olango:failureImageScaleType
      */
     public static final int SimpleDraweeView_failureImageScaleType=6;
     /**
@@ -17498,7 +17498,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:overlayImage
+     * @attr name com.nzenweofor.olango:overlayImage
      */
     public static final int SimpleDraweeView_overlayImage=7;
     /**
@@ -17511,7 +17511,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:placeholderImage
+     * @attr name com.nzenweofor.olango:placeholderImage
      */
     public static final int SimpleDraweeView_placeholderImage=8;
     /**
@@ -17537,7 +17537,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:placeholderImageScaleType
+     * @attr name com.nzenweofor.olango:placeholderImageScaleType
      */
     public static final int SimpleDraweeView_placeholderImageScaleType=9;
     /**
@@ -17550,7 +17550,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:pressedStateOverlayImage
+     * @attr name com.nzenweofor.olango:pressedStateOverlayImage
      */
     public static final int SimpleDraweeView_pressedStateOverlayImage=10;
     /**
@@ -17560,7 +17560,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarAutoRotateInterval
+     * @attr name com.nzenweofor.olango:progressBarAutoRotateInterval
      */
     public static final int SimpleDraweeView_progressBarAutoRotateInterval=11;
     /**
@@ -17573,7 +17573,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarImage
+     * @attr name com.nzenweofor.olango:progressBarImage
      */
     public static final int SimpleDraweeView_progressBarImage=12;
     /**
@@ -17599,7 +17599,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:progressBarImageScaleType
+     * @attr name com.nzenweofor.olango:progressBarImageScaleType
      */
     public static final int SimpleDraweeView_progressBarImageScaleType=13;
     /**
@@ -17612,7 +17612,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:retryImage
+     * @attr name com.nzenweofor.olango:retryImage
      */
     public static final int SimpleDraweeView_retryImage=14;
     /**
@@ -17638,7 +17638,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:retryImageScaleType
+     * @attr name com.nzenweofor.olango:retryImageScaleType
      */
     public static final int SimpleDraweeView_retryImageScaleType=15;
     /**
@@ -17649,7 +17649,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundAsCircle
+     * @attr name com.nzenweofor.olango:roundAsCircle
      */
     public static final int SimpleDraweeView_roundAsCircle=16;
     /**
@@ -17660,7 +17660,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomEnd
+     * @attr name com.nzenweofor.olango:roundBottomEnd
      */
     public static final int SimpleDraweeView_roundBottomEnd=17;
     /**
@@ -17671,7 +17671,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomLeft
+     * @attr name com.nzenweofor.olango:roundBottomLeft
      */
     public static final int SimpleDraweeView_roundBottomLeft=18;
     /**
@@ -17682,7 +17682,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomRight
+     * @attr name com.nzenweofor.olango:roundBottomRight
      */
     public static final int SimpleDraweeView_roundBottomRight=19;
     /**
@@ -17693,7 +17693,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundBottomStart
+     * @attr name com.nzenweofor.olango:roundBottomStart
      */
     public static final int SimpleDraweeView_roundBottomStart=20;
     /**
@@ -17704,7 +17704,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopEnd
+     * @attr name com.nzenweofor.olango:roundTopEnd
      */
     public static final int SimpleDraweeView_roundTopEnd=21;
     /**
@@ -17715,7 +17715,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopLeft
+     * @attr name com.nzenweofor.olango:roundTopLeft
      */
     public static final int SimpleDraweeView_roundTopLeft=22;
     /**
@@ -17726,7 +17726,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopRight
+     * @attr name com.nzenweofor.olango:roundTopRight
      */
     public static final int SimpleDraweeView_roundTopRight=23;
     /**
@@ -17737,7 +17737,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundTopStart
+     * @attr name com.nzenweofor.olango:roundTopStart
      */
     public static final int SimpleDraweeView_roundTopStart=24;
     /**
@@ -17749,7 +17749,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundWithOverlayColor
+     * @attr name com.nzenweofor.olango:roundWithOverlayColor
      */
     public static final int SimpleDraweeView_roundWithOverlayColor=25;
     /**
@@ -17763,7 +17763,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundedCornerRadius
+     * @attr name com.nzenweofor.olango:roundedCornerRadius
      */
     public static final int SimpleDraweeView_roundedCornerRadius=26;
     /**
@@ -17775,7 +17775,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderColor
+     * @attr name com.nzenweofor.olango:roundingBorderColor
      */
     public static final int SimpleDraweeView_roundingBorderColor=27;
     /**
@@ -17789,7 +17789,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderPadding
+     * @attr name com.nzenweofor.olango:roundingBorderPadding
      */
     public static final int SimpleDraweeView_roundingBorderPadding=28;
     /**
@@ -17803,7 +17803,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:roundingBorderWidth
+     * @attr name com.nzenweofor.olango:roundingBorderWidth
      */
     public static final int SimpleDraweeView_roundingBorderWidth=29;
     /**
@@ -17813,7 +17813,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:viewAspectRatio
+     * @attr name com.nzenweofor.olango:viewAspectRatio
      */
     public static final int SimpleDraweeView_viewAspectRatio=30;
     /**
@@ -17823,8 +17823,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.nzenweoforgroup.olango:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.nzenweoforgroup.olango:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.nzenweofor.olango:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.nzenweofor.olango:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -17833,7 +17833,7 @@ public final class R {
       0x7f0301ab, 0x7f0301ac
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17841,11 +17841,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:snackbarButtonStyle
+     * @attr name com.nzenweofor.olango:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17853,7 +17853,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:snackbarStyle
+     * @attr name com.nzenweofor.olango:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -17864,8 +17864,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.nzenweoforgroup.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.nzenweoforgroup.olango:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.nzenweofor.olango:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.nzenweofor.olango:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -17898,11 +17898,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:elevation
+     * @attr name com.nzenweofor.olango:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17911,7 +17911,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:maxActionInlineWidth
+     * @attr name com.nzenweofor.olango:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -17925,7 +17925,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.nzenweoforgroup.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.nzenweofor.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -18014,7 +18014,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:popupTheme
+     * @attr name com.nzenweofor.olango:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -18154,17 +18154,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.nzenweoforgroup.olango:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.nzenweoforgroup.olango:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.nzenweoforgroup.olango:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.nzenweoforgroup.olango:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.nzenweoforgroup.olango:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.nzenweoforgroup.olango:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.nzenweoforgroup.olango:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.nzenweoforgroup.olango:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.nzenweoforgroup.olango:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.nzenweoforgroup.olango:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.nzenweoforgroup.olango:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.nzenweofor.olango:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.nzenweofor.olango:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.nzenweofor.olango:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.nzenweofor.olango:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.nzenweofor.olango:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.nzenweofor.olango:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.nzenweofor.olango:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.nzenweofor.olango:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.nzenweofor.olango:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.nzenweofor.olango:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.nzenweofor.olango:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -18230,7 +18230,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:showText
+     * @attr name com.nzenweofor.olango:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -18241,7 +18241,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:splitTrack
+     * @attr name com.nzenweofor.olango:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -18255,7 +18255,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:switchMinWidth
+     * @attr name com.nzenweofor.olango:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -18269,7 +18269,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:switchPadding
+     * @attr name com.nzenweofor.olango:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -18282,7 +18282,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:switchTextAppearance
+     * @attr name com.nzenweofor.olango:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -18296,7 +18296,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:thumbTextPadding
+     * @attr name com.nzenweofor.olango:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -18308,7 +18308,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:thumbTint
+     * @attr name com.nzenweofor.olango:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -18335,7 +18335,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:thumbTintMode
+     * @attr name com.nzenweofor.olango:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -18348,7 +18348,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:track
+     * @attr name com.nzenweofor.olango:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -18360,7 +18360,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:trackTint
+     * @attr name com.nzenweofor.olango:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -18387,7 +18387,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:trackTintMode
+     * @attr name com.nzenweofor.olango:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -18449,31 +18449,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.nzenweoforgroup.olango:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.nzenweoforgroup.olango:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.nzenweoforgroup.olango:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.nzenweoforgroup.olango:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.nzenweoforgroup.olango:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.nzenweoforgroup.olango:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.nzenweoforgroup.olango:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.nzenweoforgroup.olango:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.nzenweoforgroup.olango:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.nzenweoforgroup.olango:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.nzenweoforgroup.olango:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.nzenweoforgroup.olango:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.nzenweoforgroup.olango:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.nzenweoforgroup.olango:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.nzenweoforgroup.olango:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.nzenweoforgroup.olango:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.nzenweoforgroup.olango:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.nzenweoforgroup.olango:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.nzenweoforgroup.olango:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.nzenweoforgroup.olango:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.nzenweoforgroup.olango:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.nzenweoforgroup.olango:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.nzenweoforgroup.olango:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.nzenweoforgroup.olango:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.nzenweoforgroup.olango:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.nzenweofor.olango:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.nzenweofor.olango:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.nzenweofor.olango:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.nzenweofor.olango:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.nzenweofor.olango:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.nzenweofor.olango:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.nzenweofor.olango:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.nzenweofor.olango:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.nzenweofor.olango:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.nzenweofor.olango:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.nzenweofor.olango:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.nzenweofor.olango:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.nzenweofor.olango:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.nzenweofor.olango:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.nzenweofor.olango:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.nzenweofor.olango:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.nzenweofor.olango:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.nzenweofor.olango:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.nzenweofor.olango:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.nzenweofor.olango:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.nzenweofor.olango:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.nzenweofor.olango:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.nzenweofor.olango:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.nzenweofor.olango:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.nzenweofor.olango:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -18511,7 +18511,7 @@ public final class R {
       0x7f0301e2
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18519,11 +18519,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabBackground
+     * @attr name com.nzenweofor.olango:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18532,11 +18532,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabContentStart
+     * @attr name com.nzenweofor.olango:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18549,22 +18549,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tabGravity
+     * @attr name com.nzenweofor.olango:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabIconTint
+     * @attr name com.nzenweofor.olango:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18581,11 +18581,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tabIconTintMode
+     * @attr name com.nzenweofor.olango:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18593,41 +18593,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicator
+     * @attr name com.nzenweofor.olango:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicatorAnimationDuration
+     * @attr name com.nzenweofor.olango:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicatorColor
+     * @attr name com.nzenweofor.olango:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicatorFullWidth
+     * @attr name com.nzenweofor.olango:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18642,11 +18642,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicatorGravity
+     * @attr name com.nzenweofor.olango:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18655,21 +18655,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabIndicatorHeight
+     * @attr name com.nzenweofor.olango:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabInlineLabel
+     * @attr name com.nzenweofor.olango:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18678,11 +18678,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabMaxWidth
+     * @attr name com.nzenweofor.olango:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18691,11 +18691,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabMinWidth
+     * @attr name com.nzenweofor.olango:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18708,11 +18708,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:tabMode
+     * @attr name com.nzenweofor.olango:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18721,11 +18721,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabPadding
+     * @attr name com.nzenweofor.olango:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18734,11 +18734,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabPaddingBottom
+     * @attr name com.nzenweofor.olango:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18747,11 +18747,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabPaddingEnd
+     * @attr name com.nzenweofor.olango:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18760,11 +18760,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabPaddingStart
+     * @attr name com.nzenweofor.olango:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18773,33 +18773,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:tabPaddingTop
+     * @attr name com.nzenweofor.olango:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabRippleColor
+     * @attr name com.nzenweofor.olango:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabSelectedTextColor
+     * @attr name com.nzenweofor.olango:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18807,28 +18807,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabTextAppearance
+     * @attr name com.nzenweofor.olango:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabTextColor
+     * @attr name com.nzenweofor.olango:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:tabUnboundedRipple
+     * @attr name com.nzenweofor.olango:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -18850,10 +18850,10 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.nzenweoforgroup.olango:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.nzenweoforgroup.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.nzenweoforgroup.olango:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textLocale com.nzenweoforgroup.olango:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.nzenweofor.olango:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.nzenweofor.olango:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.nzenweofor.olango:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textLocale com.nzenweofor.olango:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
@@ -19060,7 +19060,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontFamily
+     * @attr name com.nzenweofor.olango:fontFamily
      */
     public static final int TextAppearance_fontFamily=12;
     /**
@@ -19071,7 +19071,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:fontVariationSettings
+     * @attr name com.nzenweofor.olango:fontVariationSettings
      */
     public static final int TextAppearance_fontVariationSettings=13;
     /**
@@ -19086,7 +19086,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:textAllCaps
+     * @attr name com.nzenweofor.olango:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=14;
     /**
@@ -19101,7 +19101,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:textLocale
+     * @attr name com.nzenweofor.olango:textLocale
      */
     public static final int TextAppearance_textLocale=15;
     /**
@@ -19113,32 +19113,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.nzenweoforgroup.olango:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.nzenweoforgroup.olango:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.nzenweoforgroup.olango:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.nzenweoforgroup.olango:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.nzenweoforgroup.olango:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.nzenweoforgroup.olango:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.nzenweoforgroup.olango:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.nzenweoforgroup.olango:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.nzenweoforgroup.olango:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.nzenweoforgroup.olango:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.nzenweoforgroup.olango:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.nzenweoforgroup.olango:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.nzenweoforgroup.olango:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.nzenweoforgroup.olango:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.nzenweoforgroup.olango:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.nzenweoforgroup.olango:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.nzenweoforgroup.olango:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.nzenweoforgroup.olango:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.nzenweoforgroup.olango:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.nzenweoforgroup.olango:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.nzenweoforgroup.olango:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.nzenweoforgroup.olango:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.nzenweoforgroup.olango:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.nzenweoforgroup.olango:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.nzenweoforgroup.olango:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.nzenweoforgroup.olango:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.nzenweofor.olango:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.nzenweofor.olango:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.nzenweofor.olango:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.nzenweofor.olango:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.nzenweofor.olango:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.nzenweofor.olango:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.nzenweofor.olango:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.nzenweofor.olango:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.nzenweofor.olango:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.nzenweofor.olango:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.nzenweofor.olango:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.nzenweofor.olango:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.nzenweofor.olango:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.nzenweofor.olango:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.nzenweofor.olango:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.nzenweofor.olango:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.nzenweofor.olango:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.nzenweofor.olango:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.nzenweofor.olango:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.nzenweofor.olango:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.nzenweofor.olango:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.nzenweofor.olango:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.nzenweofor.olango:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.nzenweofor.olango:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.nzenweofor.olango:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.nzenweofor.olango:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -19204,18 +19204,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:boxBackgroundColor
+     * @attr name com.nzenweofor.olango:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19229,11 +19229,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:boxBackgroundMode
+     * @attr name com.nzenweofor.olango:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19242,11 +19242,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxCollapsedPaddingTop
+     * @attr name com.nzenweofor.olango:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19255,11 +19255,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxCornerRadiusBottomEnd
+     * @attr name com.nzenweofor.olango:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19268,11 +19268,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxCornerRadiusBottomStart
+     * @attr name com.nzenweofor.olango:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19281,11 +19281,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxCornerRadiusTopEnd
+     * @attr name com.nzenweofor.olango:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19294,22 +19294,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxCornerRadiusTopStart
+     * @attr name com.nzenweofor.olango:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:boxStrokeColor
+     * @attr name com.nzenweofor.olango:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19318,30 +19318,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:boxStrokeWidth
+     * @attr name com.nzenweofor.olango:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:counterEnabled
+     * @attr name com.nzenweofor.olango:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:counterMaxLength
+     * @attr name com.nzenweofor.olango:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19349,11 +19349,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:counterOverflowTextAppearance
+     * @attr name com.nzenweofor.olango:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19361,21 +19361,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:counterTextAppearance
+     * @attr name com.nzenweofor.olango:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:errorEnabled
+     * @attr name com.nzenweofor.olango:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19383,31 +19383,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:errorTextAppearance
+     * @attr name com.nzenweofor.olango:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:helperText
+     * @attr name com.nzenweofor.olango:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:helperTextEnabled
+     * @attr name com.nzenweofor.olango:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19415,31 +19415,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:helperTextTextAppearance
+     * @attr name com.nzenweofor.olango:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hintAnimationEnabled
+     * @attr name com.nzenweofor.olango:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hintEnabled
+     * @attr name com.nzenweofor.olango:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19447,21 +19447,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:hintTextAppearance
+     * @attr name com.nzenweofor.olango:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:passwordToggleContentDescription
+     * @attr name com.nzenweofor.olango:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19469,32 +19469,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:passwordToggleDrawable
+     * @attr name com.nzenweofor.olango:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:passwordToggleEnabled
+     * @attr name com.nzenweofor.olango:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:passwordToggleTint
+     * @attr name com.nzenweofor.olango:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19510,7 +19510,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:passwordToggleTintMode
+     * @attr name com.nzenweofor.olango:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -19521,8 +19521,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.nzenweoforgroup.olango:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.nzenweoforgroup.olango:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.nzenweofor.olango:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.nzenweofor.olango:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -19544,23 +19544,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:enforceMaterialTheme
+     * @attr name com.nzenweofor.olango:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.nzenweoforgroup.olango:enforceTextAppearance
+     * @attr name com.nzenweofor.olango:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -19572,41 +19572,41 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.nzenweoforgroup.olango:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.nzenweoforgroup.olango:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.nzenweoforgroup.olango:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.nzenweoforgroup.olango:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.nzenweoforgroup.olango:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.nzenweofor.olango:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.nzenweofor.olango:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.nzenweofor.olango:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.nzenweofor.olango:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.nzenweofor.olango:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.nzenweoforgroup.olango:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.nzenweoforgroup.olango:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.nzenweoforgroup.olango:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.nzenweoforgroup.olango:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.nzenweofor.olango:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.nzenweofor.olango:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.nzenweofor.olango:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.nzenweofor.olango:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.nzenweoforgroup.olango:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.nzenweoforgroup.olango:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.nzenweofor.olango:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.nzenweofor.olango:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.nzenweoforgroup.olango:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_menu com.nzenweoforgroup.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.nzenweoforgroup.olango:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.nzenweofor.olango:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_menu com.nzenweofor.olango:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.nzenweofor.olango:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.nzenweoforgroup.olango:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.nzenweofor.olango:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.nzenweoforgroup.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.nzenweofor.olango:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.nzenweoforgroup.olango:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.nzenweoforgroup.olango:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.nzenweoforgroup.olango:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.nzenweoforgroup.olango:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.nzenweoforgroup.olango:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.nzenweofor.olango:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.nzenweofor.olango:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.nzenweofor.olango:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.nzenweofor.olango:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.nzenweofor.olango:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.nzenweoforgroup.olango:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.nzenweoforgroup.olango:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.nzenweoforgroup.olango:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.nzenweoforgroup.olango:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.nzenweoforgroup.olango:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.nzenweoforgroup.olango:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.nzenweoforgroup.olango:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.nzenweofor.olango:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.nzenweofor.olango:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.nzenweofor.olango:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.nzenweofor.olango:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.nzenweofor.olango:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.nzenweofor.olango:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.nzenweofor.olango:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -19693,7 +19693,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -19707,7 +19707,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:buttonGravity
+     * @attr name com.nzenweofor.olango:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -19718,7 +19718,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:collapseContentDescription
+     * @attr name com.nzenweofor.olango:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -19731,7 +19731,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:collapseIcon
+     * @attr name com.nzenweofor.olango:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -19746,7 +19746,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetEnd
+     * @attr name com.nzenweofor.olango:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -19761,7 +19761,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetEndWithActions
+     * @attr name com.nzenweofor.olango:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -19776,7 +19776,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetLeft
+     * @attr name com.nzenweofor.olango:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -19791,7 +19791,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetRight
+     * @attr name com.nzenweofor.olango:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -19806,7 +19806,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetStart
+     * @attr name com.nzenweofor.olango:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -19821,7 +19821,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:contentInsetStartWithNavigation
+     * @attr name com.nzenweofor.olango:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -19835,7 +19835,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:logo
+     * @attr name com.nzenweofor.olango:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -19847,11 +19847,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:logoDescription
+     * @attr name com.nzenweofor.olango:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19860,7 +19860,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:maxButtonHeight
+     * @attr name com.nzenweofor.olango:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -19873,7 +19873,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:menu
+     * @attr name com.nzenweofor.olango:menu
      */
     public static final int Toolbar_menu=14;
     /**
@@ -19885,7 +19885,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:navigationContentDescription
+     * @attr name com.nzenweofor.olango:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=15;
     /**
@@ -19899,7 +19899,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:navigationIcon
+     * @attr name com.nzenweofor.olango:navigationIcon
      */
     public static final int Toolbar_navigationIcon=16;
     /**
@@ -19913,7 +19913,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:popupTheme
+     * @attr name com.nzenweofor.olango:popupTheme
      */
     public static final int Toolbar_popupTheme=17;
     /**
@@ -19924,11 +19924,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:subtitle
+     * @attr name com.nzenweofor.olango:subtitle
      */
     public static final int Toolbar_subtitle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19936,7 +19936,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:subtitleTextAppearance
+     * @attr name com.nzenweofor.olango:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
@@ -19948,17 +19948,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:subtitleTextColor
+     * @attr name com.nzenweofor.olango:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.nzenweoforgroup.olango:title
+     * @attr name com.nzenweofor.olango:title
      */
     public static final int Toolbar_title=21;
     /**
@@ -19973,7 +19973,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMargin
+     * @attr name com.nzenweofor.olango:titleMargin
      */
     public static final int Toolbar_titleMargin=22;
     /**
@@ -19989,7 +19989,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMarginBottom
+     * @attr name com.nzenweofor.olango:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=23;
     /**
@@ -20005,7 +20005,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMarginEnd
+     * @attr name com.nzenweofor.olango:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=24;
     /**
@@ -20021,7 +20021,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMarginStart
+     * @attr name com.nzenweofor.olango:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=25;
     /**
@@ -20037,7 +20037,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMarginTop
+     * @attr name com.nzenweofor.olango:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=26;
     /**
@@ -20051,12 +20051,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:titleMargins
+     * @attr name com.nzenweofor.olango:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=27;
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20064,7 +20064,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:titleTextAppearance
+     * @attr name com.nzenweofor.olango:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=28;
     /**
@@ -20076,7 +20076,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:titleTextColor
+     * @attr name com.nzenweofor.olango:titleTextColor
      */
     public static final int Toolbar_titleTextColor=29;
     /**
@@ -20088,9 +20088,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.nzenweoforgroup.olango:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.nzenweoforgroup.olango:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.nzenweoforgroup.olango:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.nzenweofor.olango:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.nzenweofor.olango:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.nzenweofor.olango:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -20152,7 +20152,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:paddingEnd
+     * @attr name com.nzenweofor.olango:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -20166,7 +20166,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.nzenweoforgroup.olango:paddingStart
+     * @attr name com.nzenweofor.olango:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -20179,7 +20179,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:theme
+     * @attr name com.nzenweofor.olango:theme
      */
     public static final int View_theme=4;
     /**
@@ -20190,8 +20190,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.nzenweoforgroup.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.nzenweoforgroup.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.nzenweofor.olango:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.nzenweofor.olango:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -20224,7 +20224,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTint
+     * @attr name com.nzenweofor.olango:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -20251,7 +20251,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:backgroundTintMode
+     * @attr name com.nzenweofor.olango:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -20319,7 +20319,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #scaleStyle_scalableType com.nzenweoforgroup.olango:scalableType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #scaleStyle_scalableType com.nzenweofor.olango:scalableType}</code></td><td></td></tr>
      * </table>
      * @see #scaleStyle_scalableType
      */
@@ -20327,7 +20327,7 @@ public final class R {
       0x7f03018f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.nzenweoforgroup.olango.R.attr#scalableType}
+     * <p>This symbol is the offset where the {@link com.nzenweofor.olango.R.attr#scalableType}
      * attribute's value can be found in the {@link #scaleStyle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20364,7 +20364,7 @@ public final class R {
      * <tr><td>startInside</td><td>17</td><td></td></tr>
      * </table>
      *
-     * @attr name com.nzenweoforgroup.olango:scalableType
+     * @attr name com.nzenweofor.olango:scalableType
      */
     public static final int scaleStyle_scalableType=0;
   }

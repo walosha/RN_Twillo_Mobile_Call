@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 03 17:48:34 WAT 2020
+#Sun Apr 05 13:41:41 WAT 2020
 56.path=lib/armeabi-v7a/libfolly_json.so
 5.base=C\:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
