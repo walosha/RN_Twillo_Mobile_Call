@@ -4,7 +4,11 @@
     "slug": "Olango",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "platforms": ["ios", "android", "web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,7 +20,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "bundleIdentifier": "com.nzenweoforgroup.olango",
       "supportsTablet": true,
@@ -26,6 +32,9 @@
       "package": "com.nzenweoforgroup.olango",
       "versionCode": 1
     },
-    "description": ""
-  }
+    "description": "",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "olango",
+  "name": "olango"
 }

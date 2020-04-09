@@ -3,7 +3,6 @@ import { View, ScrollView, StyleSheet } from "react-native";
 import HeaderNavigation from "../components/HeaderNavugation";
 import SavedConversationPaper from "../components/SavedConversationPaper";
 import ScreenHeader from "../components/ScreenHeader";
-import AudiPlayer from "../components/audio/AudioPlayer";
 const records = [1, 2, 3, 4, 5, 6, 7, 8, 8, 3, 4];
 
 const SavedConversation = ({ navigation }) => {
@@ -16,12 +15,11 @@ const SavedConversation = ({ navigation }) => {
         headerText="Olango"
       />
       <ScreenHeader headerText="Saved Conversations" />
-      <AudiPlayer />
-      {/* <ScrollView style={styles.main}>
+      <ScrollView style={styles.main}>
         {records.map((_, idx) => (
           <SavedConversationPaper key={idx} />
         ))}
-      </ScrollView> */}
+      </ScrollView>
     </View>
   );
 };

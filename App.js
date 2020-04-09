@@ -1,23 +1,27 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
+import  { ActivityIndicator } from "react-native";
 import * as Font from "expo-font";
-import { AppLoading } from "expo";
+import SplashScreen from 'react-native-splash-screen'
 import Navigator from "./routes/routeRoute";
 import { fonts } from "./fonts";
 
-const getFonts = () => Font.loadAsync(fonts);
+
 
 const App = () => {
   const [fontsLoaded, setFontLoaded] = useState(false);
+
+  useEffect(()=>{
+    // do stuff while splash screen is shown
+    // After having done stuff (such as async tasks) hide the splash screen
+    Font.loadAsync(fonts);
+    setFontLoaded(true)
+    SplashScreen.hide()
+  },[])
   if (fontsLoaded) {
     return <Navigator />;
   } else {
     return (
-      <AppLoading
-        startAsync={getFonts}
-        onFinish={() => {
-          setFontLoaded(true);
-        }}
-      ></AppLoading>
+      <ActivityIndicator color='red' size='large'/>
     );
   }
 };

@@ -1,5 +1,5 @@
 import React from "react";
-import SignInAndSignUp from "../components/Sign-in-and-Sign-Up.component";
+import SignInAndSignUp from "../components/Sign-in-and-Sign-Up";
 
 const signInScreen = ({ navigation }) => (
   <SignInAndSignUp
