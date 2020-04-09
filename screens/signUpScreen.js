@@ -1,9 +1,5 @@
 import React from "react";
-<<<<<<< HEAD
-import SignInAndSignUp from "../components/SignInAndSignUp";
-=======
 import SignInAndSignUp from "../components/Sign-in-and-Sign-Up";
->>>>>>> b4expo
 
 const SignUpScreen = ({ navigation }) => (
   <SignInAndSignUp

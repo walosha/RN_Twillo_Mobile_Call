@@ -19,9 +19,7 @@ const App = () => {
   },[])
   if (fontsLoaded) {
     return (
-      <View>
-        <Text>Hello world</Text>
-      </View>
+      <Navigator/>
     );
   } else {
     return (
