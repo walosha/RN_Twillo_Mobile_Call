@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
@@ -15,6 +16,12 @@
                 },
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\3f20298ab09fe3128ec8ce98c929eb11\\res\\values-v16\\values-v16.xml",
+=======
+            "outputFile": "/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f8c290f5b6f93f12bfe63295498015af/res/values-v16/values-v16.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,6 +38,19 @@
                         "endColumns": "12",
                         "endOffsets": "289"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/258db3edf08587171ae7726851b6c1db/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+>>>>>>> b4expo
                 }
             ]
         }

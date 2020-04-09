@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
@@ -22,6 +23,29 @@
                 },
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2c60a637be69215533573e55ef7490bd\\res\\values-zh-rTW\\values.xml",
+=======
+            "outputFile": "/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/258db3edf08587171ae7726851b6c1db/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "80",
+                        "startColumns": "4",
+                        "startOffsets": "7006",
+                        "endColumns": "100",
+                        "endOffsets": "7102"
+                    }
+                },
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/7f5d2017849a96a14fb81faa26360530/res/values-zh-rTW/values.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +62,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.0.1.aar\\a59cf1baa64d6c1f23e33aa1b5619c4a\\res\\values-zh-rTW\\values.xml",
+=======
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/88737c22f3b8bc56b65e455b96a0ac7e/res/values-zh-rTW/values.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,6 +83,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-messaging-17.6.0.aar\\080018141f641d1e5deda3663bb9371f\\res\\values-zh-rTW\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -90,6 +119,9 @@
                 },
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-exoplayer-ui-2.9.2.aar\\0266bd69239fe225992bcb9b59fb2c51\\res\\values-zh-rTW\\values-zh-rTW.xml",
+=======
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.9.2.aar/b71c73ea3a137481a95225a16fdc5e1e/res/values-zh-rTW/values-zh-rTW.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -104,6 +136,26 @@
                         "endColumns": "67,69,63,61,60,67,72,69,72,62,65,60,55,55,56,52,69,58,51,57,46,60,55,54,62,61,62,48,51,65,65,48",
                         "endOffsets": "5042,5112,5176,5238,5299,5367,5440,5510,5583,5646,5712,5773,5829,5885,5942,5995,6065,6124,6176,6234,6281,6342,6398,6453,6516,6578,6641,6690,6742,6808,6874,6923"
                     }
+<<<<<<< HEAD
+=======
+                },
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f8c290f5b6f93f12bfe63295498015af/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,757,833,925,1018,1115,1211,1307,1401,1497,1589,1681,1773,1850,1946,2041,2136,2233,2329,2427,2577,2671",
+                        "endColumns": "94,92,99,81,96,107,76,75,91,92,96,95,95,93,95,91,91,91,76,95,94,94,96,95,97,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,752,828,920,1013,1110,1206,1302,1396,1492,1584,1676,1768,1845,1941,2036,2131,2228,2324,2422,2572,2666,2744"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,79",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,757,833,925,1018,1115,1211,1307,1401,1497,1589,1681,1773,1850,1946,2041,2136,2233,2329,2427,2577,6928",
+                        "endColumns": "94,92,99,81,96,107,76,75,91,92,96,95,95,93,95,91,91,91,76,95,94,94,96,95,97,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,752,828,920,1013,1110,1206,1302,1396,1492,1584,1676,1768,1845,1941,2036,2131,2228,2324,2422,2572,2666,7001"
+                    }
+>>>>>>> b4expo
                 }
             ]
         }

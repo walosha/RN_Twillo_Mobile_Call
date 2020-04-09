@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\3f20298ab09fe3128ec8ce98c929eb11\\res\\values-large-v4\\values-large-v4.xml",
+=======
+            "outputFile": "/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f8c290f5b6f93f12bfe63295498015af/res/values-large-v4/values-large-v4.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +21,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\d7c2e9252784ed2d85ce75d06c19a515\\res\\values-large-v4\\values-large-v4.xml",
+=======
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/edde5153308e6b0d1e3fd14438ee855c/res/values-large-v4/values-large-v4.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

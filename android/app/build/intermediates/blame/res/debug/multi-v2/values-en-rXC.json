@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\3f20298ab09fe3128ec8ce98c929eb11\\res\\values-en-rXC\\values-en-rXC.xml",
+=======
+            "outputFile": "/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f8c290f5b6f93f12bfe63295498015af/res/values-en-rXC/values-en-rXC.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +21,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\dbd296ad5ea37d07a175266db909e2ec\\res\\values-en-rXC\\values-en-rXC.xml",
+=======
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/258db3edf08587171ae7726851b6c1db/res/values-en-rXC/values-en-rXC.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

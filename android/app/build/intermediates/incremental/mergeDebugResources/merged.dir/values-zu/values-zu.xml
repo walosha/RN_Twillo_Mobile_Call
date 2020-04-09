@@ -77,7 +77,10 @@
     <string name="exo_track_surround_5_point_1">Umsindo ozungelezile ongu-5.1</string>
     <string name="exo_track_surround_7_point_1">Umsindo ozungelezile ongu-7.1</string>
     <string name="exo_track_unknown">Akwaziwa</string>
+<<<<<<< HEAD
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Okwahlukahlukene"</string>
+=======
+>>>>>>> b4expo
     <string msgid="730395136688082741" name="search_menu_title">"Sesha"</string>
     <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

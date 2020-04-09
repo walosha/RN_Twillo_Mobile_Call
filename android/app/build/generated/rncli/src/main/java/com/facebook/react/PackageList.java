@@ -11,8 +11,13 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+<<<<<<< HEAD
 import com.nzenweofor.olango.BuildConfig;
 import com.nzenweofor.olango.R;
+=======
+import com.olango.BuildConfig;
+import com.olango.R;
+>>>>>>> b4expo
 
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
@@ -24,10 +29,15 @@ import com.swmansion.reanimated.ReanimatedPackage;
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
+<<<<<<< HEAD
 // react-native-sound
 import com.zmxv.RNSound.RNSoundPackage;
 // react-native-twilio-programmable-voice
 import com.hoxfon.react.RNTwilioVoice.TwilioVoicePackage;
+=======
+// react-native-splash-screen
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
+>>>>>>> b4expo
 
 public class PackageList {
   private Application application;
@@ -78,8 +88,12 @@ public class PackageList {
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
+<<<<<<< HEAD
       new RNSoundPackage(),
       new TwilioVoicePackage()
+=======
+      new SplashScreenReactPackage()
+>>>>>>> b4expo
     ));
   }
 }

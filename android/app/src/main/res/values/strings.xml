@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Olango</string>
+=======
+    <string name="app_name">olango</string>
+>>>>>>> b4expo
 </resources>

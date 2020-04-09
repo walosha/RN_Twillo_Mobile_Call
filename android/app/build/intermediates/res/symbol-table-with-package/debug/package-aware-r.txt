@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 com.nzenweofor.olango
+=======
+com.olango
+>>>>>>> b4expo
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -731,6 +735,10 @@ color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+<<<<<<< HEAD
+=======
+color primary_dark
+>>>>>>> b4expo
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -745,6 +753,10 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+<<<<<<< HEAD
+=======
+color status_bar_color
+>>>>>>> b4expo
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -1065,6 +1077,25 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+<<<<<<< HEAD
+=======
+drawable assets_flags_arg
+drawable assets_flags_canada
+drawable assets_flags_france
+drawable assets_flags_ghana
+drawable assets_flags_mexico
+drawable assets_flags_sa
+drawable assets_flags_senegal
+drawable assets_flags_sweden
+drawable assets_flags_uk
+drawable assets_flags_usa
+drawable assets_flags_zimba
+drawable assets_icon
+drawable assets_images_monica
+drawable assets_images_olango
+drawable assets_images_ongoing
+drawable assets_images_preferences
+>>>>>>> b4expo
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -1130,18 +1161,30 @@ drawable exo_notification_small_icon
 drawable exo_notification_stop
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+<<<<<<< HEAD
 drawable ic_call_black_24dp
 drawable ic_call_missed_black_24dp
 drawable ic_call_missed_white_24dp
 drawable ic_call_white_24dp
+=======
+>>>>>>> b4expo
 drawable ic_fullscreen_32dp
 drawable ic_fullscreen_exit_32dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+<<<<<<< HEAD
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+=======
+drawable launch_screen
+drawable mtrl_snackbar_background
+drawable mtrl_tabs_default_indicator
+drawable navigation_empty_icon
+drawable node_modules_reactnavigation_stack_src_views_assets_backicon
+drawable node_modules_reactnavigation_stack_src_views_assets_backiconmask
+>>>>>>> b4expo
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1571,6 +1614,10 @@ layout exo_simple_player_view
 layout exo_track_selection_dialog
 layout expo_media_controller
 layout fps_view
+<<<<<<< HEAD
+=======
+layout launch_screen
+>>>>>>> b4expo
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1597,7 +1644,56 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+<<<<<<< HEAD
 raw voice
+=======
+raw assets_fonts_playfair_display_static_playfairdisplayblack
+raw assets_fonts_playfair_display_static_playfairdisplayblackitalic
+raw assets_fonts_playfair_display_static_playfairdisplaybold
+raw assets_fonts_playfair_display_static_playfairdisplaybolditalic
+raw assets_fonts_playfair_display_static_playfairdisplayextrabold
+raw assets_fonts_playfair_display_static_playfairdisplayextrabolditalic
+raw assets_fonts_playfair_display_static_playfairdisplayitalic
+raw assets_fonts_playfair_display_static_playfairdisplaymedium
+raw assets_fonts_playfair_display_static_playfairdisplaymediumitalic
+raw assets_fonts_playfair_display_static_playfairdisplayregular
+raw assets_fonts_playfair_display_static_playfairdisplaysemibold
+raw assets_fonts_playfair_display_static_playfairdisplaysemibolditalic
+raw assets_fonts_quicksand_static_quicksandbold
+raw assets_fonts_quicksand_static_quicksandlight
+raw assets_fonts_quicksand_static_quicksandmedium
+raw assets_fonts_quicksand_static_quicksandregular
+raw assets_fonts_quicksand_static_quicksandsemibold
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_antdesign
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_entypo
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_evilicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_feather
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_foundation
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_octicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_simplelineicons
+raw node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_zocial
+>>>>>>> b4expo
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1715,7 +1811,10 @@ string exo_track_surround_7_point_1
 string exo_track_unknown
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+<<<<<<< HEAD
 string fcm_fallback_notification_channel_label
+=======
+>>>>>>> b4expo
 string header_description
 string hide_bottom_view_on_scroll_behavior
 string image_description
@@ -1997,6 +2096,12 @@ style SpinnerDatePickerDialog
 style SpinnerDatePickerStyle
 style SpinnerTimePickerDialog
 style SpinnerTimePickerStyle
+<<<<<<< HEAD
+=======
+style SplashScreen_Fullscreen
+style SplashScreen_SplashAnimation
+style SplashScreen_SplashTheme
+>>>>>>> b4expo
 style TextAppearance_AppCompat
 style TextAppearance_AppCompat_Body1
 style TextAppearance_AppCompat_Body2

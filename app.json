@@ -35,6 +35,11 @@
     "description": "",
     "entryPoint": "node_modules/expo/AppEntry.js"
   },
+<<<<<<< HEAD
   "displayName": "Olango",
   "name": "Olango"
+=======
+  "displayName": "olango",
+  "name": "olango"
+>>>>>>> b4expo
 }

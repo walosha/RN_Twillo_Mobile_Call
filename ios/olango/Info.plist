@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Olango</string>
+=======
+	<string>olango</string>
+>>>>>>> b4expo
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -57,6 +61,7 @@
 		</dict>
 	</dict>
 	<key>NSCalendarsUsageDescription</key>
+<<<<<<< HEAD
 	<string>Allow Olango to access your calendar</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Allow Olango to use the camera</string>
@@ -78,5 +83,28 @@
 	<string>Give Olango periences permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
 	<string>Allow Olango to access your reminders</string>
+=======
+	<string>Allow olango to access your calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow olango to use the camera</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow olango experiences to access your contacts</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow olango to use your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Allow olango to use your location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow olango to use your location</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow olango to access your microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Allow olango to access your device's accelerometer</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Give olango periences permission to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Give olango periences permission to access your photos</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Allow olango to access your reminders</string>
+>>>>>>> b4expo
 </dict>
 </plist>

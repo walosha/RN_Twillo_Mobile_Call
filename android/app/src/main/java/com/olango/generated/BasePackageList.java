@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.nzenweoforgroup.olango.generated;
+=======
+package com.olango.generated;
+>>>>>>> b4expo
 
 import java.util.Arrays;
 import java.util.List;

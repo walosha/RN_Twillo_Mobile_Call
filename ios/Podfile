@@ -3,7 +3,11 @@ platform :ios, '10.0'
 require_relative '../node_modules/react-native-unimodules/cocoapods'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
+<<<<<<< HEAD
 target 'Olango' do
+=======
+target 'olango' do
+>>>>>>> b4expo
   rnPrefix = "../node_modules/react-native"
 
   # React Native and its dependencies
@@ -43,4 +47,9 @@ target 'Olango' do
 
   # react-native-cli autolinking
   use_native_modules!
+<<<<<<< HEAD
+=======
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+
+>>>>>>> b4expo
 end

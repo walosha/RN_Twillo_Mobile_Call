@@ -77,7 +77,10 @@
     <string name="exo_track_surround_5_point_1">صدای فراگیر ۵.۱</string>
     <string name="exo_track_surround_7_point_1">صدای فراگیر ۷٫۱</string>
     <string name="exo_track_unknown">نامشخص</string>
+<<<<<<< HEAD
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"موارد دیگر"</string>
+=======
+>>>>>>> b4expo
     <string msgid="730395136688082741" name="search_menu_title">"جستجو"</string>
     <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

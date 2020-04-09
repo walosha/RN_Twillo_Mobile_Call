@@ -77,7 +77,10 @@
     <string name="exo_track_surround_5_point_1">5.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_surround_7_point_1">7.1 ပတ်လည် အသံစနစ်</string>
     <string name="exo_track_unknown">အမည်မသိ</string>
+<<<<<<< HEAD
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"အထွေထွေ"</string>
+=======
+>>>>>>> b4expo
     <string msgid="730395136688082741" name="search_menu_title">"ရှာဖွေမှု"</string>
     <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"၉၉၉+"</string>
 </resources>

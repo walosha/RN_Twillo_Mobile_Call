@@ -77,7 +77,10 @@
     <string name="exo_track_surround_5_point_1">Son ambiophonique 5.1</string>
     <string name="exo_track_surround_7_point_1">Son ambiophonique 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
+<<<<<<< HEAD
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Divers"</string>
+=======
+>>>>>>> b4expo
     <string msgid="730395136688082741" name="search_menu_title">"Rechercher"</string>
     <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

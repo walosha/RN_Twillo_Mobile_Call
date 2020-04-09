@@ -77,7 +77,10 @@
     <string name="exo_track_surround_5_point_1">५.१ सराउंड साउंड</string>
     <string name="exo_track_surround_7_point_1">७.१ सराउंड साउंड</string>
     <string name="exo_track_unknown">अज्ञात</string>
+<<<<<<< HEAD
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"मिश्र"</string>
+=======
+>>>>>>> b4expo
     <string msgid="730395136688082741" name="search_menu_title">"शोध"</string>
     <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"९९९+"</string>
 </resources>

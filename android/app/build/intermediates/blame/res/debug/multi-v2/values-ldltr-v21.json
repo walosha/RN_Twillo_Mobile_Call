@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\USER\\Desktop\\Nzenweofor\\Olango\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\3f20298ab09fe3128ec8ce98c929eb11\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
+            "outputFile": "/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/frontdevguy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f8c290f5b6f93f12bfe63295498015af/res/values-ldltr-v21/values-ldltr-v21.xml",
+>>>>>>> b4expo
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
