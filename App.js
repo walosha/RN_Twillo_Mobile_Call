@@ -25,19 +25,7 @@ const App = () => {
     );
   } else {
     return (
-<<<<<<< HEAD
-      // <AppLoading
-      //   startAsync={getFonts}
-      //   onFinish={() => {
-      //     setFontLoaded(true);
-      //   }}
-      // ></AppLoading>
-      <View>
-        <Text>Hello world</Text>
-      </View>
-=======
       <ActivityIndicator color='red' size='large'/>
->>>>>>> b4expo
     );
   }
 };
