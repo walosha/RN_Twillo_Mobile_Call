@@ -1,9 +1,4 @@
 apply plugin: "com.android.application"
-<<<<<<< HEAD
-//apply plugin: 'com.google.gms.google-services'
-
-=======
->>>>>>> b4expo
 
 import com.android.build.OutputFile
 
@@ -105,11 +100,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-<<<<<<< HEAD
-        applicationId "com.nzenweofor.olango"
-=======
         applicationId "com.olango"
->>>>>>> b4expo
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -153,18 +144,10 @@ def jscFlavor = 'org.webkit:android-jsc:+'
 def enableHermes = project.ext.react.get("enableHermes", false);
 
 dependencies {
-<<<<<<< HEAD
-    //implementation 'com.google.firebase:firebase-analytics:11.4.2'
-    implementation fileTree(dir: "libs", include: ["*.jar"])
-    implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
-    implementation "com.facebook.react:react-native:+"  // From node_modules
-    implementation project(':react-native-twilio-programmable-voice')
-=======
     implementation project(':react-native-splash-screen')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     implementation "com.facebook.react:react-native:+"  // From node_modules
->>>>>>> b4expo
     addUnimodulesDependencies()
 
     if (enableHermes) {
@@ -184,8 +167,4 @@ task copyDownloadableDepsToLibs(type: Copy) {
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
-<<<<<<< HEAD
 applyNativeModulesAppBuildGradle(project)
-=======
-applyNativeModulesAppBuildGradle(project)
->>>>>>> b4expo

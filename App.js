@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-import React, { useState } from "react";
-import { View, Text } from "react-native";
-import * as Font from "expo-font";
-//import { AppLoading } from "expo";
-=======
 import React, { useState,useEffect } from "react";
 import  { ActivityIndicator } from "react-native";
 import * as Font from "expo-font";
 import SplashScreen from 'react-native-splash-screen'
->>>>>>> b4expo
 import Navigator from "./routes/routeRoute";
 import { fonts } from "./fonts";
 
