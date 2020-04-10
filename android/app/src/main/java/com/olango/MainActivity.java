@@ -10,21 +10,21 @@ import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
 
 public class MainActivity extends ReactActivity {
 
-    private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
-        @Override
-        protected boolean getUseDeveloperSupport() {
-            return BuildConfig.DEBUG;
-        }
-
-        @Override
-        protected List<ReactPackage> getPackages() {
-            return Arrays.<ReactPackage>asList(
-                new MainReactPackage(),
-                new TwilioVoicePackage()         // <---- Add the Package : by default it will ask microphone permissions
-                // new TwilioVoicePackage(false) // <---- pass false to handle microphone permissions in your application
-            );
-        }
-    };
+    // private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
+    //     @Override
+    //     protected boolean getUseDeveloperSupport() {
+    //         return BuildConfig.DEBUG;
+    //     }
+     
+    //     @Override
+    //     protected List<ReactPackage> getPackages() {
+    //         return Arrays.<ReactPackage>asList(
+    //             new MainReactPackage(),
+    //             new TwilioVoicePackage()         // <---- Add the Package : by default it will ask microphone permissions
+    //             // new TwilioVoicePackage(false) // <---- pass false to handle microphone permissions in your application
+    //         );
+    //     }
+    // };
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {

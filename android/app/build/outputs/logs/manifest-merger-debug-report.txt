@@ -1,0 +1,817 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+MERGED from [:react-native-splash-screen] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [:unimodules-react-native-adapter] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9d4d9cfce2d86134f8042c3f007b3f39/jetified-react-native-0.61.5/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3f2791d3ecf41ed9e54a91eddcfa2ad3/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fb8f7031ef66b8147647717c2aecca12/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-av] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-av/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d8be10a588e4603866e92836b02ef24/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7a392fb51ffdc9439062033866524f7b/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b377054ee625b6b510fb847776d0174d/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72c10e262845a1c2de4f6980a55c9ba9/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/edc036483ef40607e8355e7cf0a3668d/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/103107df96b740ba2a049c2d6e82f159/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd64b0e5e5a7f144b8735df05b5509e0/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/11365d38218db6eea7ac928cd38f3937/play-services-measurement-base-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0572b28591fe495e4969e45a9b8dc9c1/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bb7f6bd7a0a2da7328d8fd0afe87a97a/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.browser:browser:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b6af4929e5c18857e99f1008808e49d4/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6296b2984ac16656e6634afb9c32667e/transition-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/874c23737bb823accb64b8c68ad31d78/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/47746cad00cfcd8c16887c338d7609a3/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d2f5fc1d1c30426657ccfbb83417c32/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b18a22a7d488d5a4c630bd657737271b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0277a12eb6350899229e62710291b7ca/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cadaaccd4723a540ab06962cb1a396e0/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d888c399867a8f38619658b14b6b7815/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/55c8e6e745aacceb492535bf431d5720/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7f0bf633a3d197f98fc6254ea1bf1091/exoplayer-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72ae321c15b8bbd847e3b16df83677b7/jetified-exoplayer-ui-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2423a3e8c7d595310e6661cc5002b018/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/03427883b80ab78f3e6a356eba4df863/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/32d6d4909a16d2ee7ad0c6d18077c046/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d38c20afe116acc8f623a554a3e696f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7fb53a1349254ee0a9efa4b97d2f28bf/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2b97e8589c8f9cc9adcb585b2c3183a0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6b6a5f0e2028213443bf564f1c585c31/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa938dd1ba07eb510b386f61bb706de8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d45e841e71572de25c8d80ebec98d932/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/05209a9bf6c0004aab305c3d2c2ddb5c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a66c090665c19e2493fdf5aa90a98622/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f3d3c9ef953af10d388177573d1cb616/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0022fd16c151c1612c3e6b31539de883/jetified-extension-okhttp-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5bae884c7fb1e1b4e47fec5c491d0c2c/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a072b7027d050ba4a28e8ed0f5aedf24/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31e1e0ea40abf50bc1f09972fcda6618/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9a92904b990e3cb14e2f3d12a60bfcf2/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a22faa9157efca0a4b52fc5b5dc291b0/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dc86846819bd1daeed9eba8d2c71e55e/jetified-exoplayer-dash-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/1eb8abff1f7b02686466e947de706973/jetified-exoplayer-hls-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b12346832fc342f9ed229d662dbb95dc/jetified-exoplayer-smoothstreaming-2.9.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/41dca6c46c218c40bbd3d5609ea55f87/jetified-exoplayer-core-2.9.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5080ea4c3a94602e590d65de9668e7d9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bf49d1e9988754dbe0dc022e3b661608/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d619842a7eaf1130694ae1c01f978c20/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ba1ca6d966f0903bfbc154284174b676/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cf1beec41d3606c2f878b1c5dd26a539/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5e0444443ffb82f923834973bbf621d3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/eacaec61a98c327bdb4a7a1173d930da/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3576101df1addecb45ee4a121a0809b3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6518c549eca7c8c139a4cbcfbf192b2e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/30fc2018b50bb1c7a15b711603c4a865/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/351569c666d8104a7f01c823443d03b2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/16fabe6dcd735bce6cbbba414f807cdc/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa0b1027f558de57c12165dc8f2c7c04/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/49e26898d1009650bb5dc8e6044bc522/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6f0cedc48c12b56834c7d893670cc9c4/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd29d270aba8770afca9eb306508d8aa/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6a03746f58282d4e96ad6f4f9de52f62/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/01bc2f797ba9e95ddda85e7f7506761c/jetified-android-scalablevideoview-1.0.1/AndroidManifest.xml:2:1-12:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:2:1-30:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/e6923a09fe18ccffb4f5d517fa581823/relinker-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/24692e9fc26c673b473f12018ab21212/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+	package
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:1-68:12
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:11:5-67
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:13:5-80
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:13:5-80
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:23:5-71
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:12:5-71
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:28:5-66:19
+MERGED from [:react-native-splash-screen] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9d4d9cfce2d86134f8042c3f007b3f39/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9d4d9cfce2d86134f8042c3f007b3f39/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3f2791d3ecf41ed9e54a91eddcfa2ad3/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3f2791d3ecf41ed9e54a91eddcfa2ad3/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:17:5-20
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:17:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7a392fb51ffdc9439062033866524f7b/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7a392fb51ffdc9439062033866524f7b/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b377054ee625b6b510fb847776d0174d/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b377054ee625b6b510fb847776d0174d/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72c10e262845a1c2de4f6980a55c9ba9/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72c10e262845a1c2de4f6980a55c9ba9/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/edc036483ef40607e8355e7cf0a3668d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/edc036483ef40607e8355e7cf0a3668d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/103107df96b740ba2a049c2d6e82f159/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/103107df96b740ba2a049c2d6e82f159/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd64b0e5e5a7f144b8735df05b5509e0/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd64b0e5e5a7f144b8735df05b5509e0/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/11365d38218db6eea7ac928cd38f3937/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/11365d38218db6eea7ac928cd38f3937/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0572b28591fe495e4969e45a9b8dc9c1/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0572b28591fe495e4969e45a9b8dc9c1/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bb7f6bd7a0a2da7328d8fd0afe87a97a/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bb7f6bd7a0a2da7328d8fd0afe87a97a/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cadaaccd4723a540ab06962cb1a396e0/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cadaaccd4723a540ab06962cb1a396e0/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f3d3c9ef953af10d388177573d1cb616/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f3d3c9ef953af10d388177573d1cb616/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a22faa9157efca0a4b52fc5b5dc291b0/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a22faa9157efca0a4b52fc5b5dc291b0/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6a03746f58282d4e96ad6f4f9de52f62/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6a03746f58282d4e96ad6f4f9de52f62/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:29:7-38
+service#com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:37:9-42:19
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:38:13-92
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:39:13-41:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:25-75
+service#com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseInstanceIDService
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:45:9-51:19
+	android:exported
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:46:13-93
+intent-filter#action:name:com.google.android.gms.iid.InstanceID
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:48:13-50:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:49:17-80
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:49:25-77
+activity#com.olango.MainActivity
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:55:7-64:18
+	android:label
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:57:9-41
+	android:windowSoftInputMode
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:59:9-51
+	android:configChanges
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:58:9-79
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:56:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:60:9-63:25
+action#android.intent.action.MAIN
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:61:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:62:13-73
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:62:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:65:7-84
+	android:name
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:65:17-81
+uses-sdk
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f15f2c10dd03afadad158d010498ad07/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9d4d9cfce2d86134f8042c3f007b3f39/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9d4d9cfce2d86134f8042c3f007b3f39/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3f2791d3ecf41ed9e54a91eddcfa2ad3/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3f2791d3ecf41ed9e54a91eddcfa2ad3/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fb8f7031ef66b8147647717c2aecca12/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fb8f7031ef66b8147647717c2aecca12/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-av] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-av/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-av] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-av/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d8be10a588e4603866e92836b02ef24/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d8be10a588e4603866e92836b02ef24/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7a392fb51ffdc9439062033866524f7b/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7a392fb51ffdc9439062033866524f7b/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b377054ee625b6b510fb847776d0174d/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b377054ee625b6b510fb847776d0174d/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72c10e262845a1c2de4f6980a55c9ba9/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72c10e262845a1c2de4f6980a55c9ba9/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/edc036483ef40607e8355e7cf0a3668d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/edc036483ef40607e8355e7cf0a3668d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/103107df96b740ba2a049c2d6e82f159/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/103107df96b740ba2a049c2d6e82f159/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd64b0e5e5a7f144b8735df05b5509e0/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd64b0e5e5a7f144b8735df05b5509e0/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/11365d38218db6eea7ac928cd38f3937/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/11365d38218db6eea7ac928cd38f3937/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0572b28591fe495e4969e45a9b8dc9c1/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0572b28591fe495e4969e45a9b8dc9c1/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bb7f6bd7a0a2da7328d8fd0afe87a97a/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bb7f6bd7a0a2da7328d8fd0afe87a97a/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b6af4929e5c18857e99f1008808e49d4/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b6af4929e5c18857e99f1008808e49d4/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6296b2984ac16656e6634afb9c32667e/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6296b2984ac16656e6634afb9c32667e/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/874c23737bb823accb64b8c68ad31d78/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/874c23737bb823accb64b8c68ad31d78/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/47746cad00cfcd8c16887c338d7609a3/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/47746cad00cfcd8c16887c338d7609a3/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d2f5fc1d1c30426657ccfbb83417c32/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d2f5fc1d1c30426657ccfbb83417c32/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b18a22a7d488d5a4c630bd657737271b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b18a22a7d488d5a4c630bd657737271b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0277a12eb6350899229e62710291b7ca/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0277a12eb6350899229e62710291b7ca/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cadaaccd4723a540ab06962cb1a396e0/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cadaaccd4723a540ab06962cb1a396e0/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d888c399867a8f38619658b14b6b7815/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d888c399867a8f38619658b14b6b7815/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/55c8e6e745aacceb492535bf431d5720/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/55c8e6e745aacceb492535bf431d5720/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7f0bf633a3d197f98fc6254ea1bf1091/exoplayer-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7f0bf633a3d197f98fc6254ea1bf1091/exoplayer-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72ae321c15b8bbd847e3b16df83677b7/jetified-exoplayer-ui-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/72ae321c15b8bbd847e3b16df83677b7/jetified-exoplayer-ui-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2423a3e8c7d595310e6661cc5002b018/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2423a3e8c7d595310e6661cc5002b018/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/03427883b80ab78f3e6a356eba4df863/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/03427883b80ab78f3e6a356eba4df863/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/32d6d4909a16d2ee7ad0c6d18077c046/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/32d6d4909a16d2ee7ad0c6d18077c046/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d38c20afe116acc8f623a554a3e696f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8d38c20afe116acc8f623a554a3e696f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7fb53a1349254ee0a9efa4b97d2f28bf/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/7fb53a1349254ee0a9efa4b97d2f28bf/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2b97e8589c8f9cc9adcb585b2c3183a0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/2b97e8589c8f9cc9adcb585b2c3183a0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6b6a5f0e2028213443bf564f1c585c31/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6b6a5f0e2028213443bf564f1c585c31/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa938dd1ba07eb510b386f61bb706de8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa938dd1ba07eb510b386f61bb706de8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d45e841e71572de25c8d80ebec98d932/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d45e841e71572de25c8d80ebec98d932/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/05209a9bf6c0004aab305c3d2c2ddb5c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/05209a9bf6c0004aab305c3d2c2ddb5c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a66c090665c19e2493fdf5aa90a98622/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a66c090665c19e2493fdf5aa90a98622/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f3d3c9ef953af10d388177573d1cb616/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/f3d3c9ef953af10d388177573d1cb616/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0022fd16c151c1612c3e6b31539de883/jetified-extension-okhttp-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/0022fd16c151c1612c3e6b31539de883/jetified-extension-okhttp-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5bae884c7fb1e1b4e47fec5c491d0c2c/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5bae884c7fb1e1b4e47fec5c491d0c2c/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a072b7027d050ba4a28e8ed0f5aedf24/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a072b7027d050ba4a28e8ed0f5aedf24/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31e1e0ea40abf50bc1f09972fcda6618/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31e1e0ea40abf50bc1f09972fcda6618/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9a92904b990e3cb14e2f3d12a60bfcf2/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/9a92904b990e3cb14e2f3d12a60bfcf2/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a22faa9157efca0a4b52fc5b5dc291b0/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/a22faa9157efca0a4b52fc5b5dc291b0/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dc86846819bd1daeed9eba8d2c71e55e/jetified-exoplayer-dash-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dc86846819bd1daeed9eba8d2c71e55e/jetified-exoplayer-dash-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/1eb8abff1f7b02686466e947de706973/jetified-exoplayer-hls-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/1eb8abff1f7b02686466e947de706973/jetified-exoplayer-hls-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b12346832fc342f9ed229d662dbb95dc/jetified-exoplayer-smoothstreaming-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b12346832fc342f9ed229d662dbb95dc/jetified-exoplayer-smoothstreaming-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/41dca6c46c218c40bbd3d5609ea55f87/jetified-exoplayer-core-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/41dca6c46c218c40bbd3d5609ea55f87/jetified-exoplayer-core-2.9.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5080ea4c3a94602e590d65de9668e7d9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5080ea4c3a94602e590d65de9668e7d9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bf49d1e9988754dbe0dc022e3b661608/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/bf49d1e9988754dbe0dc022e3b661608/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d619842a7eaf1130694ae1c01f978c20/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/d619842a7eaf1130694ae1c01f978c20/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ba1ca6d966f0903bfbc154284174b676/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ba1ca6d966f0903bfbc154284174b676/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cf1beec41d3606c2f878b1c5dd26a539/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/cf1beec41d3606c2f878b1c5dd26a539/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5e0444443ffb82f923834973bbf621d3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/5e0444443ffb82f923834973bbf621d3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/eacaec61a98c327bdb4a7a1173d930da/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/eacaec61a98c327bdb4a7a1173d930da/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3576101df1addecb45ee4a121a0809b3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3576101df1addecb45ee4a121a0809b3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6518c549eca7c8c139a4cbcfbf192b2e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6518c549eca7c8c139a4cbcfbf192b2e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/30fc2018b50bb1c7a15b711603c4a865/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/30fc2018b50bb1c7a15b711603c4a865/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/351569c666d8104a7f01c823443d03b2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/351569c666d8104a7f01c823443d03b2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/16fabe6dcd735bce6cbbba414f807cdc/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/16fabe6dcd735bce6cbbba414f807cdc/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa0b1027f558de57c12165dc8f2c7c04/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/fa0b1027f558de57c12165dc8f2c7c04/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/49e26898d1009650bb5dc8e6044bc522/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/49e26898d1009650bb5dc8e6044bc522/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6f0cedc48c12b56834c7d893670cc9c4/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6f0cedc48c12b56834c7d893670cc9c4/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd29d270aba8770afca9eb306508d8aa/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/dd29d270aba8770afca9eb306508d8aa/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6a03746f58282d4e96ad6f4f9de52f62/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/6a03746f58282d4e96ad6f4f9de52f62/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/01bc2f797ba9e95ddda85e7f7506761c/jetified-android-scalablevideoview-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/01bc2f797ba9e95ddda85e7f7506761c/jetified-android-scalablevideoview-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/e6923a09fe18ccffb4f5d517fa581823/relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/e6923a09fe18ccffb4f5d517fa581823/relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/24692e9fc26c673b473f12018ab21212/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/24692e9fc26c673b473f12018ab21212/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from [:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from [:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-72
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:14:5-79
+MERGED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/41dca6c46c218c40bbd3d5609ea55f87/jetified-exoplayer-core-2.9.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/41dca6c46c218c40bbd3d5609ea55f87/jetified-exoplayer-core-2.9.2/AndroidManifest.xml:24:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/08e5ab55bcfafa0ef1249a5090a8d0c4/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:15:22-73
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/31eb20e4bf7c1fdeea830bef7d165037/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:26:13-120

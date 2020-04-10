@@ -1,0 +1,346 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.olango"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:5:5-77
+12-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:5:22-75
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:6:5-66
+13-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:6:22-63
+14
+15    <!-- OPTIONAL PERMISSIONS, REMOVE WHATEVER YOU DO NOT NEED -->
+16    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+16-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:9:5-75
+16-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:9:22-72
+17    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+17-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:10:5-80
+17-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:10:22-77
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:11:5-75
+18-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:11:22-72
+19    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+19-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:12:5-74
+19-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:12:22-71
+20    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+20-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:13:5-80
+20-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:13:22-77
+21
+22    <!-- These require runtime permissions on M -->
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:16:5-81
+23-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:16:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:17:5-79
+24-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:17:22-76
+25    <uses-permission android:name="android.permission.CAMERA" />
+25-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:18:5-65
+25-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:18:22-62
+26    <uses-permission android:name="android.permission.READ_CONTACTS" />
+26-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:19:5-72
+26-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:19:22-69
+27    <uses-permission android:name="android.permission.READ_CALENDAR" />
+27-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:20:5-72
+27-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:20:22-69
+28    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+28-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:21:5-73
+28-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:21:22-70
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:22:5-80
+29-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:22:22-77
+30    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+30-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:23:5-71
+30-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:23:22-68
+31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+31-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:24:5-81
+31-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:24:22-78
+32    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+32-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:25:5-73
+32-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:25:22-70
+33    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+33-->[:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-75
+33-->[:react-native-twilio-programmable-voice] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/react-native-twilio-programmable-voice/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-72
+34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+34-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+34-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:22-76
+35    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+35-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+35-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:22-65
+36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+36-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+36-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+37    <uses-permission android:name="android.permission.STORAGE" />
+37-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+37-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+38    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+38-->[:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+38-->[:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+39    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+39-->[com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:15:5-76
+39-->[com.twilio:voice-android:2.0.7] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/8963105c4c0e955d53489c58e31bcf52/voice-android-2.0.7/AndroidManifest.xml:15:22-73
+40    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+40-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+40-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+41    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+41-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
+41-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
+42    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" /> <!-- END OPTIONAL PERMISSIONS -->
+42-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
+42-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
+43    <application
+43-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:28:5-66:19
+44        android:name="com.olango.MainApplication"
+44-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:29:7-38
+45        android:allowBackup="false"
+45-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:33:7-34
+46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+46-->[androidx.core:core:1.1.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:24:18-86
+47        android:debuggable="true"
+48        android:icon="@mipmap/ic_launcher"
+48-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:31:7-41
+49        android:label="@string/app_name"
+49-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:30:7-39
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:32:7-52
+51        android:theme="@style/AppTheme" >
+51-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:34:7-38
+52
+53        <!-- Twilio Voice -->
+54        <!-- [START fcm_listener] -->
+55        <service android:name="com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseMessagingService" >
+55-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:37:9-42:19
+55-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:38:13-92
+56            <intent-filter>
+56-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:39:13-41:29
+57                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+57-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:17-78
+57-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:25-75
+58            </intent-filter>
+59        </service>
+60        <!-- [END fcm_listener] -->
+61        <!-- [START instanceId_listener] -->
+62        <service
+62-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:45:9-51:19
+63            android:name="com.hoxfon.react.RNTwilioVoice.fcm.VoiceFirebaseInstanceIDService"
+63-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:46:13-93
+64            android:exported="false" >
+64-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:47:13-37
+65            <intent-filter>
+65-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:48:13-50:29
+66                <action android:name="com.google.android.gms.iid.InstanceID" />
+66-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:49:17-80
+66-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:49:25-77
+67            </intent-filter>
+68        </service>
+69        <!-- [END instanceId_listener] -->
+70        <!-- Twilio Voice -->
+71
+72        <activity
+72-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:55:7-64:18
+73            android:name="com.olango.MainActivity"
+73-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:56:9-37
+74            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+74-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:58:9-79
+75            android:label="@string/app_name"
+75-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:57:9-41
+76            android:windowSoftInputMode="adjustResize" >
+76-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:59:9-51
+77            <intent-filter>
+77-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:60:9-63:25
+78                <action android:name="android.intent.action.MAIN" />
+78-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:61:13-65
+78-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:61:21-62
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:62:13-73
+80-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:62:23-70
+81            </intent-filter>
+82        </activity>
+83        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+83-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:65:7-84
+83-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:65:17-81
+84        <!--
+85             FirebaseMessagingService performs security checks at runtime,
+86             but set to not exported to explicitly avoid allowing another app to call it.
+87        -->
+88        <service
+88-->[com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:28:9-34:19
+89            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+89-->[com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:29:13-82
+90            android:exported="false" >
+90-->[com.google.firebase:firebase-messaging:19.0.1] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/00ef6034b9d67fc881a057c546aa2b0c/jetified-firebase-messaging-19.0.1/AndroidManifest.xml:30:13-37
+91            <intent-filter android:priority="-500" >
+91-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:39:13-41:29
+92                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+92-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:17-78
+92-->/home/frontdevguy/Desktop/workspace/olango-frontend/android/app/src/main/AndroidManifest.xml:40:25-75
+93            </intent-filter>
+94        </service>
+95        <service
+95-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+96            android:name="com.google.firebase.components.ComponentDiscoveryService"
+96-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:28:13-84
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+98            android:exported="false" >
+98-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:29:13-37
+99            <meta-data
+99-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
+100                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+100-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.android.gms:play-services-measurement-api:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3d8bed9a53529358f2c71b6407804b7b/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+103                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+103-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+105        </service>
+106
+107        <receiver
+107-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+108            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+108-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+109            android:exported="true"
+109-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+110            android:permission="com.google.android.c2dm.permission.SEND" >
+110-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+111            <intent-filter>
+111-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+112                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+112-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+112-->[com.google.firebase:firebase-iid:20.0.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/946a39d7756c6b05aa38a853bdffc128/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+113            </intent-filter>
+114        </receiver>
+115
+116        <provider
+116-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+117            android:name="expo.modules.filesystem.FileSystemFileProvider"
+117-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+118            android:authorities="com.olango.FileSystemFileProvider"
+118-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+119            android:exported="false"
+119-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+120            android:grantUriPermissions="true" >
+120-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+121            <meta-data
+121-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+122                android:name="android.support.FILE_PROVIDER_PATHS"
+122-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+123                android:resource="@xml/file_system_provider_paths" />
+123-->[:expo-file-system] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+124        </provider>
+125
+126        <service
+126-->[:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+127            android:name="expo.modules.location.services.LocationTaskService"
+127-->[:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+128            android:exported="false" />
+128-->[:expo-location] /home/frontdevguy/Desktop/workspace/olango-frontend/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+129
+130        <receiver
+130-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
+131            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+131-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
+132            android:enabled="true"
+132-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
+133            android:exported="false" >
+133-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
+134        </receiver>
+135        <receiver
+135-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+136            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+136-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
+137            android:enabled="true"
+137-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
+138            android:exported="true"
+138-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
+139            android:permission="android.permission.INSTALL_PACKAGES" >
+139-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
+140            <intent-filter>
+140-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
+141                <action android:name="com.android.vending.INSTALL_REFERRER" />
+141-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
+141-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
+142            </intent-filter>
+143        </receiver>
+144
+145        <service
+145-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
+146            android:name="com.google.android.gms.measurement.AppMeasurementService"
+146-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
+147            android:enabled="true"
+147-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
+148            android:exported="false" />
+148-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
+149        <service
+149-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
+150            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+150-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
+151            android:enabled="true"
+151-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
+153            android:permission="android.permission.BIND_JOB_SERVICE" />
+153-->[com.google.android.gms:play-services-measurement:17.2.2] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/ac2605da77983b497481f9e2091aefdd/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
+154
+155        <provider
+155-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+156            android:name="com.google.firebase.provider.FirebaseInitProvider"
+156-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+157            android:authorities="com.olango.firebaseinitprovider"
+157-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+158            android:exported="false"
+158-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+159            android:initOrder="100" />
+159-->[com.google.firebase:firebase-common:19.3.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/3b674720d8e9023d3d691a7e79121d4b/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+160
+161        <activity
+161-->[com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+162            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+162-->[com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+163            android:exported="false"
+163-->[com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+164            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+164-->[com.google.android.gms:play-services-base:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b989d78505a527364775fcd163b70614/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+165
+166        <meta-data
+166-->[com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+167            android:name="com.google.android.gms.version"
+167-->[com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+168            android:value="@integer/google_play_services_version" />
+168-->[com.google.android.gms:play-services-basement:17.0.0] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/b5180798206fca92660d00e7dd68b25e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+169
+170        <service
+170-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
+171            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
+171-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
+172            android:exported="false" />
+172-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
+173        <service
+173-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
+174            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
+174-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
+175            android:exported="false" />
+175-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
+176        <service
+176-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
+177            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
+177-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:26:13-120
+178            android:exported="false" />
+178-->[io.nlopez.smartlocation:library:3.2.11] /home/frontdevguy/.gradle/caches/transforms-2/files-2.1/798767f112622c89b394cd5c725e38a3/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
+179    </application>
+180
+181</manifest>
