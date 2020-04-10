@@ -1,5 +1,6 @@
 import React, { useReducer, Fragment } from "react";
-import { ActivityIndicator, AsyncStorage } from "react-native";
+import { ActivityIndicator} from "react-native";
+import AsyncStorage from '@react-native-community/async-storage';
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import CenterChild from "../components/CenterChild";

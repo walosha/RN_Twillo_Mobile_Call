@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871272818991",
+    "firebase_url": "https://olango-b7909.firebaseio.com",
+    "project_id": "olango-b7909",
+    "storage_bucket": "olango-b7909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871272818991:android:2ec02750e428c18b6159da",
+        "android_client_info": {
+          "package_name": "com.nzenweofor.olango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871272818991-m6o0pk9em675t9e81vcj66fldc2jp8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ORcdszknyYmY-Dw3NZ7upBkUnykJIR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871272818991-m6o0pk9em675t9e81vcj66fldc2jp8s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871272818991-m0pu64nqpek3u8nioksje3l5irb575bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nzenweofor.olango"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
